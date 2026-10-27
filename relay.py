@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 HOSTS = ("teapawt.org", "nitter.gq", "xitter.gq", "xitter.cf", "teapaw.org", "teapawt.net")
 ACCOUNTS = [
+    # default / AI / tech
     "OpenAI",
     "elonmusk",
     "Reuters",
@@ -28,6 +29,28 @@ ACCOUNTS = [
     "BBCWorld",
     "GoogleDeepMind",
     "SCMPNews",
+    "AnthropicAI",
+    "huggingface",
+    "sama",
+    "karpathy",
+    # news
+    "AP",
+    "nytimes",
+    "Bloomberg",
+    "WSJ",
+    # science / China / fun
+    "SpaceX",
+    "Nature",
+    "ScienceMagazine",
+    "ESA",
+    "XHNews",
+    "PDChina",
+    "globaltimesnews",
+    "caixin",
+    "dril",
+    "internetarchive",
+    "xkcd",
+    "TheOnion",
 ]
 QUERIES = [
     ("AI", "AI"),
@@ -269,6 +292,7 @@ def main():
     for handle in ACCOUNTS:
         try:
             data = fetch_timeline(handle)
+            time.sleep(0.15)
             user = data["user"]
             accounts.append({
                 "screen_name": user.get("screen_name") or handle,
@@ -310,6 +334,7 @@ def main():
     for query, label in QUERIES:
         try:
             data = fetch_search(query)
+            time.sleep(0.15)
             searches[query] = {
                 "label": label,
                 "query": query,
