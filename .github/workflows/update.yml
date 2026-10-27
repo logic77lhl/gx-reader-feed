@@ -11,6 +11,11 @@ on:
         description: "逗号分隔的搜索词；留空使用默认列表"
         required: false
         default: ""
+      top:
+        description: "是否抓取 Top 热门结果"
+        required: false
+        default: "false"
+        type: boolean
 
 permissions:
   contents: write
@@ -26,6 +31,7 @@ jobs:
     env:
       RELAY_ACCOUNTS: ${{ inputs.accounts }}
       RELAY_QUERIES: ${{ inputs.queries }}
+      RELAY_TOP: ${{ inputs.top }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
