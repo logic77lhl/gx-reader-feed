@@ -45,11 +45,13 @@ QUERY_DEFAULTS = [
     ("space", "太空"),
     ("photography", "摄影"),
     ("gaming", "游戏"),
-    ("ASMR 中文", "ASMR 中文"),
-    ("ASMR 音声", "音声"),
+    ("中文音声", "中文音声·热"),
+    ("ASMR 中文", "ASMR中文·热"),
+    ("音声", "音声·热"),
     ("jok", "jok"),
     ("north", "north"),
     ("xiangshuijiao", "想睡觉"),
+    ("chichi", "chichi"),
 ]
 
 
