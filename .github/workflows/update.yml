@@ -1,9 +1,16 @@
 name: update-x-feed
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      accounts:
+        description: "逗号分隔的账号；留空使用默认列表"
+        required: false
+        default: ""
+      queries:
+        description: "逗号分隔的搜索词；留空使用默认列表"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -15,7 +22,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    env:
+      RELAY_ACCOUNTS: ${{ inputs.accounts }}
+      RELAY_QUERIES: ${{ inputs.queries }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
