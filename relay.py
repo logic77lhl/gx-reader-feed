@@ -8,6 +8,7 @@ so it does not need direct access to Nitter or X. No credentials are used.
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from datetime import datetime, timezone
@@ -19,40 +20,21 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 HOSTS = ("teapawt.org", "nitter.gq", "xitter.gq", "xitter.cf", "teapaw.org", "teapawt.net")
-ACCOUNTS = [
+ACCOUNTS_DEFAULT = [
     # default / AI / tech
-    "OpenAI",
-    "elonmusk",
-    "Reuters",
-    "NASA",
-    "TechCrunch",
-    "BBCWorld",
-    "GoogleDeepMind",
-    "SCMPNews",
-    "AnthropicAI",
-    "huggingface",
-    "sama",
-    "karpathy",
+    "OpenAI", "elonmusk", "Reuters", "NASA", "TechCrunch", "BBCWorld",
+    "GoogleDeepMind", "SCMPNews", "AnthropicAI", "huggingface", "sama",
+    "karpathy", "ylecun", "MistralAI", "xai",
     # news
-    "AP",
-    "nytimes",
-    "Bloomberg",
-    "WSJ",
-    # science / China / fun
-    "SpaceX",
-    "Nature",
-    "ScienceMagazine",
-    "ESA",
-    "XHNews",
-    "PDChina",
-    "globaltimesnews",
-    "caixin",
-    "dril",
-    "internetarchive",
-    "xkcd",
-    "TheOnion",
+    "AP", "nytimes", "WSJ", "Bloomberg", "FT", "TheEconomist", "CNN", "AlJazeera",
+    # science / China / business / dev / fun
+    "SpaceX", "Nature", "ScienceMagazine", "ESA", "CERN",
+    "XHNews", "PDChina", "globaltimesnews", "caixin",
+    "CNBC", "Forbes", "business",
+    "github", "rustlang", "golang", "ThePracticalDev", "freeCodeCamp",
+    "dril", "internetarchive", "xkcd", "TheOnion", "verified",
 ]
-QUERIES = [
+QUERY_DEFAULTS = [
     ("AI", "AI"),
     ("OpenAI", "OpenAI"),
     ("technology", "科技"),
@@ -61,6 +43,21 @@ QUERIES = [
     ("space", "太空"),
     ("photography", "摄影"),
     ("gaming", "游戏"),
+]
+
+
+def env_list(name: str, default: list[str]) -> list[str]:
+    raw = os.getenv(name, "").strip()
+    if not raw:
+        return list(default)
+    return [item.strip() for item in raw.split(",") if item.strip()]
+
+
+ACCOUNTS = env_list("RELAY_ACCOUNTS", ACCOUNTS_DEFAULT)
+_QUERY_LABELS = {query: label for query, label in QUERY_DEFAULTS}
+QUERIES = [
+    (query, _QUERY_LABELS.get(query, query))
+    for query in env_list("RELAY_QUERIES", [query for query, _ in QUERY_DEFAULTS])
 ]
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
