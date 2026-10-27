@@ -274,8 +274,8 @@ def fetch_timeline(handle: str):
     return {"user": user, "tweets": tweets, "via": f"Nitter · {host}"}
 
 
-def fetch_search(query: str):
-    html, host = nitter_get(f"/search?f=tweets&q={quote(query)}")
+def fetch_search(query: str, mode: str = "tweets"):
+    html, host = nitter_get(f"/search?f={quote(mode)}&q={quote(query)}")
     _, tweets = parse_html(html, host, 20)
     return {"tweets": tweets, "via": f"Nitter · {host}"}
 
@@ -335,9 +335,10 @@ def main():
 
     searches = {}
     search_errors = []
+    top_mode = os.getenv("RELAY_TOP", "").strip() == "1"
     for query, label in QUERIES:
         try:
-            data = fetch_search(query)
+            data = fetch_search(query, "top" if top_mode else "tweets")
             time.sleep(0.15)
             searches[query] = {
                 "label": label,
