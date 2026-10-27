@@ -48,4 +48,8 @@ jobs:
           git add feed.json search.json
           git diff --cached --quiet && exit 0
           git commit -m "update x feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 3
+          done
+          exit 1
