@@ -124,7 +124,7 @@ def stat(item, icon: str):
     return int(digits) if digits else 0
 
 
-def norm_item(item, host: str):
+def norm_item(item, host: str, owner: str = ""):
     link = item.select_one("a.tweet-link")
     href = link.get("href", "") if link else ""
     m = re.search(r"/([A-Za-z0-9_]{1,15})/status/(\d+)", href)
@@ -146,7 +146,7 @@ def norm_item(item, host: str):
     retweeted_by = None
     if retweet_el:
         who = re.sub(r"\s+retweeted$", "", retweet_el.get_text(" ", strip=True), flags=re.I).strip()
-        retweeted_by = {"name": who, "screen_name": ""}
+        retweeted_by = {"name": who, "screen_name": owner}
 
     quoted = None
     quote = item.select_one(".quote")
@@ -218,7 +218,7 @@ def norm_item(item, host: str):
     }
 
 
-def parse_html(html: str, host: str, limit: int = 20):
+def parse_html(html: str, host: str, limit: int = 20, owner: str = ""):
     soup = BeautifulSoup(html, "html.parser")
     items = soup.select(".timeline-item")
     if not items:
@@ -248,7 +248,7 @@ def parse_html(html: str, host: str, limit: int = 20):
     tweets = []
     seen = set()
     for item in items:
-        tweet = norm_item(item, host)
+        tweet = norm_item(item, host, owner)
         if not tweet or not tweet.get("id") or tweet["id"] in seen:
             continue
         if not tweet.get("text") and not tweet.get("photos") and not tweet.get("videos"):
@@ -266,7 +266,7 @@ def parse_html(html: str, host: str, limit: int = 20):
 
 def fetch_timeline(handle: str):
     html, host = nitter_get(f"/{quote(handle)}")
-    user, tweets = parse_html(html, host, 20)
+    user, tweets = parse_html(html, host, 20, handle)
     return {"user": user, "tweets": tweets, "via": f"Nitter · {host}"}
 
 
