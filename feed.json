@@ -1,6 +1,6 @@
 {
  "ok": true,
- "updated_at": "2026-10-27T13:14:37.256115+00:00",
+ "updated_at": "2026-10-27T13:16:58.982821+00:00",
  "via": "GitHub Actions · Nitter 公共实例",
  "accounts": [
   {
@@ -450,6 +450,99 @@
  ],
  "tweets": [
   {
+   "id": "2115070311842324580",
+   "url": "https://x.com/FT/status/2115070311842324580",
+   "text": "Russia and Ukraine begin local ceasefire in frontline city ft.trib.al/eBoe8VI",
+   "created_at": "2026-10-27T13:17:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Financial Times",
+    "screen_name": "FT",
+    "avatar": "https://pbs.twimg.com/profile_images/931156393108885504/EqEMtLhM_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": null,
+    "views": 0
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115069902864142365",
+   "url": "https://x.com/BBCWorld/status/2115069902864142365",
+   "text": "Norway and Finland leaders hold rare call with Putin bbc.in/48eaILQ",
+   "created_at": "2026-10-27T13:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": 1,
+    "views": 13900
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115069817510056370",
+   "url": "https://x.com/business/status/2115069817510056370",
+   "text": "Ares said it agreed to buy private credit fund MidCap Financial from Apollo in a cash-and-stock transaction with an enterprise value of $2.6 billion bloomberg.com/news/articles/…",
+   "created_at": "2026-10-27T13:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Bloomberg",
+    "screen_name": "business",
+    "avatar": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": null,
+    "views": 6079
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
    "id": "2115069547141275848",
    "url": "https://x.com/opinion/status/2115069547141275848",
    "text": "\"What happens to parties in safe states: They get lazy and you end up with weak candidates who survive, until they don't,\" @DavidMDrucker says.\n\nWATCH LIVE: xitter.cf/i/broadcasts/1nGeLMgam…",
@@ -468,7 +561,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 83
+    "views": 1506
    },
    "photos": [],
    "videos": [],
@@ -502,7 +595,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 2288
+    "views": 3095
    },
    "photos": [],
    "videos": [],
@@ -533,7 +626,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 4036
+    "views": 5319
    },
    "photos": [],
    "videos": [],
@@ -560,11 +653,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1,
+    "likes": 2,
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 1610
+    "views": 2668
    },
    "photos": [],
    "videos": [],
@@ -594,11 +687,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 6,
+    "likes": 7,
     "retweets": 4,
-    "replies": 1,
+    "replies": 2,
     "quotes": null,
-    "views": 13811
+    "views": 15726
    },
    "photos": [],
    "videos": [],
@@ -625,11 +718,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 4,
+    "likes": 5,
     "retweets": 1,
-    "replies": 0,
+    "replies": 1,
     "quotes": null,
-    "views": 11387
+    "views": 12913
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo7mJqWkAAWIKy.jpg?name=large&format=webp"
@@ -658,11 +751,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2,
+    "likes": 3,
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 1433
+    "views": 1584
    },
    "photos": [],
    "videos": [
@@ -696,10 +789,10 @@
    },
    "stats": {
     "likes": 3,
-    "retweets": 1,
+    "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 8366
+    "views": 9190
    },
    "photos": [],
    "videos": [],
@@ -728,9 +821,9 @@
    "stats": {
     "likes": 9,
     "retweets": 1,
-    "replies": 5,
+    "replies": 6,
     "quotes": null,
-    "views": 3604
+    "views": 4062
    },
    "photos": [],
    "videos": [],
@@ -757,11 +850,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3,
-    "retweets": 0,
+    "likes": 5,
+    "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 8747
+    "views": 10683
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo7iNvXoAAnKnS.jpg?name=large&format=webp"
@@ -790,11 +883,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 9,
+    "likes": 11,
     "retweets": 1,
-    "replies": 0,
+    "replies": 2,
     "quotes": null,
-    "views": 1721
+    "views": 1947
    },
    "photos": [],
    "videos": [],
@@ -825,7 +918,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 1811
+    "views": 2650
    },
    "photos": [],
    "videos": [],
@@ -859,7 +952,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": null,
-    "views": 11024
+    "views": 11651
    },
    "photos": [],
    "videos": [],
@@ -890,7 +983,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3963
+    "views": 4428
    },
    "photos": [],
    "videos": [],
@@ -924,7 +1017,7 @@
     "retweets": 1,
     "replies": 3,
     "quotes": 1,
-    "views": 4631
+    "views": 5104
    },
    "photos": [],
    "videos": [],
@@ -955,7 +1048,7 @@
     "retweets": 2,
     "replies": 6,
     "quotes": null,
-    "views": 8015
+    "views": 8429
    },
    "photos": [],
    "videos": [],
@@ -986,7 +1079,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 4226
+    "views": 4591
    },
    "photos": [],
    "videos": [],
@@ -1020,7 +1113,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 10822
+    "views": 11677
    },
    "photos": [],
    "videos": [
@@ -1057,7 +1150,7 @@
     "retweets": 1,
     "replies": 2,
     "quotes": null,
-    "views": 9858
+    "views": 10319
    },
    "photos": [],
    "videos": [
@@ -1094,7 +1187,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 17142
+    "views": 18128
    },
    "photos": [],
    "videos": [],
@@ -1121,11 +1214,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7,
+    "likes": 8,
     "retweets": 1,
-    "replies": 2,
+    "replies": 3,
     "quotes": null,
-    "views": 15007
+    "views": 15716
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo5XB7W4AArdoh.jpg?name=large&format=webp"
@@ -1158,7 +1251,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 14867
+    "views": 15722
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo5UqmXgAA_nkS.jpg?name=large&format=webp"
@@ -1187,11 +1280,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3,
+    "likes": 5,
     "retweets": 2,
     "replies": 0,
     "quotes": 1,
-    "views": 2008
+    "views": 2096
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo5XPOaQAAIe3n.jpg?name=large&format=webp",
@@ -1226,7 +1319,7 @@
     "retweets": 3,
     "replies": 0,
     "quotes": null,
-    "views": 1352
+    "views": 1417
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnTrjdbgAA0zVs.jpg?name=large&format=webp",
@@ -1262,7 +1355,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 9875
+    "views": 10297
    },
    "photos": [],
    "videos": [],
@@ -1293,7 +1386,7 @@
     "retweets": 0,
     "replies": 4,
     "quotes": null,
-    "views": 4330
+    "views": 4727
    },
    "photos": [],
    "videos": [],
@@ -1327,7 +1420,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 3799
+    "views": 4077
    },
    "photos": [],
    "videos": [],
@@ -1361,7 +1454,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 11530
+    "views": 11845
    },
    "photos": [],
    "videos": [],
@@ -1392,7 +1485,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 5512
+    "views": 5700
    },
    "photos": [],
    "videos": [],
@@ -1426,7 +1519,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 5266
+    "views": 5421
    },
    "photos": [],
    "videos": [],
@@ -1456,11 +1549,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 11,
+    "likes": 12,
     "retweets": 4,
-    "replies": 2,
+    "replies": 3,
     "quotes": 2,
-    "views": 24299
+    "views": 24882
    },
    "photos": [],
    "videos": [],
@@ -1487,11 +1580,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 24,
-    "retweets": 15,
-    "replies": 10,
+    "likes": 31,
+    "retweets": 16,
+    "replies": 11,
     "quotes": 1,
-    "views": 15129
+    "views": 15749
    },
    "photos": [],
    "videos": [],
@@ -1522,41 +1615,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 5758
-   },
-   "photos": [],
-   "videos": [],
-   "card_image": "",
-   "quoted": null,
-   "is_retweet": true,
-   "retweeted_by": {
-    "name": "Bloomberg",
-    "screen_name": "business"
-   },
-   "possibly_sensitive": false,
-   "source": "nitter",
-   "via": "Nitter · teapawt.org"
-  },
-  {
-   "id": "2115062539536961849",
-   "url": "https://x.com/opinion/status/2115062539536961849",
-   "text": "\"The big question on everyone's minds: What will happen with the US Senate?\" @skgreen asks.\n\nWATCH LIVE: xitter.cf/i/broadcasts/1nGeLMgam…",
-   "created_at": "2026-10-27T12:46:00+00:00",
-   "lang": "",
-   "author": {
-    "name": "Bloomberg Opinion",
-    "screen_name": "opinion",
-    "avatar": "https://pbs.twimg.com/profile_images/1631725792764862464/4Z988KZn_400x400.jpg",
-    "verified": true,
-    "followers": null,
-    "description": ""
-   },
-   "stats": {
-    "likes": 5,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": null,
-    "views": 6427
+    "views": 5891
    },
    "photos": [],
    "videos": [],
@@ -1590,7 +1649,7 @@
     "retweets": 13,
     "replies": 3,
     "quotes": 1,
-    "views": 22787
+    "views": 23270
    },
    "photos": [],
    "videos": [],
@@ -1618,10 +1677,10 @@
    },
    "stats": {
     "likes": 12,
-    "retweets": 3,
+    "retweets": 4,
     "replies": 6,
     "quotes": null,
-    "views": 21240
+    "views": 21753
    },
    "photos": [],
    "videos": [
@@ -1658,7 +1717,7 @@
     "retweets": 4,
     "replies": 2,
     "quotes": 1,
-    "views": 13452
+    "views": 13701
    },
    "photos": [
     "https://pbs.twimg.com/media/HVo15nhXoAAgdxJ.jpg?name=large&format=webp"
@@ -1687,11 +1746,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2,
+    "likes": 3,
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 2458
+    "views": 3352
    },
    "photos": [],
    "videos": [],
@@ -1725,7 +1784,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 7222
+    "views": 7516
    },
    "photos": [],
    "videos": [],
@@ -1759,7 +1818,7 @@
     "retweets": 4,
     "replies": 3,
     "quotes": null,
-    "views": 24107
+    "views": 24477
    },
    "photos": [],
    "videos": [],
@@ -1790,7 +1849,7 @@
     "retweets": 1,
     "replies": 3,
     "quotes": null,
-    "views": 14411
+    "views": 14729
    },
    "photos": [],
    "videos": [],
@@ -1818,10 +1877,10 @@
    },
    "stats": {
     "likes": 12,
-    "retweets": 1,
-    "replies": 10,
+    "retweets": 2,
+    "replies": 11,
     "quotes": null,
-    "views": 11095
+    "views": 11306
    },
    "photos": [],
    "videos": [],
@@ -1852,7 +1911,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 1039
+    "views": 1061
    },
    "photos": [],
    "videos": [],
@@ -1883,7 +1942,7 @@
     "retweets": 3,
     "replies": 4,
     "quotes": null,
-    "views": 25315
+    "views": 25648
    },
    "photos": [],
    "videos": [],
@@ -1914,7 +1973,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 2498
+    "views": 2529
    },
    "photos": [
     "https://pbs.twimg.com/media/HVozmLqacAAgCdL.jpg?name=large&format=webp"
@@ -1943,11 +2002,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 14,
+    "likes": 15,
     "retweets": 4,
     "replies": 2,
     "quotes": null,
-    "views": 21277
+    "views": 21785
    },
    "photos": [],
    "videos": [],
@@ -1975,10 +2034,10 @@
    },
    "stats": {
     "likes": 13,
-    "retweets": 3,
+    "retweets": 4,
     "replies": 6,
     "quotes": null,
-    "views": 12324
+    "views": 12503
    },
    "photos": [],
    "videos": [
@@ -2015,7 +2074,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": 2,
-    "views": 11484
+    "views": 11764
    },
    "photos": [],
    "videos": [
@@ -2055,7 +2114,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 24094
+    "views": 24460
    },
    "photos": [],
    "videos": [],
@@ -2086,7 +2145,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": null,
-    "views": 24448
+    "views": 24930
    },
    "photos": [],
    "videos": [
@@ -2123,7 +2182,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": null,
-    "views": 16206
+    "views": 16452
    },
    "photos": [],
    "videos": [],
@@ -2150,11 +2209,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 10,
+    "likes": 12,
     "retweets": 2,
     "replies": 7,
     "quotes": null,
-    "views": 11682
+    "views": 11891
    },
    "photos": [],
    "videos": [],
@@ -2184,8 +2243,8 @@
     "likes": 41,
     "retweets": 16,
     "replies": 10,
-    "quotes": null,
-    "views": 44325
+    "quotes": 1,
+    "views": 45000
    },
    "photos": [],
    "videos": [],
@@ -2212,11 +2271,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 19,
+    "likes": 20,
     "retweets": 5,
-    "replies": 10,
+    "replies": 11,
     "quotes": 3,
-    "views": 13620
+    "views": 13833
    },
    "photos": [],
    "videos": [],
@@ -2247,7 +2306,7 @@
     "retweets": 12,
     "replies": 3,
     "quotes": 2,
-    "views": 13756
+    "views": 14045
    },
    "photos": [],
    "videos": [],
@@ -2278,7 +2337,7 @@
     "retweets": 1,
     "replies": 2,
     "quotes": null,
-    "views": 12277
+    "views": 12420
    },
    "photos": [],
    "videos": [],
@@ -2309,7 +2368,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 1835
+    "views": 1861
    },
    "photos": [],
    "videos": [],
@@ -2336,11 +2395,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 51,
-    "retweets": 20,
-    "replies": 12,
+    "likes": 54,
+    "retweets": 22,
+    "replies": 14,
     "quotes": 2,
-    "views": 29520
+    "views": 29867
    },
    "photos": [],
    "videos": [],
@@ -2371,7 +2430,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 16424
+    "views": 16633
    },
    "photos": [],
    "videos": [],
@@ -2402,7 +2461,7 @@
     "retweets": 2,
     "replies": 8,
     "quotes": null,
-    "views": 4162
+    "views": 4303
    },
    "photos": [
     "https://pbs.twimg.com/media/HVovfPobMAAokUZ.jpg?name=large&format=webp"
@@ -2435,7 +2494,7 @@
     "retweets": 8,
     "replies": 17,
     "quotes": 3,
-    "views": 28353
+    "views": 28603
    },
    "photos": [],
    "videos": [
@@ -2472,7 +2531,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": null,
-    "views": 12295
+    "views": 12412
    },
    "photos": [],
    "videos": [],
@@ -2503,7 +2562,7 @@
     "retweets": 6,
     "replies": 3,
     "quotes": 1,
-    "views": 12524
+    "views": 12642
    },
    "photos": [],
    "videos": [],
@@ -2534,7 +2593,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 11600
+    "views": 11688
    },
    "photos": [],
    "videos": [],
@@ -2565,7 +2624,7 @@
     "retweets": 8,
     "replies": 3,
     "quotes": null,
-    "views": 27271
+    "views": 27513
    },
    "photos": [],
    "videos": [],
@@ -2596,7 +2655,7 @@
     "retweets": 4,
     "replies": 5,
     "quotes": null,
-    "views": 24347
+    "views": 24584
    },
    "photos": [
     "https://pbs.twimg.com/media/HVot3v-WQAEPOBX.jpg?name=large&format=webp"
@@ -2629,7 +2688,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": null,
-    "views": 12226
+    "views": 12318
    },
    "photos": [],
    "videos": [],
@@ -2660,7 +2719,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 4684
+    "views": 4726
    },
    "photos": [
     "https://pbs.twimg.com/media/HVosq2yXMAAf7z3.jpg?name=large&format=webp"
@@ -2693,7 +2752,7 @@
     "retweets": 2,
     "replies": 0,
     "quotes": null,
-    "views": 2744
+    "views": 2764
    },
    "photos": [],
    "videos": [
@@ -2730,7 +2789,7 @@
     "retweets": 22,
     "replies": 41,
     "quotes": 3,
-    "views": 58274
+    "views": 58781
    },
    "photos": [
     "https://pbs.twimg.com/media/HVorzXsWoAEQMFr.jpg?name=large&format=webp"
@@ -2763,7 +2822,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 12999
+    "views": 13115
    },
    "photos": [
     "https://pbs.twimg.com/media/HVor02iWcAAP4NI.jpg?name=large&format=webp"
@@ -2796,7 +2855,7 @@
     "retweets": 7,
     "replies": 2,
     "quotes": null,
-    "views": 27577
+    "views": 27789
    },
    "photos": [],
    "videos": [],
@@ -2823,11 +2882,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 12,
+    "likes": 13,
     "retweets": 5,
     "replies": 11,
     "quotes": 3,
-    "views": 27698
+    "views": 27951
    },
    "photos": [],
    "videos": [
@@ -2864,7 +2923,7 @@
     "retweets": 5,
     "replies": 6,
     "quotes": null,
-    "views": 12226
+    "views": 12345
    },
    "photos": [],
    "videos": [
@@ -2901,7 +2960,7 @@
     "retweets": 1,
     "replies": 5,
     "quotes": null,
-    "views": 17778
+    "views": 17925
    },
    "photos": [
     "https://pbs.twimg.com/media/HVorqOnWsAAk1tC.jpg?name=large&format=webp"
@@ -2934,7 +2993,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 2185
+    "views": 2199
    },
    "photos": [],
    "videos": [
@@ -2967,11 +3026,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 32,
+    "likes": 33,
     "retweets": 6,
     "replies": 13,
     "quotes": 1,
-    "views": 12377
+    "views": 12503
    },
    "photos": [
     "https://pbs.twimg.com/media/HVorn0rXMAA7utc.jpg?name=large&format=webp"
@@ -3004,7 +3063,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 13228
+    "views": 13342
    },
    "photos": [],
    "videos": [],
@@ -3035,7 +3094,7 @@
     "retweets": 3,
     "replies": 6,
     "quotes": 2,
-    "views": 18990
+    "views": 19110
    },
    "photos": [],
    "videos": [],
@@ -3066,7 +3125,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 29905
+    "views": 30056
    },
    "photos": [],
    "videos": [],
@@ -3095,9 +3154,9 @@
    "stats": {
     "likes": 31,
     "retweets": 10,
-    "replies": 18,
-    "quotes": 9,
-    "views": 35415
+    "replies": 19,
+    "quotes": 10,
+    "views": 35734
    },
    "photos": [],
    "videos": [
@@ -3130,11 +3189,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 34,
+    "likes": 35,
     "retweets": 10,
     "replies": 29,
     "quotes": null,
-    "views": 28501
+    "views": 28739
    },
    "photos": [
     "https://pbs.twimg.com/media/HVopKktWQAAEPS6.jpg?name=large&format=webp"
@@ -3167,7 +3226,7 @@
     "retweets": 3,
     "replies": 1,
     "quotes": null,
-    "views": 2786
+    "views": 2797
    },
    "photos": [],
    "videos": [],
@@ -3198,7 +3257,7 @@
     "retweets": 3,
     "replies": 1,
     "quotes": null,
-    "views": 2891
+    "views": 2902
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoog2iaoAASb5X.jpg?name=large&format=webp"
@@ -3227,11 +3286,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 113,
-    "retweets": 56,
-    "replies": 40,
+    "likes": 118,
+    "retweets": 60,
+    "replies": 42,
     "quotes": 14,
-    "views": 42525
+    "views": 43318
    },
    "photos": [],
    "videos": [],
@@ -3262,7 +3321,7 @@
     "retweets": 3,
     "replies": 3,
     "quotes": 1,
-    "views": 18599
+    "views": 18708
    },
    "photos": [],
    "videos": [],
@@ -3293,7 +3352,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 2550
+    "views": 2562
    },
    "photos": [],
    "videos": [
@@ -3330,7 +3389,7 @@
     "retweets": 22,
     "replies": 9,
     "quotes": 2,
-    "views": 20099
+    "views": 20244
    },
    "photos": [],
    "videos": [],
@@ -3357,11 +3416,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 11,
+    "likes": 12,
     "retweets": 4,
     "replies": 3,
     "quotes": null,
-    "views": 2071
+    "views": 2085
    },
    "photos": [
     "https://pbs.twimg.com/media/HVonBy8a4AA8SkQ.jpg?name=large&format=webp"
@@ -3394,7 +3453,7 @@
     "retweets": 4,
     "replies": 1,
     "quotes": null,
-    "views": 7223
+    "views": 7295
    },
    "photos": [
     "https://pbs.twimg.com/media/HVolKhDWgAAz2eX.jpg?name=large&format=webp"
@@ -3427,7 +3486,7 @@
     "retweets": 3,
     "replies": 3,
     "quotes": 1,
-    "views": 20017
+    "views": 20133
    },
    "photos": [],
    "videos": [],
@@ -3454,11 +3513,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 52,
+    "likes": 53,
     "retweets": 15,
     "replies": 16,
     "quotes": 1,
-    "views": 65935
+    "views": 66696
    },
    "photos": [],
    "videos": [],
@@ -3489,7 +3548,7 @@
     "retweets": 4,
     "replies": 1,
     "quotes": 1,
-    "views": 3183
+    "views": 3201
    },
    "photos": [],
    "videos": [
@@ -3526,7 +3585,7 @@
     "retweets": 3,
     "replies": 3,
     "quotes": null,
-    "views": 3620
+    "views": 3679
    },
    "photos": [],
    "videos": [],
@@ -3557,7 +3616,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 14646
+    "views": 14692
    },
    "photos": [],
    "videos": [],
@@ -3584,11 +3643,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 23,
+    "likes": 25,
     "retweets": 4,
     "replies": 8,
     "quotes": 2,
-    "views": 18043
+    "views": 18211
    },
    "photos": [],
    "videos": [],
@@ -3615,11 +3674,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 88,
-    "retweets": 33,
+    "likes": 92,
+    "retweets": 34,
     "replies": 19,
-    "quotes": 7,
-    "views": 20215
+    "quotes": 8,
+    "views": 20543
    },
    "photos": [],
    "videos": [],
@@ -3650,7 +3709,7 @@
     "retweets": 4,
     "replies": 6,
     "quotes": null,
-    "views": 14502
+    "views": 14592
    },
    "photos": [],
    "videos": [],
@@ -3677,11 +3736,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 100,
+    "likes": 102,
     "retweets": 0,
     "replies": 7,
     "quotes": null,
-    "views": 14417
+    "views": 14600
    },
    "photos": [],
    "videos": [],
@@ -3715,7 +3774,7 @@
     "retweets": 3,
     "replies": 10,
     "quotes": null,
-    "views": 19835
+    "views": 19934
    },
    "photos": [],
    "videos": [],
@@ -3742,11 +3801,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 330,
-    "retweets": 133,
-    "replies": 48,
-    "quotes": 9,
-    "views": 51029
+    "likes": 340,
+    "retweets": 136,
+    "replies": 50,
+    "quotes": 10,
+    "views": 51573
    },
    "photos": [],
    "videos": [],
@@ -3775,9 +3834,9 @@
    "stats": {
     "likes": 8,
     "retweets": 6,
-    "replies": 6,
+    "replies": 7,
     "quotes": null,
-    "views": 14023
+    "views": 14068
    },
    "photos": [],
    "videos": [],
@@ -3804,11 +3863,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 18,
+    "likes": 19,
     "retweets": 4,
     "replies": 3,
     "quotes": null,
-    "views": 7165
+    "views": 7239
    },
    "photos": [],
    "videos": [],
@@ -3839,7 +3898,7 @@
     "retweets": 7,
     "replies": 15,
     "quotes": 1,
-    "views": 16836
+    "views": 16990
    },
    "photos": [],
    "videos": [],
@@ -3869,8 +3928,8 @@
     "likes": 19,
     "retweets": 5,
     "replies": 2,
-    "quotes": 2,
-    "views": 14491
+    "quotes": 3,
+    "views": 14550
    },
    "photos": [],
    "videos": [],
@@ -3901,7 +3960,7 @@
     "retweets": 3,
     "replies": 2,
     "quotes": null,
-    "views": 13905
+    "views": 13969
    },
    "photos": [
     "https://pbs.twimg.com/media/HVogJ61WwAAjm1s.jpg?name=large&format=webp"
@@ -3930,11 +3989,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 8,
+    "likes": 9,
     "retweets": 2,
-    "replies": 6,
+    "replies": 7,
     "quotes": null,
-    "views": 16209
+    "views": 16293
    },
    "photos": [],
    "videos": [],
@@ -3965,7 +4024,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": null,
-    "views": 14433
+    "views": 14493
    },
    "photos": [],
    "videos": [],
@@ -3996,7 +4055,7 @@
     "retweets": 11,
     "replies": 5,
     "quotes": 2,
-    "views": 31958
+    "views": 32190
    },
    "photos": [],
    "videos": [],
@@ -4027,7 +4086,7 @@
     "retweets": 3,
     "replies": 15,
     "quotes": null,
-    "views": 13137
+    "views": 13220
    },
    "photos": [],
    "videos": [],
@@ -4054,11 +4113,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 124,
-    "retweets": 49,
+    "likes": 125,
+    "retweets": 50,
     "replies": 48,
     "quotes": 11,
-    "views": 80391
+    "views": 80931
    },
    "photos": [],
    "videos": [],
@@ -4089,7 +4148,7 @@
     "retweets": 6,
     "replies": 3,
     "quotes": 1,
-    "views": 33781
+    "views": 34150
    },
    "photos": [],
    "videos": [],
@@ -4120,7 +4179,7 @@
     "retweets": 0,
     "replies": 3,
     "quotes": null,
-    "views": 20418
+    "views": 20504
    },
    "photos": [],
    "videos": [],
@@ -4151,7 +4210,7 @@
     "retweets": 22,
     "replies": 16,
     "quotes": null,
-    "views": 41864
+    "views": 42064
    },
    "photos": [],
    "videos": [],
@@ -4178,11 +4237,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 153,
+    "likes": 155,
     "retweets": 27,
     "replies": 14,
     "quotes": 3,
-    "views": 8551
+    "views": 8601
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoai5HWYAESHCz.jpg?name=large&format=webp"
@@ -4215,7 +4274,7 @@
     "retweets": 13,
     "replies": 5,
     "quotes": null,
-    "views": 34488
+    "views": 34686
    },
    "photos": [],
    "videos": [],
@@ -4246,7 +4305,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 3810
+    "views": 3820
    },
    "photos": [],
    "videos": [],
@@ -4277,7 +4336,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 3207
+    "views": 3211
    },
    "photos": [],
    "videos": [
@@ -4314,7 +4373,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 21331
+    "views": 21390
    },
    "photos": [],
    "videos": [],
@@ -4345,7 +4404,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 3422
+    "views": 3433
    },
    "photos": [],
    "videos": [
@@ -4382,7 +4441,7 @@
     "retweets": 11,
     "replies": 25,
     "quotes": 2,
-    "views": 60648
+    "views": 60895
    },
    "photos": [],
    "videos": [],
@@ -4413,7 +4472,7 @@
     "retweets": 7,
     "replies": 6,
     "quotes": 1,
-    "views": 30872
+    "views": 30990
    },
    "photos": [],
    "videos": [],
@@ -4444,7 +4503,7 @@
     "retweets": 3,
     "replies": 6,
     "quotes": 1,
-    "views": 15896
+    "views": 15938
    },
    "photos": [],
    "videos": [],
@@ -4475,7 +4534,7 @@
     "retweets": 11,
     "replies": 8,
     "quotes": 2,
-    "views": 17079
+    "views": 17129
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoW_bNWoAAmasG.jpg?name=large&format=webp"
@@ -4508,7 +4567,7 @@
     "retweets": 3,
     "replies": 4,
     "quotes": null,
-    "views": 24828
+    "views": 24911
    },
    "photos": [],
    "videos": [],
@@ -4535,11 +4594,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 107,
+    "likes": 108,
     "retweets": 42,
-    "replies": 45,
+    "replies": 47,
     "quotes": 4,
-    "views": 149940
+    "views": 151649
    },
    "photos": [],
    "videos": [],
@@ -4570,7 +4629,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 16274
+    "views": 16316
    },
    "photos": [],
    "videos": [],
@@ -4601,7 +4660,7 @@
     "retweets": 0,
     "replies": 4,
     "quotes": 1,
-    "views": 15534
+    "views": 15582
    },
    "photos": [],
    "videos": [],
@@ -4628,11 +4687,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 327,
-    "retweets": 76,
-    "replies": 92,
-    "quotes": 3,
-    "views": 27430
+    "likes": 336,
+    "retweets": 77,
+    "replies": 93,
+    "quotes": 4,
+    "views": 27604
    },
    "photos": [],
    "videos": [],
@@ -4663,7 +4722,7 @@
     "retweets": 31,
     "replies": 17,
     "quotes": 8,
-    "views": 57239
+    "views": 57841
    },
    "photos": [],
    "videos": [],
@@ -4694,7 +4753,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 33370
+    "views": 33512
    },
    "photos": [],
    "videos": [],
@@ -4725,7 +4784,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 3614
+    "views": 3638
    },
    "photos": [],
    "videos": [],
@@ -4756,7 +4815,7 @@
     "retweets": 3,
     "replies": 0,
     "quotes": 1,
-    "views": 4138
+    "views": 4150
    },
    "photos": [],
    "videos": [
@@ -4789,11 +4848,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 52,
-    "retweets": 13,
+    "likes": 53,
+    "retweets": 14,
     "replies": 3,
     "quotes": 1,
-    "views": 4574
+    "views": 4588
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoNfiVagAETtbn.jpg?name=large&format=webp"
@@ -4826,7 +4885,7 @@
     "retweets": 5,
     "replies": 16,
     "quotes": null,
-    "views": 22757
+    "views": 22861
    },
    "photos": [],
    "videos": [],
@@ -4857,7 +4916,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 728
+    "views": 733
    },
    "photos": [],
    "videos": [],
@@ -4888,7 +4947,7 @@
     "retweets": 5,
     "replies": 18,
     "quotes": 2,
-    "views": 33614
+    "views": 33791
    },
    "photos": [],
    "videos": [],
@@ -4916,10 +4975,10 @@
    },
    "stats": {
     "likes": 53,
-    "retweets": 16,
-    "replies": 37,
+    "retweets": 17,
+    "replies": 38,
     "quotes": 5,
-    "views": 33881
+    "views": 34049
    },
    "photos": [],
    "videos": [],
@@ -4946,11 +5005,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 44,
+    "likes": 45,
     "retweets": 14,
     "replies": 5,
     "quotes": 1,
-    "views": 28600
+    "views": 28685
    },
    "photos": [],
    "videos": [],
@@ -4981,7 +5040,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3232
+    "views": 3239
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoNKxvbUAAalNf.jpg?name=large&format=webp"
@@ -5014,7 +5073,7 @@
     "retweets": 4,
     "replies": 2,
     "quotes": null,
-    "views": 29430
+    "views": 29559
    },
    "photos": [],
    "videos": [],
@@ -5041,11 +5100,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 15,
+    "likes": 16,
     "retweets": 2,
     "replies": 4,
     "quotes": null,
-    "views": 19313
+    "views": 19350
    },
    "photos": [],
    "videos": [],
@@ -5076,7 +5135,7 @@
     "retweets": 11,
     "replies": 4,
     "quotes": null,
-    "views": 9743
+    "views": 9787
    },
    "photos": [],
    "videos": [],
@@ -5107,7 +5166,7 @@
     "retweets": 4,
     "replies": 4,
     "quotes": 1,
-    "views": 21305
+    "views": 21349
    },
    "photos": [],
    "videos": [],
@@ -5138,7 +5197,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": null,
-    "views": 3474
+    "views": 3478
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoLmpTWQAA5Gov.jpg?name=large&format=webp"
@@ -5167,11 +5226,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 108,
+    "likes": 109,
     "retweets": 19,
     "replies": 15,
     "quotes": 7,
-    "views": 78684
+    "views": 79135
    },
    "photos": [],
    "videos": [],
@@ -5202,7 +5261,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3490
+    "views": 3503
    },
    "photos": [],
    "videos": [],
@@ -5233,7 +5292,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": 2,
-    "views": 27393
+    "views": 27487
    },
    "photos": [],
    "videos": [],
@@ -5264,7 +5323,7 @@
     "retweets": 0,
     "replies": 4,
     "quotes": null,
-    "views": 27748
+    "views": 27846
    },
    "photos": [],
    "videos": [],
@@ -5294,8 +5353,8 @@
     "likes": 28,
     "retweets": 11,
     "replies": 5,
-    "quotes": null,
-    "views": 40785
+    "quotes": 1,
+    "views": 40916
    },
    "photos": [],
    "videos": [],
@@ -5322,11 +5381,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 223,
+    "likes": 225,
     "retweets": 155,
     "replies": 25,
     "quotes": 24,
-    "views": 53590
+    "views": 53986
    },
    "photos": [],
    "videos": [],
@@ -5353,11 +5412,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 43,
+    "likes": 44,
     "retweets": 13,
     "replies": 9,
     "quotes": null,
-    "views": 32753
+    "views": 32864
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoJSDoXEAAZ8JK.jpg?name=large&format=webp"
@@ -5386,11 +5445,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 138,
-    "retweets": 67,
+    "likes": 139,
+    "retweets": 68,
     "replies": 12,
     "quotes": 2,
-    "views": 24495
+    "views": 24606
    },
    "photos": [],
    "videos": [],
@@ -5421,7 +5480,7 @@
     "retweets": 4,
     "replies": 2,
     "quotes": null,
-    "views": 9168
+    "views": 9207
    },
    "photos": [],
    "videos": [],
@@ -5448,11 +5507,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 190,
+    "likes": 194,
     "retweets": 22,
     "replies": 31,
     "quotes": 3,
-    "views": 43935
+    "views": 44321
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoF1B0WUAArY_R.jpg?name=large&format=webp"
@@ -5485,7 +5544,7 @@
     "retweets": 6,
     "replies": 4,
     "quotes": null,
-    "views": 28502
+    "views": 28575
    },
    "photos": [],
    "videos": [],
@@ -5512,11 +5571,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 254,
+    "likes": 255,
     "retweets": 114,
     "replies": 27,
     "quotes": 8,
-    "views": 23266
+    "views": 23347
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoCZylWMAAX1xi.jpg?name=large&format=webp"
@@ -5549,7 +5608,7 @@
     "retweets": 3,
     "replies": 6,
     "quotes": 1,
-    "views": 27988
+    "views": 28099
    },
    "photos": [],
    "videos": [],
@@ -5580,7 +5639,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 2748
+    "views": 2755
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnr8L5aAAAkfqo.jpg?name=large&format=webp",
@@ -5616,7 +5675,7 @@
     "retweets": 7,
     "replies": 13,
     "quotes": 3,
-    "views": 28926
+    "views": 29045
    },
    "photos": [],
    "videos": [],
@@ -5643,11 +5702,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2521,
-    "retweets": 296,
-    "replies": 158,
+    "likes": 2529,
+    "retweets": 297,
+    "replies": 159,
     "quotes": 41,
-    "views": 388153
+    "views": 391336
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoBisTXUAAPgMy.jpg?name=large&format=webp",
@@ -5681,7 +5740,7 @@
     "retweets": 8,
     "replies": 6,
     "quotes": null,
-    "views": 3449
+    "views": 3456
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoBRB9bwAAMjQd.jpg?name=large&format=webp"
@@ -5714,7 +5773,7 @@
     "retweets": 2,
     "replies": 0,
     "quotes": null,
-    "views": 2881
+    "views": 2887
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoBKH-bcAAnQkJ.jpg?name=large&format=webp"
@@ -5747,7 +5806,7 @@
     "retweets": 1,
     "replies": 4,
     "quotes": null,
-    "views": 3287
+    "views": 3297
    },
    "photos": [
     "https://pbs.twimg.com/media/HVoACXVaoAAPcsb.jpg?name=large&format=webp",
@@ -5781,9 +5840,9 @@
    "stats": {
     "likes": 277,
     "retweets": 48,
-    "replies": 156,
+    "replies": 158,
     "quotes": 6,
-    "views": 43786
+    "views": 44047
    },
    "photos": [],
    "videos": [],
@@ -5814,7 +5873,7 @@
     "retweets": 103,
     "replies": 12,
     "quotes": 3,
-    "views": 26205
+    "views": 26277
    },
    "photos": [],
    "videos": [],
@@ -5845,7 +5904,7 @@
     "retweets": 2,
     "replies": 0,
     "quotes": null,
-    "views": 4137
+    "views": 4151
    },
    "photos": [],
    "videos": [],
@@ -5876,7 +5935,7 @@
     "retweets": 4,
     "replies": 9,
     "quotes": null,
-    "views": 19526
+    "views": 19568
    },
    "photos": [],
    "videos": [],
@@ -5903,11 +5962,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 165,
+    "likes": 168,
     "retweets": 23,
-    "replies": 30,
+    "replies": 31,
     "quotes": 12,
-    "views": 20966
+    "views": 21355
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn8ZsdbQAAaDIm.jpg?name=large&format=webp"
@@ -5940,7 +5999,7 @@
     "retweets": 32,
     "replies": 81,
     "quotes": 9,
-    "views": 89696
+    "views": 89948
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn7hD6WwAEQV8G.jpg?name=large&format=webp"
@@ -5973,7 +6032,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": 1,
-    "views": 3283
+    "views": 3295
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnfnqCbsAEWffp.jpg?name=large&format=webp",
@@ -6008,7 +6067,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 4391
+    "views": 4406
    },
    "photos": [],
    "videos": [
@@ -6041,11 +6100,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3867,
+    "likes": 3892,
     "retweets": 237,
     "replies": 155,
-    "quotes": 27,
-    "views": 583161
+    "quotes": 28,
+    "views": 586442
    },
    "photos": [],
    "videos": [],
@@ -6076,7 +6135,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 2997
+    "views": 3004
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn5Ud3b0AE-rqU.jpg?name=large&format=webp"
@@ -6109,7 +6168,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": 1,
-    "views": 3474
+    "views": 3482
    },
    "photos": [],
    "videos": [],
@@ -6140,7 +6199,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": 1,
-    "views": 3264
+    "views": 3273
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn3j71b0AAiLzI.jpg?name=large&format=webp"
@@ -6173,7 +6232,7 @@
     "retweets": 17,
     "replies": 5,
     "quotes": 1,
-    "views": 19214
+    "views": 19267
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn28dSWwAATzbS.jpg?name=large&format=webp"
@@ -6202,11 +6261,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 47,
-    "retweets": 15,
+    "likes": 48,
+    "retweets": 16,
     "replies": 7,
     "quotes": 1,
-    "views": 17362
+    "views": 17409
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn1zuzWgAA0fbo.jpg?name=large&format=webp"
@@ -6239,7 +6298,7 @@
     "retweets": 2,
     "replies": 6,
     "quotes": null,
-    "views": 6386
+    "views": 6410
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn1YJPaYAAtiYK.jpg?name=large&format=webp"
@@ -6272,7 +6331,7 @@
     "retweets": 3,
     "replies": 5,
     "quotes": 1,
-    "views": 17375
+    "views": 17407
    },
    "photos": [],
    "videos": [],
@@ -6299,11 +6358,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 110,
+    "likes": 112,
     "retweets": 20,
     "replies": 0,
     "quotes": null,
-    "views": 8522
+    "views": 8557
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn1H4fWAAAWYER.jpg?name=large&format=webp"
@@ -6336,7 +6395,7 @@
     "retweets": 4,
     "replies": 4,
     "quotes": 2,
-    "views": 4371
+    "views": 4380
    },
    "photos": [
     "https://pbs.twimg.com/media/HVn0-5wbYAAP-Ok.jpg?name=large&format=webp"
@@ -6369,7 +6428,7 @@
     "retweets": 46,
     "replies": 241,
     "quotes": 20,
-    "views": 96067
+    "views": 96358
    },
    "photos": [],
    "videos": [],
@@ -6400,7 +6459,7 @@
     "retweets": 6,
     "replies": 2,
     "quotes": null,
-    "views": 5615
+    "views": 5637
    },
    "photos": [],
    "videos": [
@@ -6437,7 +6496,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3890
+    "views": 3897
    },
    "photos": [],
    "videos": [
@@ -6474,7 +6533,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 3201
+    "views": 3207
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnyi7vasAAd33Y.jpg?name=large&format=webp"
@@ -6507,7 +6566,7 @@
     "retweets": 3,
     "replies": 5,
     "quotes": 2,
-    "views": 5552
+    "views": 5581
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnyN1sbYAATqGZ.jpg?name=large&format=webp"
@@ -6540,7 +6599,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": 1,
-    "views": 3351
+    "views": 3355
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnxbt6bMAEzcC0.jpg?name=large&format=webp"
@@ -6573,7 +6632,7 @@
     "retweets": 11,
     "replies": 10,
     "quotes": 1,
-    "views": 4030
+    "views": 4036
    },
    "photos": [],
    "videos": [
@@ -6610,7 +6669,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 2871
+    "views": 2874
    },
    "photos": [],
    "videos": [],
@@ -6641,7 +6700,7 @@
     "retweets": 7,
     "replies": 2,
     "quotes": null,
-    "views": 31374
+    "views": 31460
    },
    "photos": [],
    "videos": [],
@@ -6672,7 +6731,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 3238
+    "views": 3245
    },
    "photos": [
     "https://pbs.twimg.com/media/HViiotYacAAq27K.jpg?name=large&format=webp",
@@ -6704,11 +6763,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 49,
-    "retweets": 12,
+    "likes": 50,
+    "retweets": 13,
     "replies": 8,
     "quotes": 6,
-    "views": 12412
+    "views": 12483
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnti6AXwAAbGM0.jpg?name=large&format=webp"
@@ -6741,7 +6800,7 @@
     "retweets": 1,
     "replies": 2,
     "quotes": null,
-    "views": 20543
+    "views": 20574
    },
    "photos": [],
    "videos": [],
@@ -6768,11 +6827,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2299,
-    "retweets": 274,
+    "likes": 2306,
+    "retweets": 277,
     "replies": 218,
-    "quotes": 163,
-    "views": 701622
+    "quotes": 164,
+    "views": 705043
    },
    "photos": [],
    "videos": [],
@@ -6803,7 +6862,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": 1,
-    "views": 1931
+    "views": 1935
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnafYybgAA9hb0.jpg?name=large&format=webp",
@@ -6836,11 +6895,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7361,
+    "likes": 7374,
     "retweets": 928,
     "replies": 421,
     "quotes": 101,
-    "views": 457893
+    "views": 460514
    },
    "photos": [],
    "videos": [],
@@ -6871,7 +6930,7 @@
     "retweets": 4,
     "replies": 0,
     "quotes": 1,
-    "views": 3967
+    "views": 3973
    },
    "photos": [],
    "videos": [],
@@ -6902,7 +6961,7 @@
     "retweets": 12,
     "replies": 1,
     "quotes": 1,
-    "views": 6489
+    "views": 6503
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnpA5XacAE8KUl.jpg?name=large&format=webp",
@@ -6937,7 +6996,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3372
+    "views": 3376
    },
    "photos": [],
    "videos": [
@@ -6974,7 +7033,7 @@
     "retweets": 7,
     "replies": 10,
     "quotes": null,
-    "views": 20497
+    "views": 20516
    },
    "photos": [],
    "videos": [
@@ -7011,7 +7070,7 @@
     "retweets": 7,
     "replies": 1,
     "quotes": null,
-    "views": 3109
+    "views": 3113
    },
    "photos": [],
    "videos": [
@@ -7044,11 +7103,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 20647,
-    "retweets": 1592,
-    "replies": 3544,
-    "quotes": 482,
-    "views": 3516931
+    "likes": 20758,
+    "retweets": 1602,
+    "replies": 3555,
+    "quotes": 486,
+    "views": 3531624
    },
    "photos": [],
    "videos": [],
@@ -7079,7 +7138,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": null,
-    "views": 3889
+    "views": 3896
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnj6M8aIAAxz_D.jpg?name=large&format=webp",
@@ -7113,7 +7172,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": null,
-    "views": 3410
+    "views": 3415
    },
    "photos": [
     "https://pbs.twimg.com/media/HVniQvCbcAAw2kM.jpg?name=large&format=webp",
@@ -7147,7 +7206,7 @@
     "retweets": 2,
     "replies": 10,
     "quotes": null,
-    "views": 23578
+    "views": 23691
    },
    "photos": [],
    "videos": [],
@@ -7178,7 +7237,7 @@
     "retweets": 6,
     "replies": 5,
     "quotes": null,
-    "views": 4482
+    "views": 4494
    },
    "photos": [],
    "videos": [
@@ -7215,7 +7274,7 @@
     "retweets": 8,
     "replies": 23,
     "quotes": 2,
-    "views": 74374
+    "views": 74521
    },
    "photos": [],
    "videos": [],
@@ -7242,11 +7301,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 11,
+    "likes": 12,
     "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 3138
+    "views": 3146
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnX5j-a4AAA5Ly.png?name=large&format=webp",
@@ -7276,11 +7335,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 12156,
-    "retweets": 1711,
-    "replies": 887,
+    "likes": 12232,
+    "retweets": 1721,
+    "replies": 888,
     "quotes": 66,
-    "views": 1547512
+    "views": 1553941
    },
    "photos": [],
    "videos": [
@@ -7327,7 +7386,7 @@
     "retweets": 6,
     "replies": 7,
     "quotes": null,
-    "views": 16019
+    "views": 16050
    },
    "photos": [
     "https://pbs.twimg.com/media/HVndxgqWYAAI35M.jpg?name=large&format=webp"
@@ -7360,7 +7419,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 3889
+    "views": 3895
    },
    "photos": [],
    "videos": [
@@ -7397,38 +7456,7 @@
     "retweets": 25,
     "replies": 19,
     "quotes": 2,
-    "views": 114808
-   },
-   "photos": [],
-   "videos": [],
-   "card_image": "",
-   "quoted": null,
-   "is_retweet": false,
-   "retweeted_by": null,
-   "possibly_sensitive": false,
-   "source": "nitter",
-   "via": "Nitter · teapawt.org"
-  },
-  {
-   "id": "2114962877677264941",
-   "url": "https://x.com/FT/status/2114962877677264941",
-   "text": "Anthropic’s constitutional order ft.trib.al/NmzLW4f | opinion",
-   "created_at": "2026-10-27T06:10:00+00:00",
-   "lang": "",
-   "author": {
-    "name": "Financial Times",
-    "screen_name": "FT",
-    "avatar": "https://pbs.twimg.com/profile_images/931156393108885504/EqEMtLhM_400x400.jpg",
-    "verified": true,
-    "followers": null,
-    "description": ""
-   },
-   "stats": {
-    "likes": 22,
-    "retweets": 1,
-    "replies": 6,
-    "quotes": null,
-    "views": 22146
+    "views": 115073
    },
    "photos": [],
    "videos": [],
@@ -7455,11 +7483,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 121,
-    "retweets": 16,
+    "likes": 122,
+    "retweets": 17,
     "replies": 38,
     "quotes": 1,
-    "views": 81638
+    "views": 81872
    },
    "photos": [],
    "videos": [],
@@ -7490,7 +7518,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 2894
+    "views": 2899
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnUhN3aoAA2A_b.jpg?name=large&format=webp",
@@ -7521,11 +7549,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 361,
+    "likes": 362,
     "retweets": 66,
     "replies": 80,
     "quotes": 18,
-    "views": 95231
+    "views": 95467
    },
    "photos": [],
    "videos": [],
@@ -7556,7 +7584,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": null,
-    "views": 4615
+    "views": 4623
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnVPRxbwAADTHy.jpg?name=large&format=webp"
@@ -7589,7 +7617,7 @@
     "retweets": 5,
     "replies": 0,
     "quotes": 1,
-    "views": 3869
+    "views": 3875
    },
    "photos": [],
    "videos": [
@@ -7626,7 +7654,7 @@
     "retweets": 8,
     "replies": 8,
     "quotes": 1,
-    "views": 17959
+    "views": 17993
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnSVBqXsAAb3f3.jpg?name=large&format=webp"
@@ -7659,7 +7687,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 4077
+    "views": 4088
    },
    "photos": [],
    "videos": [],
@@ -7690,7 +7718,7 @@
     "retweets": 31,
     "replies": 19,
     "quotes": 5,
-    "views": 51485
+    "views": 51641
    },
    "photos": [],
    "videos": [],
@@ -7721,7 +7749,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 3203
+    "views": 3210
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmlIw9bQAAFR-_.jpg?name=large&format=webp",
@@ -7753,11 +7781,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7077,
-    "retweets": 577,
+    "likes": 7097,
+    "retweets": 578,
     "replies": 728,
     "quotes": 86,
-    "views": 1854496
+    "views": 1860270
    },
    "photos": [],
    "videos": [],
@@ -7798,7 +7826,7 @@
     "retweets": 15,
     "replies": 3,
     "quotes": 2,
-    "views": 14474
+    "views": 14498
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnIPNSXQAAY08-.jpg?name=large&format=webp"
@@ -7831,7 +7859,7 @@
     "retweets": 26,
     "replies": 6,
     "quotes": 3,
-    "views": 38075
+    "views": 38126
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnElVqXoAAgVAj.jpg?name=large&format=webp"
@@ -7860,11 +7888,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 10668,
-    "retweets": 1226,
-    "replies": 989,
+    "likes": 10728,
+    "retweets": 1230,
+    "replies": 990,
     "quotes": 139,
-    "views": 1564406
+    "views": 1569190
    },
    "photos": [],
    "videos": [
@@ -7907,11 +7935,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3152,
+    "likes": 3171,
     "retweets": 0,
     "replies": 207,
     "quotes": 42,
-    "views": 433235
+    "views": 434936
    },
    "photos": [
     "https://pbs.twimg.com/media/HVnC18ZXUAAsVnC.jpg?name=large&format=webp",
@@ -7948,7 +7976,7 @@
     "retweets": 2,
     "replies": 0,
     "quotes": null,
-    "views": 8250
+    "views": 8263
    },
    "photos": [],
    "videos": [],
@@ -7979,7 +8007,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 1918
+    "views": 1926
    },
    "photos": [],
    "videos": [],
@@ -8010,7 +8038,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": 1,
-    "views": 4416
+    "views": 4427
    },
    "photos": [],
    "videos": [],
@@ -8037,11 +8065,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 13634,
-    "retweets": 860,
-    "replies": 915,
+    "likes": 13696,
+    "retweets": 861,
+    "replies": 917,
     "quotes": 80,
-    "views": 1609404
+    "views": 1615562
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkXnl8WQAA6lVP.jpg?name=large&format=webp"
@@ -8080,11 +8108,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 20546,
-    "retweets": 2390,
-    "replies": 621,
-    "quotes": 79,
-    "views": 2169064
+    "likes": 20670,
+    "retweets": 2406,
+    "replies": 622,
+    "quotes": 80,
+    "views": 2176773
    },
    "photos": [],
    "videos": [],
@@ -8121,11 +8149,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 234,
+    "likes": 238,
     "retweets": 37,
     "replies": 6,
     "quotes": 1,
-    "views": 13776
+    "views": 13813
    },
    "photos": [
     "https://pbs.twimg.com/media/HVm9_tuWYAALjyx.jpg?name=large&format=webp"
@@ -8154,11 +8182,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1684,
+    "likes": 1686,
     "retweets": 0,
     "replies": 88,
     "quotes": 7,
-    "views": 317758
+    "views": 318366
    },
    "photos": [
     "https://pbs.twimg.com/media/HVm4hjTXMAAeOZ8.jpg?name=large&format=webp"
@@ -8204,7 +8232,7 @@
     "retweets": 19,
     "replies": 56,
     "quotes": 1,
-    "views": 94317
+    "views": 94451
    },
    "photos": [],
    "videos": [],
@@ -8235,7 +8263,7 @@
     "retweets": 32,
     "replies": 25,
     "quotes": 7,
-    "views": 93159
+    "views": 93291
    },
    "photos": [],
    "videos": [],
@@ -8266,7 +8294,7 @@
     "retweets": 0,
     "replies": 1,
     "quotes": null,
-    "views": 3514
+    "views": 3521
    },
    "photos": [],
    "videos": [
@@ -8303,7 +8331,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 870
+    "views": 874
    },
    "photos": [],
    "videos": [],
@@ -8334,7 +8362,7 @@
     "retweets": 1,
     "replies": 0,
     "quotes": null,
-    "views": 3549
+    "views": 3550
    },
    "photos": [],
    "videos": [],
@@ -8361,11 +8389,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 164,
+    "likes": 165,
     "retweets": 27,
     "replies": 12,
     "quotes": 4,
-    "views": 53683
+    "views": 53731
    },
    "photos": [],
    "videos": [],
@@ -8396,7 +8424,7 @@
     "retweets": 2,
     "replies": 6,
     "quotes": 1,
-    "views": 6282
+    "views": 6284
    },
    "photos": [
     "https://pbs.twimg.com/media/HVm03LZb0AAlGRl.jpg?name=large&format=webp"
@@ -8425,11 +8453,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 85,
+    "likes": 86,
     "retweets": 16,
     "replies": 20,
     "quotes": null,
-    "views": 81784
+    "views": 81878
    },
    "photos": [],
    "videos": [],
@@ -8456,11 +8484,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1229,
-    "retweets": 351,
-    "replies": 377,
+    "likes": 1233,
+    "retweets": 353,
+    "replies": 380,
     "quotes": 9,
-    "views": 107142
+    "views": 107342
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmzaSvWEAA2Erp.jpg?name=large&format=webp"
@@ -8493,7 +8521,7 @@
     "retweets": 20,
     "replies": 49,
     "quotes": 4,
-    "views": 78348
+    "views": 78436
    },
    "photos": [],
    "videos": [],
@@ -8524,7 +8552,7 @@
     "retweets": 1,
     "replies": 4,
     "quotes": null,
-    "views": 10697
+    "views": 10708
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmv-wbXwAAdSMz.jpg?name=large&format=webp"
@@ -8557,7 +8585,7 @@
     "retweets": 4,
     "replies": 1,
     "quotes": null,
-    "views": 3152
+    "views": 3155
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmlaC9bkAADsSs.jpg?name=large&format=webp",
@@ -8588,11 +8616,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 220,
+    "likes": 221,
     "retweets": 64,
     "replies": 70,
     "quotes": 2,
-    "views": 81285
+    "views": 81365
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmucrXXkAAp2lu.jpg?name=large&format=webp"
@@ -8625,7 +8653,7 @@
     "retweets": 29,
     "replies": 28,
     "quotes": 7,
-    "views": 92628
+    "views": 92793
    },
    "photos": [],
    "videos": [],
@@ -8652,11 +8680,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 725,
+    "likes": 727,
     "retweets": 102,
-    "replies": 303,
+    "replies": 306,
     "quotes": 27,
-    "views": 169073
+    "views": 169385
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmqxZIWoAAeYKW.jpg?name=large&format=webp"
@@ -8689,7 +8717,7 @@
     "retweets": 3,
     "replies": 2,
     "quotes": null,
-    "views": 3673
+    "views": 3680
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmlOYkasAA7-6L.jpg?name=large&format=webp",
@@ -8723,7 +8751,7 @@
     "retweets": 39,
     "replies": 29,
     "quotes": 2,
-    "views": 67444
+    "views": 67501
    },
    "photos": [],
    "videos": [],
@@ -8752,9 +8780,9 @@
    "stats": {
     "likes": 545,
     "retweets": 168,
-    "replies": 84,
+    "replies": 85,
     "quotes": 23,
-    "views": 669500
+    "views": 675310
    },
    "photos": [],
    "videos": [],
@@ -8781,11 +8809,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 4,
+    "likes": 5,
     "retweets": 1,
     "replies": 1,
     "quotes": 2,
-    "views": 6527
+    "views": 6533
    },
    "photos": [],
    "videos": [],
@@ -8816,7 +8844,7 @@
     "retweets": 112,
     "replies": 147,
     "quotes": 75,
-    "views": 191507
+    "views": 191880
    },
    "photos": [],
    "videos": [],
@@ -8847,7 +8875,7 @@
     "retweets": 7,
     "replies": 46,
     "quotes": 6,
-    "views": 25938
+    "views": 25975
    },
    "photos": [],
    "videos": [],
@@ -8878,7 +8906,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": null,
-    "views": 3046
+    "views": 3050
    },
    "photos": [
     "https://pbs.twimg.com/media/HVi3pAWaYAAFVyG.jpg?name=large&format=webp",
@@ -8912,9 +8940,9 @@
    "stats": {
     "likes": 44,
     "retweets": 13,
-    "replies": 27,
+    "replies": 29,
     "quotes": 3,
-    "views": 18430
+    "views": 18458
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmiP0absAAe2HX.jpg?name=large&format=webp"
@@ -8943,11 +8971,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 5250,
+    "likes": 5263,
     "retweets": 0,
-    "replies": 555,
+    "replies": 554,
     "quotes": 65,
-    "views": 788786
+    "views": 791266
    },
    "photos": [],
    "videos": [],
@@ -8977,11 +9005,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1156,
-    "retweets": 201,
-    "replies": 165,
+    "likes": 1159,
+    "retweets": 202,
+    "replies": 167,
     "quotes": 7,
-    "views": 88421
+    "views": 88572
    },
    "photos": [],
    "videos": [],
@@ -9012,7 +9040,7 @@
     "retweets": 4,
     "replies": 1,
     "quotes": null,
-    "views": 3367
+    "views": 3370
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmfbD2bcAAgzEl.png?name=large&format=webp"
@@ -9041,11 +9069,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 253,
-    "retweets": 41,
+    "likes": 255,
+    "retweets": 42,
     "replies": 51,
     "quotes": 4,
-    "views": 119746
+    "views": 119879
    },
    "photos": [],
    "videos": [],
@@ -9103,11 +9131,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 117475,
+    "likes": 117683,
     "retweets": 0,
-    "replies": 4998,
-    "quotes": 1121,
-    "views": 3899098
+    "replies": 5003,
+    "quotes": 1123,
+    "views": 3905813
    },
    "photos": [],
    "videos": [],
@@ -9141,7 +9169,7 @@
     "retweets": 4,
     "replies": 1,
     "quotes": null,
-    "views": 3315
+    "views": 3321
    },
    "photos": [],
    "videos": [
@@ -9178,7 +9206,7 @@
     "retweets": 57,
     "replies": 191,
     "quotes": 30,
-    "views": 115885
+    "views": 115985
    },
    "photos": [],
    "videos": [],
@@ -9205,11 +9233,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 18510,
+    "likes": 18587,
     "retweets": 0,
     "replies": 240,
     "quotes": 63,
-    "views": 523439
+    "views": 524555
    },
    "photos": [],
    "videos": [],
@@ -9253,7 +9281,7 @@
     "retweets": 35,
     "replies": 4,
     "quotes": null,
-    "views": 24716
+    "views": 24758
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmYZuIWsAEFj1W.jpg?name=large&format=webp"
@@ -9286,7 +9314,7 @@
     "retweets": 11,
     "replies": 39,
     "quotes": 1,
-    "views": 20929
+    "views": 20955
    },
    "photos": [],
    "videos": [],
@@ -9348,7 +9376,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 3252
+    "views": 3255
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmQZXsa4AARh4c.jpg?name=large&format=webp",
@@ -9382,7 +9410,7 @@
     "retweets": 4,
     "replies": 3,
     "quotes": 1,
-    "views": 15319
+    "views": 15323
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmUgzlaUAAODfl.jpg?name=large&format=webp"
@@ -9411,11 +9439,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 568,
-    "retweets": 93,
+    "likes": 570,
+    "retweets": 94,
     "replies": 10,
     "quotes": 6,
-    "views": 47390
+    "views": 47471
    },
    "photos": [],
    "videos": [],
@@ -9446,7 +9474,7 @@
     "retweets": 78,
     "replies": 20,
     "quotes": null,
-    "views": 83554
+    "views": 83605
    },
    "photos": [],
    "videos": [],
@@ -9477,7 +9505,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": 1,
-    "views": 3868
+    "views": 3871
    },
    "photos": [],
    "videos": [],
@@ -9508,7 +9536,7 @@
     "retweets": 6,
     "replies": 44,
     "quotes": null,
-    "views": 20103
+    "views": 20123
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmNpS7awAAxpHy.jpg?name=large&format=webp"
@@ -9541,7 +9569,7 @@
     "retweets": 11,
     "replies": 3,
     "quotes": 1,
-    "views": 15813
+    "views": 15835
    },
    "photos": [],
    "videos": [],
@@ -9572,7 +9600,7 @@
     "retweets": 4,
     "replies": 0,
     "quotes": 2,
-    "views": 5361
+    "views": 5365
    },
    "photos": [],
    "videos": [],
@@ -9603,7 +9631,7 @@
     "retweets": 4,
     "replies": 0,
     "quotes": null,
-    "views": 12598
+    "views": 12618
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmIJsGXMAAcJMN.jpg?name=large&format=webp"
@@ -9636,7 +9664,7 @@
     "retweets": 10,
     "replies": 17,
     "quotes": 5,
-    "views": 92542
+    "views": 92620
    },
    "photos": [],
    "videos": [],
@@ -9667,7 +9695,7 @@
     "retweets": 3,
     "replies": 2,
     "quotes": null,
-    "views": 6779
+    "views": 6786
    },
    "photos": [],
    "videos": [],
@@ -9698,7 +9726,7 @@
     "retweets": 6,
     "replies": 2,
     "quotes": null,
-    "views": 8252
+    "views": 8258
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmHR00XEAAVEbc.jpg?name=large&format=webp"
@@ -9727,11 +9755,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 739,
+    "likes": 741,
     "retweets": 173,
     "replies": 69,
     "quotes": 16,
-    "views": 96531
+    "views": 96622
    },
    "photos": [],
    "videos": [],
@@ -9762,7 +9790,7 @@
     "retweets": 2,
     "replies": 5,
     "quotes": null,
-    "views": 14447
+    "views": 14451
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmGxwja0AAcury.jpg?name=large&format=webp"
@@ -9795,7 +9823,7 @@
     "retweets": 4,
     "replies": 5,
     "quotes": null,
-    "views": 3698
+    "views": 3703
    },
    "photos": [],
    "videos": [],
@@ -9826,7 +9854,7 @@
     "retweets": 1,
     "replies": 2,
     "quotes": null,
-    "views": 6447
+    "views": 6457
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmEVhiWEAAuUCb.jpg?name=large&format=webp",
@@ -9892,7 +9920,7 @@
     "retweets": 70,
     "replies": 48,
     "quotes": 3,
-    "views": 147085
+    "views": 147233
    },
    "photos": [
     "https://pbs.twimg.com/media/HVmCbcvXsAAo3s5.jpg?name=large&format=webp"
@@ -9925,7 +9953,7 @@
     "retweets": 31,
     "replies": 9,
     "quotes": 1,
-    "views": 82938
+    "views": 83000
    },
    "photos": [],
    "videos": [],
@@ -9956,7 +9984,7 @@
     "retweets": 3,
     "replies": 4,
     "quotes": null,
-    "views": 15914
+    "views": 15923
    },
    "photos": [
     "https://pbs.twimg.com/media/HVl_6YnaoAAo1cE.jpg?name=large&format=webp"
@@ -9989,7 +10017,7 @@
     "retweets": 2,
     "replies": 0,
     "quotes": null,
-    "views": 3790
+    "views": 3793
    },
    "photos": [],
    "videos": [],
@@ -10020,7 +10048,7 @@
     "retweets": 124,
     "replies": 23,
     "quotes": 14,
-    "views": 115783
+    "views": 115896
    },
    "photos": [],
    "videos": [],
@@ -10047,11 +10075,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1095,
+    "likes": 1096,
     "retweets": 0,
     "replies": 28,
     "quotes": 9,
-    "views": 175121
+    "views": 175630
    },
    "photos": [],
    "videos": [],
@@ -10081,11 +10109,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 76861,
-    "retweets": 3813,
-    "replies": 1836,
-    "quotes": 250,
-    "views": 5465349
+    "likes": 77006,
+    "retweets": 3821,
+    "replies": 1839,
+    "quotes": 251,
+    "views": 5488485
    },
    "photos": [
     "https://pbs.twimg.com/media/HSBY_zab0AEIhLB.jpg?name=large&format=webp"
@@ -10124,11 +10152,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 638,
+    "likes": 639,
     "retweets": 232,
-    "replies": 149,
+    "replies": 151,
     "quotes": 13,
-    "views": 28090
+    "views": 28133
    },
    "photos": [
     "https://pbs.twimg.com/media/HVl5C1saoAAgcSH.jpg?name=large&format=webp"
@@ -10161,7 +10189,7 @@
     "retweets": 10,
     "replies": 12,
     "quotes": 1,
-    "views": 56602
+    "views": 56642
    },
    "photos": [],
    "videos": [
@@ -10198,7 +10226,7 @@
     "retweets": 0,
     "replies": 108,
     "quotes": 42,
-    "views": 1241610
+    "views": 1243030
    },
    "photos": [],
    "videos": [],
@@ -10232,7 +10260,7 @@
     "retweets": 23,
     "replies": 2,
     "quotes": null,
-    "views": 56460
+    "views": 56482
    },
    "photos": [],
    "videos": [],
@@ -10259,11 +10287,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2253,
+    "likes": 2254,
     "retweets": 0,
     "replies": 37,
     "quotes": 71,
-    "views": 152693
+    "views": 152750
    },
    "photos": [
     "https://pbs.twimg.com/media/HVl0mn1XwAAMzzU.jpg?name=large&format=webp"
@@ -10299,7 +10327,7 @@
     "retweets": 175,
     "replies": 218,
     "quotes": 11,
-    "views": 144128
+    "views": 144273
    },
    "photos": [
     "https://pbs.twimg.com/media/HVl192JXsAAbX-R.jpg?name=large&format=webp"
@@ -10332,7 +10360,7 @@
     "retweets": 93,
     "replies": 118,
     "quotes": 6,
-    "views": 436317
+    "views": 436490
    },
    "photos": [],
    "videos": [],
@@ -10363,7 +10391,7 @@
     "retweets": 7,
     "replies": 10,
     "quotes": null,
-    "views": 19649
+    "views": 19677
    },
    "photos": [],
    "videos": [
@@ -10400,7 +10428,7 @@
     "retweets": 0,
     "replies": 14,
     "quotes": 11,
-    "views": 102546
+    "views": 102559
    },
    "photos": [
     "https://pbs.twimg.com/media/HVloM6rWEAEEQM6.jpg?name=large&format=webp"
@@ -10432,11 +10460,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2271,
+    "likes": 2273,
     "retweets": 929,
     "replies": 215,
     "quotes": 80,
-    "views": 678178
+    "views": 679553
    },
    "photos": [],
    "videos": [],
@@ -10467,7 +10495,7 @@
     "retweets": 17,
     "replies": 11,
     "quotes": 1,
-    "views": 17271
+    "views": 17281
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlyLhEbcAAvY5J.jpg?name=large&format=webp"
@@ -10500,7 +10528,7 @@
     "retweets": 68,
     "replies": 250,
     "quotes": 31,
-    "views": 161155
+    "views": 161219
    },
    "photos": [
     "https://pbs.twimg.com/media/HVltJjkXoAA4LDg.jpg?name=large&format=webp"
@@ -10533,7 +10561,7 @@
     "retweets": 7,
     "replies": 14,
     "quotes": null,
-    "views": 33003
+    "views": 33049
    },
    "photos": [],
    "videos": [],
@@ -10564,7 +10592,7 @@
     "retweets": 24,
     "replies": 33,
     "quotes": 4,
-    "views": 187477
+    "views": 187769
    },
    "photos": [],
    "videos": [],
@@ -10595,7 +10623,7 @@
     "retweets": 11,
     "replies": 14,
     "quotes": 2,
-    "views": 50449
+    "views": 50463
    },
    "photos": [],
    "videos": [
@@ -10632,7 +10660,7 @@
     "retweets": 2,
     "replies": 4,
     "quotes": null,
-    "views": 14653
+    "views": 14657
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlrUMja8AAtSJR.jpg?name=large&format=webp"
@@ -10665,7 +10693,7 @@
     "retweets": 108,
     "replies": 164,
     "quotes": 29,
-    "views": 107233
+    "views": 107350
    },
    "photos": [],
    "videos": [],
@@ -10696,7 +10724,7 @@
     "retweets": 6,
     "replies": 14,
     "quotes": 1,
-    "views": 19742
+    "views": 19747
    },
    "photos": [
     "https://pbs.twimg.com/media/HVln54iWsAAwkpC.jpg?name=large&format=webp"
@@ -10725,11 +10753,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1672,
+    "likes": 1673,
     "retweets": 289,
     "replies": 299,
     "quotes": 34,
-    "views": 196115
+    "views": 196187
    },
    "photos": [],
    "videos": [],
@@ -10756,11 +10784,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 6036,
+    "likes": 6040,
     "retweets": 0,
     "replies": 265,
     "quotes": 499,
-    "views": 1577261
+    "views": 1579700
    },
    "photos": [],
    "videos": [],
@@ -10790,11 +10818,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2845,
+    "likes": 2848,
     "retweets": 0,
     "replies": 174,
     "quotes": 18,
-    "views": 420515
+    "views": 420900
    },
    "photos": [],
    "videos": [],
@@ -10828,7 +10856,7 @@
     "retweets": 11,
     "replies": 3,
     "quotes": null,
-    "views": 14598
+    "views": 14611
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlll0bWIAArIkw.jpg?name=large&format=webp"
@@ -10861,7 +10889,7 @@
     "retweets": 8,
     "replies": 19,
     "quotes": 2,
-    "views": 25740
+    "views": 25763
    },
    "photos": [],
    "videos": [],
@@ -10892,7 +10920,7 @@
     "retweets": 4,
     "replies": 2,
     "quotes": null,
-    "views": 16401
+    "views": 16407
    },
    "photos": [
     "https://pbs.twimg.com/media/HVldlGWbYAAaGew.jpg?name=large&format=webp"
@@ -10925,7 +10953,7 @@
     "retweets": 3,
     "replies": 3,
     "quotes": null,
-    "views": 10223
+    "views": 10227
    },
    "photos": [],
    "videos": [],
@@ -10952,11 +10980,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7519,
+    "likes": 7526,
     "retweets": 378,
     "replies": 801,
     "quotes": 105,
-    "views": 669902
+    "views": 670637
    },
    "photos": [],
    "videos": [
@@ -11003,7 +11031,7 @@
     "retweets": 16,
     "replies": 10,
     "quotes": 5,
-    "views": 20842
+    "views": 20858
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlWtwpacAAkcTm.jpg?name=large&format=webp"
@@ -11036,7 +11064,7 @@
     "retweets": 2,
     "replies": 3,
     "quotes": null,
-    "views": 16539
+    "views": 16542
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlWvJmWEAA9nDH.jpg?name=large&format=webp"
@@ -11069,7 +11097,7 @@
     "retweets": 4,
     "replies": 8,
     "quotes": null,
-    "views": 16171
+    "views": 16177
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlWtgBbUAAyEFE.jpg?name=large&format=webp"
@@ -11102,7 +11130,7 @@
     "retweets": 0,
     "replies": 8,
     "quotes": 3,
-    "views": 16261
+    "views": 16287
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlUnePa0AA-2pO.jpg?name=large&format=webp"
@@ -11138,7 +11166,7 @@
     "retweets": 16,
     "replies": 19,
     "quotes": 1,
-    "views": 79019
+    "views": 79066
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlRr_xWcAAIdHG.jpg?name=large&format=webp"
@@ -11171,7 +11199,7 @@
     "retweets": 29,
     "replies": 5,
     "quotes": null,
-    "views": 13428
+    "views": 13448
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlQWM9WoAAVkuD.jpg?name=large&format=webp"
@@ -11204,7 +11232,7 @@
     "retweets": 6,
     "replies": 6,
     "quotes": null,
-    "views": 16485
+    "views": 16493
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlP2WbbkAAuJkj.jpg?name=large&format=webp"
@@ -11237,7 +11265,7 @@
     "retweets": 21,
     "replies": 57,
     "quotes": 3,
-    "views": 26096
+    "views": 26109
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlP3vbWYAAHHaX.jpg?name=large&format=webp"
@@ -11266,11 +11294,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 6280,
+    "likes": 6291,
     "retweets": 665,
-    "replies": 637,
+    "replies": 638,
     "quotes": 58,
-    "views": 754699
+    "views": 756596
    },
    "photos": [],
    "videos": [],
@@ -11301,7 +11329,7 @@
     "retweets": 1,
     "replies": 1,
     "quotes": 1,
-    "views": 955
+    "views": 956
    },
    "photos": [],
    "videos": [],
@@ -11332,7 +11360,7 @@
     "retweets": 34,
     "replies": 29,
     "quotes": 12,
-    "views": 90279
+    "views": 90320
    },
    "photos": [],
    "videos": [
@@ -11369,7 +11397,7 @@
     "retweets": 3,
     "replies": 1,
     "quotes": null,
-    "views": 3633
+    "views": 3638
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlJAMRW0AAVjyS.jpg?name=large&format=webp"
@@ -11398,46 +11426,15 @@
     "description": ""
    },
    "stats": {
-    "likes": 4400,
+    "likes": 4398,
     "retweets": 524,
     "replies": 177,
     "quotes": 34,
-    "views": 901375
+    "views": 903090
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlIxvSXQAElfnf.jpg?name=large&format=webp"
    ],
-   "videos": [],
-   "card_image": "",
-   "quoted": null,
-   "is_retweet": false,
-   "retweeted_by": null,
-   "possibly_sensitive": false,
-   "source": "nitter",
-   "via": "Nitter · teapawt.org"
-  },
-  {
-   "id": "2114801483749245260",
-   "url": "https://x.com/BBCWorld/status/2114801483749245260",
-   "text": "Trump administration illegally fired James Comey's daughter, judge rules bbc.in/4yHj616",
-   "created_at": "2026-10-26T19:28:00+00:00",
-   "lang": "",
-   "author": {
-    "name": "BBC News (World)",
-    "screen_name": "BBCWorld",
-    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
-    "verified": true,
-    "followers": null,
-    "description": ""
-   },
-   "stats": {
-    "likes": 317,
-    "retweets": 59,
-    "replies": 34,
-    "quotes": 1,
-    "views": 90099
-   },
-   "photos": [],
    "videos": [],
    "card_image": "",
    "quoted": null,
@@ -11466,7 +11463,7 @@
     "retweets": 243,
     "replies": 29,
     "quotes": 18,
-    "views": 27083
+    "views": 27116
    },
    "photos": [],
    "videos": [],
@@ -11497,7 +11494,7 @@
     "retweets": 43,
     "replies": 9,
     "quotes": 2,
-    "views": 16117
+    "views": 16138
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlH1sfWMAAupuI.jpg?name=large&format=webp"
@@ -11530,7 +11527,7 @@
     "retweets": 3,
     "replies": 17,
     "quotes": null,
-    "views": 21330
+    "views": 21342
    },
    "photos": [],
    "videos": [],
@@ -11561,7 +11558,7 @@
     "retweets": 35,
     "replies": 40,
     "quotes": 14,
-    "views": 59738
+    "views": 59846
    },
    "photos": [],
    "videos": [],
@@ -11592,7 +11589,7 @@
     "retweets": 17,
     "replies": 7,
     "quotes": 5,
-    "views": 15198
+    "views": 15209
    },
    "photos": [],
    "videos": [],
@@ -11623,7 +11620,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": null,
-    "views": 1190
+    "views": 1192
    },
    "photos": [],
    "videos": [],
@@ -11650,11 +11647,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 20099,
+    "likes": 20120,
     "retweets": 0,
     "replies": 550,
     "quotes": 178,
-    "views": 578356
+    "views": 579935
    },
    "photos": [],
    "videos": [
@@ -11704,7 +11701,7 @@
     "retweets": 6,
     "replies": 10,
     "quotes": 1,
-    "views": 16910
+    "views": 16916
    },
    "photos": [],
    "videos": [],
@@ -11735,7 +11732,7 @@
     "retweets": 55,
     "replies": 37,
     "quotes": 1,
-    "views": 116235
+    "views": 116276
    },
    "photos": [
     "https://pbs.twimg.com/media/HVlClZ1WQAAuuPw.jpg?name=large&format=webp"
@@ -11764,11 +11761,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 105,
+    "likes": 106,
     "retweets": 32,
     "replies": 15,
     "quotes": 2,
-    "views": 77939
+    "views": 77979
    },
    "photos": [],
    "videos": [
@@ -11805,7 +11802,7 @@
     "retweets": 151,
     "replies": 76,
     "quotes": 15,
-    "views": 112278
+    "views": 112304
    },
    "photos": [
     "https://pbs.twimg.com/media/HVk6QiaW8AEP5Of.jpg?name=large&format=webp"
@@ -11838,7 +11835,7 @@
     "retweets": 188,
     "replies": 62,
     "quotes": 17,
-    "views": 161998
+    "views": 162051
    },
    "photos": [],
    "videos": [],
@@ -11865,11 +11862,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 25685,
+    "likes": 25694,
     "retweets": 2261,
-    "replies": 1405,
-    "quotes": 2015,
-    "views": 4467161
+    "replies": 1406,
+    "quotes": 2016,
+    "views": 4471233
    },
    "photos": [],
    "videos": [
@@ -11902,11 +11899,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3123,
+    "likes": 3124,
     "retweets": 360,
     "replies": 115,
     "quotes": 466,
-    "views": 968947
+    "views": 970153
    },
    "photos": [
     "https://pbs.twimg.com/media/HVk0CqWXkAAnsvd.png?name=large&format=webp"
@@ -11939,7 +11936,7 @@
     "retweets": 66,
     "replies": 39,
     "quotes": 35,
-    "views": 244587
+    "views": 244691
    },
    "photos": [],
    "videos": [],
@@ -11970,7 +11967,7 @@
     "retweets": 62,
     "replies": 22,
     "quotes": 15,
-    "views": 169141
+    "views": 169178
    },
    "photos": [],
    "videos": [],
@@ -12001,7 +11998,7 @@
     "retweets": 6,
     "replies": 2,
     "quotes": null,
-    "views": 11426
+    "views": 11430
    },
    "photos": [
     "https://pbs.twimg.com/media/HVk0as5WwAAvzjd.jpg?name=large&format=webp"
@@ -12030,11 +12027,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 6888,
+    "likes": 6903,
     "retweets": 0,
     "replies": 138,
     "quotes": 16,
-    "views": 392384
+    "views": 393069
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkvEi9WEAAf3KS.jpg?name=large&format=webp"
@@ -12080,7 +12077,7 @@
     "retweets": 10,
     "replies": 11,
     "quotes": 2,
-    "views": 18038
+    "views": 18047
    },
    "photos": [],
    "videos": [],
@@ -12111,7 +12108,7 @@
     "retweets": 26,
     "replies": 16,
     "quotes": 1,
-    "views": 97742
+    "views": 97766
    },
    "photos": [],
    "videos": [],
@@ -12138,11 +12135,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 5265,
+    "likes": 5275,
     "retweets": 0,
     "replies": 335,
     "quotes": 98,
-    "views": 2613211
+    "views": 2622277
    },
    "photos": [],
    "videos": [
@@ -12188,11 +12185,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2621,
+    "likes": 2629,
     "retweets": 0,
-    "replies": 177,
+    "replies": 178,
     "quotes": 31,
-    "views": 318456
+    "views": 319278
    },
    "photos": [],
    "videos": [
@@ -12232,7 +12229,7 @@
     "retweets": 40,
     "replies": 8,
     "quotes": 3,
-    "views": 57142
+    "views": 57152
    },
    "photos": [],
    "videos": [
@@ -12269,7 +12266,7 @@
     "retweets": 15,
     "replies": 36,
     "quotes": null,
-    "views": 72916
+    "views": 72933
    },
    "photos": [],
    "videos": [],
@@ -12300,7 +12297,7 @@
     "retweets": 15,
     "replies": 23,
     "quotes": 2,
-    "views": 103369
+    "views": 103421
    },
    "photos": [],
    "videos": [],
@@ -12331,7 +12328,7 @@
     "retweets": 5,
     "replies": 9,
     "quotes": 1,
-    "views": 20727
+    "views": 20750
    },
    "photos": [],
    "videos": [],
@@ -12362,7 +12359,7 @@
     "retweets": 6,
     "replies": 14,
     "quotes": 3,
-    "views": 22904
+    "views": 22918
    },
    "photos": [],
    "videos": [],
@@ -12424,7 +12421,7 @@
     "retweets": 66,
     "replies": 8,
     "quotes": 8,
-    "views": 24395
+    "views": 24419
    },
    "photos": [],
    "videos": [],
@@ -12455,7 +12452,7 @@
     "retweets": 0,
     "replies": 77,
     "quotes": 19,
-    "views": 69781
+    "views": 69844
    },
    "photos": [],
    "videos": [],
@@ -12489,7 +12486,7 @@
     "retweets": 226,
     "replies": 135,
     "quotes": 10,
-    "views": 155038
+    "views": 155115
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkeMsJXIAAkZ0u.jpg?name=large&format=webp"
@@ -12522,7 +12519,7 @@
     "retweets": 16,
     "replies": 6,
     "quotes": 2,
-    "views": 19838
+    "views": 19847
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkdgDcWgAE7evw.jpg?name=large&format=webp"
@@ -12555,7 +12552,7 @@
     "retweets": 3,
     "replies": 0,
     "quotes": null,
-    "views": 3497
+    "views": 3501
    },
    "photos": [],
    "videos": [],
@@ -12586,7 +12583,7 @@
     "retweets": 11,
     "replies": 4,
     "quotes": 1,
-    "views": 11017
+    "views": 11022
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkahmuXAAId3Ga.jpg?name=large&format=webp"
@@ -12619,7 +12616,7 @@
     "retweets": 12,
     "replies": 0,
     "quotes": null,
-    "views": 16930
+    "views": 16945
    },
    "photos": [],
    "videos": [],
@@ -12650,7 +12647,7 @@
     "retweets": 0,
     "replies": 9,
     "quotes": 1,
-    "views": 41080
+    "views": 41085
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkZekwWMAAPcH1.jpg?name=large&format=webp"
@@ -12686,7 +12683,7 @@
     "retweets": 11,
     "replies": 6,
     "quotes": 3,
-    "views": 48758
+    "views": 48780
    },
    "photos": [],
    "videos": [],
@@ -12748,7 +12745,7 @@
     "retweets": 0,
     "replies": 0,
     "quotes": 2,
-    "views": 3953
+    "views": 3962
    },
    "photos": [],
    "videos": [],
@@ -12779,7 +12776,7 @@
     "retweets": 0,
     "replies": 3,
     "quotes": 2,
-    "views": 27824
+    "views": 27911
    },
    "photos": [
     "https://pbs.twimg.com/media/HR8NImZXYAIgT2h.jpg?name=large&format=webp"
@@ -12821,11 +12818,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2912,
+    "likes": 2913,
     "retweets": 0,
     "replies": 104,
     "quotes": 71,
-    "views": 708893
+    "views": 709504
    },
    "photos": [],
    "videos": [
@@ -12861,11 +12858,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 4139,
-    "retweets": 1481,
+    "likes": 4143,
+    "retweets": 1483,
     "replies": 1055,
     "quotes": 127,
-    "views": 932705
+    "views": 933868
    },
    "photos": [],
    "videos": [],
@@ -12896,7 +12893,7 @@
     "retweets": 4,
     "replies": 9,
     "quotes": 2,
-    "views": 13879
+    "views": 13888
    },
    "photos": [
     "https://pbs.twimg.com/media/HVkLQo0WYAA4lFo.jpg?name=large&format=webp"
@@ -12929,7 +12926,7 @@
     "retweets": 10,
     "replies": 3,
     "quotes": null,
-    "views": 12305
+    "views": 12321
    },
    "photos": [],
    "videos": [],
@@ -12991,7 +12988,7 @@
     "retweets": 12,
     "replies": 31,
     "quotes": 4,
-    "views": 28257
+    "views": 28268
    },
    "photos": [],
    "videos": [],
@@ -13022,7 +13019,7 @@
     "retweets": 4,
     "replies": 8,
     "quotes": 3,
-    "views": 23104
+    "views": 23111
    },
    "photos": [],
    "videos": [],
@@ -13053,7 +13050,7 @@
     "retweets": 24,
     "replies": 18,
     "quotes": 13,
-    "views": 66789
+    "views": 66823
    },
    "photos": [],
    "videos": [],
@@ -13084,7 +13081,7 @@
     "retweets": 0,
     "replies": 12,
     "quotes": 29,
-    "views": 95402
+    "views": 95441
    },
    "photos": [],
    "videos": [],
@@ -13118,7 +13115,7 @@
     "retweets": 15,
     "replies": 1,
     "quotes": null,
-    "views": 17675
+    "views": 17693
    },
    "photos": [],
    "videos": [],
@@ -13145,11 +13142,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 650,
+    "likes": 651,
     "retweets": 0,
     "replies": 23,
     "quotes": 6,
-    "views": 37653
+    "views": 37698
    },
    "photos": [],
    "videos": [],
@@ -13179,11 +13176,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 10480,
+    "likes": 10502,
     "retweets": 0,
-    "replies": 429,
+    "replies": 430,
     "quotes": 71,
-    "views": 984521
+    "views": 987211
    },
    "photos": [],
    "videos": [
@@ -13229,11 +13226,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 4980,
+    "likes": 4986,
     "retweets": 71,
     "replies": 86,
     "quotes": 16,
-    "views": 187716
+    "views": 187804
    },
    "photos": [
     "https://pbs.twimg.com/media/HVj0YDIWEAEaRgx.jpg?name=large&format=webp"
@@ -13266,7 +13263,7 @@
     "retweets": 2,
     "replies": 1,
     "quotes": null,
-    "views": 16667
+    "views": 16686
    },
    "photos": [
     "https://pbs.twimg.com/media/HVj0EIXWgAAJ2Mo.png?name=large&format=webp"
@@ -13330,9 +13327,9 @@
    "stats": {
     "likes": 120,
     "retweets": 33,
-    "replies": 64,
+    "replies": 65,
     "quotes": 8,
-    "views": 33633
+    "views": 33645
    },
    "photos": [
     "https://pbs.twimg.com/media/HVjyt0SX0AA0NN1.jpg?name=large&format=webp"
@@ -13361,11 +13358,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 17424,
+    "likes": 17426,
     "retweets": 2271,
     "replies": 1232,
     "quotes": 2280,
-    "views": 7582917
+    "views": 7589020
    },
    "photos": [],
    "videos": [],
@@ -13392,11 +13389,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1003,
+    "likes": 1004,
     "retweets": 52,
     "replies": 67,
     "quotes": 14,
-    "views": 166372
+    "views": 166394
    },
    "photos": [
     "https://pbs.twimg.com/media/HVjv3W1W8AAZtEv.jpg?name=large&format=webp"
@@ -13429,7 +13426,7 @@
     "retweets": 2,
     "replies": 14,
     "quotes": 3,
-    "views": 21416
+    "views": 21422
    },
    "photos": [],
    "videos": [],
@@ -13460,7 +13457,7 @@
     "retweets": 26,
     "replies": 2,
     "quotes": 4,
-    "views": 20816
+    "views": 20824
    },
    "photos": [],
    "videos": [],
@@ -13491,7 +13488,7 @@
     "retweets": 43,
     "replies": 8,
     "quotes": null,
-    "views": 20682
+    "views": 20683
    },
    "photos": [
     "https://pbs.twimg.com/media/HVjjEFwW4AAwvuB.jpg?name=large&format=webp"
@@ -13524,7 +13521,7 @@
     "retweets": 152,
     "replies": 199,
     "quotes": 44,
-    "views": 194470
+    "views": 194503
    },
    "photos": [
     "https://pbs.twimg.com/media/HVjggZZXQAA_ywy.jpg?name=large&format=webp"
@@ -13557,7 +13554,7 @@
     "retweets": 75,
     "replies": 10,
     "quotes": 7,
-    "views": 35568
+    "views": 35578
    },
    "photos": [],
    "videos": [],
@@ -13619,7 +13616,7 @@
     "retweets": 17,
     "replies": 5,
     "quotes": 1,
-    "views": 20619
+    "views": 20624
    },
    "photos": [],
    "videos": [],
@@ -13770,11 +13767,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 1723,
-    "retweets": 346,
+    "likes": 1724,
+    "retweets": 347,
     "replies": 107,
     "quotes": 33,
-    "views": 241880
+    "views": 241900
    },
    "photos": [
     "https://pbs.twimg.com/media/HVjFPJNXoAALidJ.jpg?name=large&format=webp"
@@ -13838,7 +13835,7 @@
     "retweets": 39,
     "replies": 7,
     "quotes": 1,
-    "views": 24641
+    "views": 24644
    },
    "photos": [],
    "videos": [],
@@ -13869,7 +13866,7 @@
     "retweets": 21,
     "replies": 3,
     "quotes": 3,
-    "views": 23571
+    "views": 23583
    },
    "photos": [],
    "videos": [],
@@ -13931,7 +13928,7 @@
     "retweets": 89,
     "replies": 21,
     "quotes": 10,
-    "views": 27808
+    "views": 27812
    },
    "photos": [
     "https://pbs.twimg.com/media/HVi7LN2WkAAOmza.jpg?name=large&format=webp"
@@ -13964,7 +13961,7 @@
     "retweets": 14,
     "replies": 4,
     "quotes": null,
-    "views": 16729
+    "views": 16732
    },
    "photos": [
     "https://pbs.twimg.com/media/HVi4zu3X0AALOIv.jpg?name=large&format=webp"
@@ -13997,7 +13994,7 @@
     "retweets": 0,
     "replies": 11,
     "quotes": 4,
-    "views": 23886
+    "views": 23891
    },
    "photos": [
     "https://pbs.twimg.com/media/HVivP1EXwAAPtHo.jpg?name=large&format=webp"
@@ -14066,7 +14063,7 @@
     "retweets": 558,
     "replies": 509,
     "quotes": 150,
-    "views": 893981
+    "views": 894177
    },
    "photos": [
     "https://pbs.twimg.com/media/HVirR8UWgAAkDvm.jpg?name=large&format=webp"
@@ -14099,7 +14096,7 @@
     "retweets": 5,
     "replies": 7,
     "quotes": null,
-    "views": 13585
+    "views": 13588
    },
    "photos": [
     "https://pbs.twimg.com/media/HViqXTpXsAAKUfC.jpg?name=large&format=webp"
@@ -14225,7 +14222,7 @@
     "retweets": 65,
     "replies": 7,
     "quotes": null,
-    "views": 21823
+    "views": 21824
    },
    "photos": [
     "https://pbs.twimg.com/media/HVh0XfjXcAA-rfm.jpg?name=large&format=webp"
@@ -14258,7 +14255,7 @@
     "retweets": 0,
     "replies": 18,
     "quotes": 1,
-    "views": 65800
+    "views": 65820
    },
    "photos": [
     "https://pbs.twimg.com/media/HVhqxZGWcAA5ZVy.jpg?name=large&format=webp"
@@ -14294,7 +14291,7 @@
     "retweets": 4,
     "replies": 13,
     "quotes": 1,
-    "views": 25849
+    "views": 25851
    },
    "photos": [],
    "videos": [],
@@ -14354,11 +14351,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7587,
-    "retweets": 1260,
+    "likes": 7591,
+    "retweets": 1261,
     "replies": 310,
     "quotes": 146,
-    "views": 1288260
+    "views": 1288383
    },
    "photos": [
     "https://pbs.twimg.com/media/HVbziVaWQAAxGi1.jpg?name=large&format=webp"
@@ -14391,7 +14388,7 @@
     "retweets": 17,
     "replies": 47,
     "quotes": 11,
-    "views": 54809
+    "views": 54810
    },
    "photos": [],
    "videos": [],
@@ -14422,7 +14419,7 @@
     "retweets": 0,
     "replies": 17,
     "quotes": 3,
-    "views": 19591
+    "views": 19594
    },
    "photos": [],
    "videos": [],
@@ -14456,7 +14453,7 @@
     "retweets": 27,
     "replies": 4,
     "quotes": 1,
-    "views": 12916
+    "views": 12917
    },
    "photos": [
     "https://pbs.twimg.com/media/HVgGnmOWcAESAJV.jpg?name=large&format=webp"
@@ -14485,11 +14482,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 20005,
+    "likes": 20007,
     "retweets": 2475,
     "replies": 824,
     "quotes": 495,
-    "views": 2505986
+    "views": 2506244
    },
    "photos": [],
    "videos": [
@@ -14531,7 +14528,7 @@
     "retweets": 180,
     "replies": 24,
     "quotes": 22,
-    "views": 81324
+    "views": 81328
    },
    "photos": [
     "https://pbs.twimg.com/media/HVf2PFXWgAAW9fL.jpg?name=large&format=webp"
@@ -14560,11 +14557,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 2895,
+    "likes": 2896,
     "retweets": 0,
     "replies": 68,
     "quotes": 21,
-    "views": 249818
+    "views": 249866
    },
    "photos": [],
    "videos": [
@@ -14604,7 +14601,7 @@
     "retweets": 71,
     "replies": 15,
     "quotes": 7,
-    "views": 40355
+    "views": 40357
    },
    "photos": [],
    "videos": [],
@@ -14631,11 +14628,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 7787,
+    "likes": 7794,
     "retweets": 0,
     "replies": 558,
     "quotes": 90,
-    "views": 441386
+    "views": 441748
    },
    "photos": [
     "https://pbs.twimg.com/media/HVfS6pcWAAAy6zI.jpg?name=large&format=webp"
@@ -14671,7 +14668,7 @@
     "retweets": 0,
     "replies": 113,
     "quotes": 38,
-    "views": 78641
+    "views": 78670
    },
    "photos": [],
    "videos": [
@@ -14744,7 +14741,7 @@
     "retweets": 81,
     "replies": 15,
     "quotes": 1,
-    "views": 33978
+    "views": 33983
    },
    "photos": [],
    "videos": [],
@@ -14868,7 +14865,7 @@
     "retweets": 0,
     "replies": 428,
     "quotes": 45,
-    "views": 371437
+    "views": 371492
    },
    "photos": [],
    "videos": [],
@@ -15106,7 +15103,7 @@
     "retweets": 167,
     "replies": 26,
     "quotes": 19,
-    "views": 59716
+    "views": 59726
    },
    "photos": [],
    "videos": [],
@@ -15201,7 +15198,7 @@
     "retweets": 0,
     "replies": 344,
     "quotes": 336,
-    "views": 1483784
+    "views": 1483858
    },
    "photos": [
     "https://pbs.twimg.com/media/HVdLUJYaEAEWQQP.jpg?name=large&format=webp",
@@ -15249,7 +15246,7 @@
     "retweets": 137,
     "replies": 21,
     "quotes": 15,
-    "views": 69573
+    "views": 69582
    },
    "photos": [],
    "videos": [],
@@ -15346,7 +15343,7 @@
     "retweets": 31,
     "replies": 33,
     "quotes": 13,
-    "views": 60932
+    "views": 60936
    },
    "photos": [],
    "videos": [
@@ -15421,7 +15418,7 @@
     "retweets": 0,
     "replies": 75,
     "quotes": 14,
-    "views": 221128
+    "views": 221137
    },
    "photos": [
     "https://pbs.twimg.com/media/HVbjbXOXAAAXJ0a.jpg?name=large&format=webp",
@@ -15493,7 +15490,7 @@
     "retweets": 0,
     "replies": 41,
     "quotes": 27,
-    "views": 28291
+    "views": 28292
    },
    "photos": [],
    "videos": [],
@@ -15527,7 +15524,7 @@
     "retweets": 53,
     "replies": 27,
     "quotes": 6,
-    "views": 52352
+    "views": 52353
    },
    "photos": [
     "https://pbs.twimg.com/media/HVawiaWWQAAa0Y-.jpg?name=large&format=webp"
@@ -15560,7 +15557,7 @@
     "retweets": 0,
     "replies": 211,
     "quotes": 55,
-    "views": 380641
+    "views": 380642
    },
    "photos": [],
    "videos": [],
@@ -15625,7 +15622,7 @@
     "retweets": 17,
     "replies": 32,
     "quotes": 7,
-    "views": 43877
+    "views": 43879
    },
    "photos": [],
    "videos": [],
@@ -15656,7 +15653,7 @@
     "retweets": 0,
     "replies": 16,
     "quotes": 7,
-    "views": 204420
+    "views": 204424
    },
    "photos": [
     "https://pbs.twimg.com/media/HVaPTtiXsAAF4yu.jpg?name=large&format=webp",
@@ -15819,7 +15816,7 @@
     "retweets": 0,
     "replies": 143,
     "quotes": 112,
-    "views": 518690
+    "views": 518694
    },
    "photos": [
     "https://pbs.twimg.com/media/HVZ-ZOKa4AAWRdD.jpg?name=large&format=webp"
@@ -15936,7 +15933,7 @@
     "retweets": 0,
     "replies": 59,
     "quotes": 22,
-    "views": 59294
+    "views": 59297
    },
    "photos": [
     "https://pbs.twimg.com/media/HVZ4P-2WoAAUZn3.jpg?name=large&format=webp"
@@ -16003,7 +16000,7 @@
     "retweets": 0,
     "replies": 46,
     "quotes": 12,
-    "views": 69028
+    "views": 69033
    },
    "photos": [],
    "videos": [
@@ -16136,7 +16133,7 @@
     "retweets": 0,
     "replies": 19,
     "quotes": 9,
-    "views": 197834
+    "views": 197869
    },
    "photos": [],
    "videos": [
@@ -16207,7 +16204,7 @@
     "retweets": 0,
     "replies": 760,
     "quotes": 467,
-    "views": 351351
+    "views": 351354
    },
    "photos": [
     "https://pbs.twimg.com/media/HVXjboqW0AAwjjC.png?name=large&format=webp"
@@ -16280,7 +16277,7 @@
     "retweets": 0,
     "replies": 592,
     "quotes": 124,
-    "views": 577353
+    "views": 577357
    },
    "photos": [],
    "videos": [],
@@ -16413,7 +16410,7 @@
     "retweets": 1023,
     "replies": 466,
     "quotes": 162,
-    "views": 2548629
+    "views": 2548692
    },
    "photos": [
     "https://pbs.twimg.com/media/HVWtHYEWcAAxI-W.jpg?name=large&format=webp",
@@ -16447,7 +16444,7 @@
     "retweets": 550,
     "replies": 288,
     "quotes": 42,
-    "views": 1810236
+    "views": 1810271
    },
    "photos": [],
    "videos": [],
@@ -16478,7 +16475,7 @@
     "retweets": 1030,
     "replies": 375,
     "quotes": 89,
-    "views": 1333540
+    "views": 1333574
    },
    "photos": [],
    "videos": [
@@ -16515,7 +16512,7 @@
     "retweets": 0,
     "replies": 38,
     "quotes": 35,
-    "views": 34297
+    "views": 34298
    },
    "photos": [],
    "videos": [],
@@ -16549,7 +16546,7 @@
     "retweets": 1010,
     "replies": 541,
     "quotes": 500,
-    "views": 2100313
+    "views": 2100391
    },
    "photos": [],
    "videos": [],
@@ -16590,7 +16587,7 @@
     "retweets": 0,
     "replies": 48,
     "quotes": 21,
-    "views": 68622
+    "views": 68626
    },
    "photos": [],
    "videos": [],
@@ -16634,7 +16631,7 @@
     "retweets": 766,
     "replies": 419,
     "quotes": 96,
-    "views": 1358112
+    "views": 1358152
    },
    "photos": [],
    "videos": [],
@@ -16665,7 +16662,7 @@
     "retweets": 0,
     "replies": 40,
     "quotes": 10,
-    "views": 180582
+    "views": 180586
    },
    "photos": [],
    "videos": [
@@ -16705,7 +16702,7 @@
     "retweets": 0,
     "replies": 241,
     "quotes": 26,
-    "views": 254375
+    "views": 254388
    },
    "photos": [],
    "videos": [
@@ -16745,7 +16742,7 @@
     "retweets": 61,
     "replies": 45,
     "quotes": 4,
-    "views": 139936
+    "views": 139938
    },
    "photos": [],
    "videos": [
@@ -16792,7 +16789,7 @@
     "retweets": 0,
     "replies": 244,
     "quotes": 37,
-    "views": 91409
+    "views": 91413
    },
    "photos": [],
    "videos": [],
@@ -16896,7 +16893,7 @@
     "retweets": 0,
     "replies": 69,
     "quotes": 36,
-    "views": 35966
+    "views": 35967
    },
    "photos": [],
    "videos": [],
@@ -16926,11 +16923,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 13652,
-    "retweets": 1245,
+    "likes": 13653,
+    "retweets": 1246,
     "replies": 1171,
-    "quotes": 1327,
-    "views": 7591322
+    "quotes": 1328,
+    "views": 7591575
    },
    "photos": [],
    "videos": [],
@@ -16961,7 +16958,7 @@
     "retweets": 0,
     "replies": 8,
     "quotes": 6,
-    "views": 37424
+    "views": 37425
    },
    "photos": [],
    "videos": [
@@ -17035,7 +17032,7 @@
     "retweets": 787,
     "replies": 295,
     "quotes": 129,
-    "views": 2219988
+    "views": 2220057
    },
    "photos": [],
    "videos": [],
@@ -17066,7 +17063,7 @@
     "retweets": 13,
     "replies": 17,
     "quotes": 1,
-    "views": 32040
+    "views": 32041
    },
    "photos": [
     "https://pbs.twimg.com/media/HVVXsDPW4AE5mn5.jpg?name=large&format=webp",
@@ -17100,9 +17097,9 @@
    "stats": {
     "likes": 155,
     "retweets": 17,
-    "replies": 29,
+    "replies": 30,
     "quotes": 1,
-    "views": 39593
+    "views": 39595
    },
    "photos": [],
    "videos": [
@@ -17149,7 +17146,7 @@
     "retweets": 0,
     "replies": 145,
     "quotes": 147,
-    "views": 284507
+    "views": 284515
    },
    "photos": [],
    "videos": [
@@ -17189,7 +17186,7 @@
     "retweets": 1625,
     "replies": 254,
     "quotes": 103,
-    "views": 838153
+    "views": 838163
    },
    "photos": [
     "https://pbs.twimg.com/media/HVU2SLKW0AA7q0a.jpg?name=large&format=webp"
@@ -17222,7 +17219,7 @@
     "retweets": 0,
     "replies": 11,
     "quotes": 11,
-    "views": 35911
+    "views": 35928
    },
    "photos": [
     "https://pbs.twimg.com/media/HVUwK2sXUAA4SSs.jpg?name=large&format=webp"
@@ -17258,7 +17255,7 @@
     "retweets": 181,
     "replies": 277,
     "quotes": 119,
-    "views": 169755
+    "views": 169771
    },
    "photos": [],
    "videos": [
@@ -17295,7 +17292,7 @@
     "retweets": 0,
     "replies": 3,
     "quotes": 1,
-    "views": 17484
+    "views": 17488
    },
    "photos": [
     "https://pbs.twimg.com/media/HVSZpb5aAAAR3pr.jpg?name=large&format=webp"
@@ -17331,7 +17328,7 @@
     "retweets": 0,
     "replies": 51,
     "quotes": 33,
-    "views": 145748
+    "views": 145764
    },
    "photos": [],
    "videos": [
@@ -17371,7 +17368,7 @@
     "retweets": 479,
     "replies": 624,
     "quotes": 452,
-    "views": 2143911
+    "views": 2143948
    },
    "photos": [],
    "videos": [],
@@ -17402,7 +17399,7 @@
     "retweets": 15,
     "replies": 34,
     "quotes": 6,
-    "views": 165035
+    "views": 165054
    },
    "photos": [],
    "videos": [],
@@ -17506,7 +17503,7 @@
     "retweets": 56,
     "replies": 29,
     "quotes": 5,
-    "views": 33790
+    "views": 33793
    },
    "photos": [
     "https://pbs.twimg.com/media/HVTb7plXMAEiTIw.jpg?name=large&format=webp"
@@ -17583,7 +17580,7 @@
     "retweets": 3,
     "replies": 6,
     "quotes": null,
-    "views": 8370
+    "views": 8376
    },
    "photos": [],
    "videos": [
@@ -17620,7 +17617,7 @@
     "retweets": 0,
     "replies": 2,
     "quotes": 2,
-    "views": 13004
+    "views": 13005
    },
    "photos": [
     "https://pbs.twimg.com/media/HVR2k3-asAAfMMY.jpg?name=large&format=webp"
@@ -17666,7 +17663,7 @@
     "retweets": 118,
     "replies": 73,
     "quotes": 14,
-    "views": 143113
+    "views": 143123
    },
    "photos": [],
    "videos": [],
@@ -17693,11 +17690,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 53072,
+    "likes": 53073,
     "retweets": 0,
     "replies": 1041,
     "quotes": 250,
-    "views": 3610344
+    "views": 3610349
    },
    "photos": [],
    "videos": [
@@ -17737,7 +17734,7 @@
     "retweets": 1396,
     "replies": 585,
     "quotes": 140,
-    "views": 1420687
+    "views": 1420716
    },
    "photos": [],
    "videos": [],
@@ -17768,7 +17765,7 @@
     "retweets": 1069,
     "replies": 654,
     "quotes": 634,
-    "views": 2068247
+    "views": 2068287
    },
    "photos": [],
    "videos": [],
@@ -17799,7 +17796,7 @@
     "retweets": 0,
     "replies": 51,
     "quotes": 46,
-    "views": 270540
+    "views": 270544
    },
    "photos": [
     "https://pbs.twimg.com/media/HVQq8KgXkAET_oY.jpg?name=large&format=webp"
@@ -17835,7 +17832,7 @@
     "retweets": 838,
     "replies": 284,
     "quotes": 64,
-    "views": 995525
+    "views": 995544
    },
    "photos": [
     "https://pbs.twimg.com/media/HVQoB1nXIAAiLcW.jpg?name=large&format=webp"
@@ -17868,7 +17865,7 @@
     "retweets": 76,
     "replies": 21,
     "quotes": 7,
-    "views": 31986
+    "views": 31989
    },
    "photos": [
     "https://pbs.twimg.com/media/HVQPKzrWEAE_XS-.jpg?name=large&format=webp"
@@ -17977,7 +17974,7 @@
     "retweets": 147,
     "replies": 377,
     "quotes": 92,
-    "views": 410099
+    "views": 410119
    },
    "photos": [],
    "videos": [],
@@ -18049,9 +18046,9 @@
    "stats": {
     "likes": 226,
     "retweets": 22,
-    "replies": 63,
+    "replies": 64,
     "quotes": 5,
-    "views": 33139
+    "views": 33142
    },
    "photos": [
     "https://pbs.twimg.com/media/HVPazbnXUAEwYtB.jpg?name=large&format=webp"
@@ -18094,7 +18091,7 @@
     "retweets": 124,
     "replies": 139,
     "quotes": 62,
-    "views": 84664
+    "views": 84669
    },
    "photos": [],
    "videos": [
@@ -18164,7 +18161,7 @@
     "retweets": 3,
     "replies": 4,
     "quotes": 3,
-    "views": 15342
+    "views": 15343
    },
    "photos": [],
    "videos": [],
@@ -18308,7 +18305,7 @@
     "retweets": 382,
     "replies": 181,
     "quotes": 122,
-    "views": 229806
+    "views": 229823
    },
    "photos": [
     "https://pbs.twimg.com/media/HVO2Ls_WsAAXR09.jpg?name=large&format=webp"
@@ -18341,7 +18338,7 @@
     "retweets": 0,
     "replies": 65,
     "quotes": 48,
-    "views": 106020
+    "views": 106021
    },
    "photos": [],
    "videos": [
@@ -18381,7 +18378,7 @@
     "retweets": 0,
     "replies": 48,
     "quotes": 66,
-    "views": 90444
+    "views": 90451
    },
    "photos": [],
    "videos": [
@@ -18526,7 +18523,7 @@
     "retweets": 16,
     "replies": 12,
     "quotes": 3,
-    "views": 37290
+    "views": 37291
    },
    "photos": [
     "https://pbs.twimg.com/media/HVMWmZcWEAAD4yV.jpg?name=large&format=webp"
@@ -18559,7 +18556,7 @@
     "retweets": 0,
     "replies": 31,
     "quotes": 27,
-    "views": 178403
+    "views": 178405
    },
    "photos": [],
    "videos": [
@@ -18642,7 +18639,7 @@
     "retweets": 412,
     "replies": 481,
     "quotes": 229,
-    "views": 521732
+    "views": 521746
    },
    "photos": [],
    "videos": [],
@@ -18673,7 +18670,7 @@
     "retweets": 51,
     "replies": 67,
     "quotes": 27,
-    "views": 168014
+    "views": 168017
    },
    "photos": [],
    "videos": [],
@@ -18704,7 +18701,7 @@
     "retweets": 305,
     "replies": 245,
     "quotes": 68,
-    "views": 228379
+    "views": 228532
    },
    "photos": [],
    "videos": [
@@ -18741,7 +18738,7 @@
     "retweets": 224,
     "replies": 275,
     "quotes": 92,
-    "views": 367211
+    "views": 367222
    },
    "photos": [],
    "videos": [],
@@ -18772,7 +18769,7 @@
     "retweets": 237,
     "replies": 189,
     "quotes": 16,
-    "views": 903800
+    "views": 903809
    },
    "photos": [
     "https://pbs.twimg.com/media/HVK9moNWUAAzx2Y.jpg?name=large&format=webp"
@@ -18839,7 +18836,7 @@
     "retweets": 128,
     "replies": 148,
     "quotes": 45,
-    "views": 599906
+    "views": 599912
    },
    "photos": [],
    "videos": [],
@@ -18870,7 +18867,7 @@
     "retweets": 1220,
     "replies": 352,
     "quotes": 233,
-    "views": 1486214
+    "views": 1486232
    },
    "photos": [],
    "videos": [],
@@ -18954,11 +18951,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 298039,
-    "retweets": 36554,
-    "replies": 19066,
+    "likes": 298044,
+    "retweets": 36555,
+    "replies": 19067,
     "quotes": 2930,
-    "views": 25683334
+    "views": 25684261
    },
    "photos": [],
    "videos": [],
@@ -19065,7 +19062,7 @@
     "retweets": 1533,
     "replies": 232,
     "quotes": 448,
-    "views": 1727052
+    "views": 1727054
    },
    "photos": [],
    "videos": [],
@@ -19096,7 +19093,7 @@
     "retweets": 2875,
     "replies": 622,
     "quotes": 1524,
-    "views": 5902325
+    "views": 5902366
    },
    "photos": [],
    "videos": [],
@@ -19127,7 +19124,7 @@
     "retweets": 68,
     "replies": 12,
     "quotes": 14,
-    "views": 76005
+    "views": 76009
    },
    "photos": [],
    "videos": [],
@@ -19158,7 +19155,7 @@
     "retweets": 745,
     "replies": 402,
     "quotes": 317,
-    "views": 1482735
+    "views": 1482752
    },
    "photos": [],
    "videos": [],
@@ -19189,7 +19186,7 @@
     "retweets": 30,
     "replies": 26,
     "quotes": 5,
-    "views": 146742
+    "views": 146754
    },
    "photos": [],
    "videos": [],
@@ -19220,7 +19217,7 @@
     "retweets": 168,
     "replies": 134,
     "quotes": 73,
-    "views": 97853
+    "views": 97868
    },
    "photos": [
     "https://pbs.twimg.com/media/HVJjJIKXUAAWj0d.jpg?name=large&format=webp"
@@ -19357,7 +19354,7 @@
     "retweets": 248,
     "replies": 755,
     "quotes": 64,
-    "views": 1420491
+    "views": 1420537
    },
    "photos": [],
    "videos": [],
@@ -19398,7 +19395,7 @@
     "retweets": 0,
     "replies": 35,
     "quotes": 9,
-    "views": 212673
+    "views": 212675
    },
    "photos": [],
    "videos": [
@@ -19469,7 +19466,7 @@
     "retweets": 1889,
     "replies": 1005,
     "quotes": 415,
-    "views": 1323455
+    "views": 1323465
    },
    "photos": [],
    "videos": [],
@@ -19500,7 +19497,7 @@
     "retweets": 715,
     "replies": 292,
     "quotes": 209,
-    "views": 1845525
+    "views": 1845537
    },
    "photos": [
     "https://pbs.twimg.com/media/HVGY6WqbEAAZNpZ.jpg?name=large&format=webp"
@@ -19533,7 +19530,7 @@
     "retweets": 559,
     "replies": 224,
     "quotes": 119,
-    "views": 815407
+    "views": 815415
    },
    "photos": [],
    "videos": [],
@@ -19639,7 +19636,7 @@
     "retweets": 0,
     "replies": 57,
     "quotes": 10,
-    "views": 205865
+    "views": 205871
    },
    "photos": [],
    "videos": [
@@ -19719,7 +19716,7 @@
     "retweets": 690,
     "replies": 464,
     "quotes": 381,
-    "views": 907754
+    "views": 907770
    },
    "photos": [],
    "videos": [],
@@ -19750,7 +19747,7 @@
     "retweets": 182,
     "replies": 133,
     "quotes": 15,
-    "views": 790007
+    "views": 790014
    },
    "photos": [],
    "videos": [],
@@ -19781,7 +19778,7 @@
     "retweets": 702,
     "replies": 308,
     "quotes": 101,
-    "views": 455203
+    "views": 455210
    },
    "photos": [
     "https://pbs.twimg.com/media/HVFva4RXsAEO1pW.jpg?name=large&format=webp",
@@ -19816,7 +19813,7 @@
     "retweets": 0,
     "replies": 7,
     "quotes": 1,
-    "views": 10921
+    "views": 10923
    },
    "photos": [
     "https://pbs.twimg.com/media/HVFouYbboAEtsR6.jpg?name=large&format=webp"
@@ -19909,7 +19906,7 @@
     "retweets": 615,
     "replies": 495,
     "quotes": 374,
-    "views": 1812779
+    "views": 1812787
    },
    "photos": [],
    "videos": [],
@@ -19998,11 +19995,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 3275,
+    "likes": 3276,
     "retweets": 377,
     "replies": 248,
     "quotes": 187,
-    "views": 274974
+    "views": 274984
    },
    "photos": [],
    "videos": [
@@ -20039,7 +20036,7 @@
     "retweets": 3,
     "replies": 6,
     "quotes": null,
-    "views": 9575
+    "views": 9576
    },
    "photos": [],
    "videos": [],
@@ -20070,7 +20067,7 @@
     "retweets": 2,
     "replies": 2,
     "quotes": 1,
-    "views": 10143
+    "views": 10144
    },
    "photos": [],
    "videos": [],
@@ -20101,7 +20098,7 @@
     "retweets": 582,
     "replies": 297,
     "quotes": 66,
-    "views": 598290
+    "views": 598297
    },
    "photos": [],
    "videos": [
@@ -20138,7 +20135,7 @@
     "retweets": 80,
     "replies": 24,
     "quotes": 3,
-    "views": 155055
+    "views": 155062
    },
    "photos": [],
    "videos": [],
@@ -20169,7 +20166,7 @@
     "retweets": 991,
     "replies": 576,
     "quotes": 215,
-    "views": 3087952
+    "views": 3087976
    },
    "photos": [],
    "videos": [],
@@ -20200,7 +20197,7 @@
     "retweets": 559,
     "replies": 326,
     "quotes": 145,
-    "views": 603948
+    "views": 604041
    },
    "photos": [],
    "videos": [
@@ -20237,7 +20234,7 @@
     "retweets": 215,
     "replies": 128,
     "quotes": 29,
-    "views": 960067
+    "views": 960090
    },
    "photos": [
     "https://pbs.twimg.com/media/HVFL3R8XsAAwP91.jpg?name=large&format=webp"
@@ -20303,7 +20300,7 @@
     "retweets": 357,
     "replies": 164,
     "quotes": 28,
-    "views": 1665279
+    "views": 1665282
    },
    "photos": [],
    "videos": [],
@@ -20496,7 +20493,7 @@
     "retweets": 352,
     "replies": 148,
     "quotes": 22,
-    "views": 1820063
+    "views": 1820068
    },
    "photos": [],
    "videos": [],
@@ -20527,7 +20524,7 @@
     "retweets": 974,
     "replies": 390,
     "quotes": 164,
-    "views": 931182
+    "views": 931191
    },
    "photos": [],
    "videos": [
@@ -20564,7 +20561,7 @@
     "retweets": 1776,
     "replies": 565,
     "quotes": 202,
-    "views": 1430190
+    "views": 1430203
    },
    "photos": [],
    "videos": [
@@ -20601,7 +20598,7 @@
     "retweets": 720,
     "replies": 239,
     "quotes": 84,
-    "views": 575073
+    "views": 575074
    },
    "photos": [
     "https://pbs.twimg.com/media/HVEaDW1WMAAqCkr.jpg?name=large&format=webp"
@@ -20634,7 +20631,7 @@
     "retweets": 1532,
     "replies": 634,
     "quotes": 186,
-    "views": 658023
+    "views": 658027
    },
    "photos": [],
    "videos": [],
@@ -20811,7 +20808,7 @@
     "retweets": 690,
     "replies": 841,
     "quotes": 569,
-    "views": 1780335
+    "views": 1780342
    },
    "photos": [],
    "videos": [
@@ -21052,7 +21049,7 @@
     "retweets": 151,
     "replies": 48,
     "quotes": 12,
-    "views": 36368
+    "views": 36369
    },
    "photos": [
     "https://pbs.twimg.com/media/HU_g1exW0AAC0-z.jpg?name=large&format=webp"
@@ -21192,7 +21189,7 @@
     "retweets": 1753,
     "replies": 2314,
     "quotes": 1682,
-    "views": 7715686
+    "views": 7715705
    },
    "photos": [],
    "videos": [],
@@ -21260,7 +21257,7 @@
     "retweets": 0,
     "replies": 227,
     "quotes": 47,
-    "views": 236789
+    "views": 236791
    },
    "photos": [],
    "videos": [
@@ -21300,7 +21297,7 @@
     "retweets": 668,
     "replies": 928,
     "quotes": 424,
-    "views": 2468856
+    "views": 2468866
    },
    "photos": [],
    "videos": [],
@@ -21331,7 +21328,7 @@
     "retweets": 268,
     "replies": 193,
     "quotes": 26,
-    "views": 439997
+    "views": 440001
    },
    "photos": [],
    "videos": [
@@ -21368,7 +21365,7 @@
     "retweets": 618,
     "replies": 482,
     "quotes": 355,
-    "views": 926099
+    "views": 926104
    },
    "photos": [],
    "videos": [],
@@ -21432,11 +21429,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 11055,
+    "likes": 11056,
     "retweets": 485,
     "replies": 855,
     "quotes": 167,
-    "views": 1048133
+    "views": 1048159
    },
    "photos": [
     "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg?name=large&format=webp"
@@ -21465,11 +21462,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 65969,
+    "likes": 65971,
     "retweets": 1880,
     "replies": 2668,
     "quotes": 1034,
-    "views": 6896630
+    "views": 6896648
    },
    "photos": [],
    "videos": [],
@@ -21500,7 +21497,7 @@
     "retweets": 145,
     "replies": 244,
     "quotes": 21,
-    "views": 804385
+    "views": 804395
    },
    "photos": [],
    "videos": [],
@@ -21541,7 +21538,7 @@
     "retweets": 214,
     "replies": 389,
     "quotes": 217,
-    "views": 264706
+    "views": 264724
    },
    "photos": [],
    "videos": [],
@@ -21648,7 +21645,7 @@
     "retweets": 122,
     "replies": 114,
     "quotes": 18,
-    "views": 69895
+    "views": 69896
    },
    "photos": [
     "https://pbs.twimg.com/media/HUv6fJaXIAAGSef.jpg?name=large&format=webp"
@@ -21681,7 +21678,7 @@
     "retweets": 79,
     "replies": 140,
     "quotes": 22,
-    "views": 149616
+    "views": 149691
    },
    "photos": [],
    "videos": [
@@ -21752,7 +21749,7 @@
     "retweets": 177,
     "replies": 252,
     "quotes": 45,
-    "views": 272711
+    "views": 272716
    },
    "photos": [],
    "videos": [],
@@ -21793,7 +21790,7 @@
     "retweets": 303,
     "replies": 339,
     "quotes": 108,
-    "views": 426761
+    "views": 426765
    },
    "photos": [],
    "videos": [
@@ -21830,7 +21827,7 @@
     "retweets": 17,
     "replies": 42,
     "quotes": 5,
-    "views": 141535
+    "views": 141538
    },
    "photos": [],
    "videos": [],
@@ -21861,7 +21858,7 @@
     "retweets": 11,
     "replies": 9,
     "quotes": 1,
-    "views": 73212
+    "views": 73214
    },
    "photos": [],
    "videos": [],
@@ -21925,7 +21922,7 @@
     "retweets": 260,
     "replies": 423,
     "quotes": 159,
-    "views": 581407
+    "views": 581411
    },
    "photos": [],
    "videos": [],
@@ -22054,7 +22051,7 @@
     "retweets": 559,
     "replies": 397,
     "quotes": 196,
-    "views": 1350219
+    "views": 1350225
    },
    "photos": [],
    "videos": [],
@@ -22293,7 +22290,7 @@
     "retweets": 315,
     "replies": 216,
     "quotes": 103,
-    "views": 228059
+    "views": 228090
    },
    "photos": [],
    "videos": [
@@ -22443,7 +22440,7 @@
     "retweets": 219,
     "replies": 501,
     "quotes": 247,
-    "views": 767405
+    "views": 767408
    },
    "photos": [],
    "videos": [],
@@ -22474,7 +22471,7 @@
     "retweets": 0,
     "replies": 13,
     "quotes": 16,
-    "views": 320989
+    "views": 320990
    },
    "photos": [],
    "videos": [],
@@ -22508,7 +22505,7 @@
     "retweets": 2659,
     "replies": 1179,
     "quotes": 2196,
-    "views": 8322878
+    "views": 8322919
    },
    "photos": [],
    "videos": [],
@@ -22582,7 +22579,7 @@
     "retweets": 617,
     "replies": 845,
     "quotes": 599,
-    "views": 2675818
+    "views": 2675820
    },
    "photos": [],
    "videos": [],
@@ -22754,7 +22751,7 @@
     "retweets": 21,
     "replies": 25,
     "quotes": 5,
-    "views": 26074
+    "views": 26077
    },
    "photos": [],
    "videos": [
@@ -22791,7 +22788,7 @@
     "retweets": 0,
     "replies": 9,
     "quotes": 10,
-    "views": 173377
+    "views": 173379
    },
    "photos": [
     "https://pbs.twimg.com/media/HUakBgdaUAAqLU0.jpg?name=large&format=webp"
@@ -22827,7 +22824,7 @@
     "retweets": 5864,
     "replies": 2192,
     "quotes": 2256,
-    "views": 6780696
+    "views": 6780720
    },
    "photos": [],
    "videos": [],
@@ -22868,7 +22865,7 @@
     "retweets": 447,
     "replies": 675,
     "quotes": 380,
-    "views": 1383749
+    "views": 1383756
    },
    "photos": [],
    "videos": [],
@@ -22935,7 +22932,7 @@
     "retweets": 20,
     "replies": 325,
     "quotes": 8,
-    "views": 332544
+    "views": 332551
    },
    "photos": [],
    "videos": [],
@@ -22966,7 +22963,7 @@
     "retweets": 564,
     "replies": 1072,
     "quotes": 136,
-    "views": 2053956
+    "views": 2053963
    },
    "photos": [],
    "videos": [
@@ -23013,7 +23010,7 @@
     "retweets": 80,
     "replies": 110,
     "quotes": 29,
-    "views": 121972
+    "views": 121978
    },
    "photos": [],
    "videos": [
@@ -23178,7 +23175,7 @@
     "retweets": 678,
     "replies": 1219,
     "quotes": 306,
-    "views": 1917997
+    "views": 1918002
    },
    "photos": [],
    "videos": [],
@@ -23209,7 +23206,7 @@
     "retweets": 106,
     "replies": 223,
     "quotes": 65,
-    "views": 397000
+    "views": 397003
    },
    "photos": [],
    "videos": [],
@@ -23240,7 +23237,7 @@
     "retweets": 957,
     "replies": 789,
     "quotes": 268,
-    "views": 2079109
+    "views": 2079114
    },
    "photos": [],
    "videos": [],
@@ -23271,7 +23268,7 @@
     "retweets": 4569,
     "replies": 2036,
     "quotes": 2807,
-    "views": 5727604
+    "views": 5727609
    },
    "photos": [],
    "videos": [
@@ -23351,7 +23348,7 @@
     "retweets": 1950,
     "replies": 6261,
     "quotes": 1880,
-    "views": 7216212
+    "views": 7216217
    },
    "photos": [],
    "videos": [],
@@ -23382,7 +23379,7 @@
     "retweets": 610,
     "replies": 1090,
     "quotes": 187,
-    "views": 1638485
+    "views": 1638488
    },
    "photos": [],
    "videos": [],
@@ -23413,7 +23410,7 @@
     "retweets": 368,
     "replies": 590,
     "quotes": 248,
-    "views": 1926288
+    "views": 1926292
    },
    "photos": [],
    "videos": [],
@@ -23444,7 +23441,7 @@
     "retweets": 339,
     "replies": 1805,
     "quotes": 240,
-    "views": 1089361
+    "views": 1089364
    },
    "photos": [],
    "videos": [],
@@ -23475,7 +23472,7 @@
     "retweets": 1072,
     "replies": 711,
     "quotes": 172,
-    "views": 1499883
+    "views": 1499898
    },
    "photos": [
     "https://pbs.twimg.com/media/HTAureBb0AA1BoW.png?name=large&format=webp"
@@ -23514,11 +23511,11 @@
     "description": ""
    },
    "stats": {
-    "likes": 56063,
-    "retweets": 6647,
+    "likes": 56064,
+    "retweets": 6648,
     "replies": 1676,
     "quotes": 1546,
-    "views": 8000482
+    "views": 8000499
    },
    "photos": [
     "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png?name=large&format=webp"
@@ -23551,7 +23548,7 @@
     "retweets": 175,
     "replies": 551,
     "quotes": 76,
-    "views": 1253916
+    "views": 1253919
    },
    "photos": [],
    "videos": [],
@@ -23592,7 +23589,7 @@
     "retweets": 342,
     "replies": 923,
     "quotes": 136,
-    "views": 864902
+    "views": 864905
    },
    "photos": [],
    "videos": [],
@@ -23623,7 +23620,7 @@
     "retweets": 136,
     "replies": 559,
     "quotes": 57,
-    "views": 529142
+    "views": 529144
    },
    "photos": [],
    "videos": [],
@@ -23654,7 +23651,7 @@
     "retweets": 56,
     "replies": 191,
     "quotes": 48,
-    "views": 225565
+    "views": 225566
    },
    "photos": [],
    "videos": [],
@@ -23753,7 +23750,7 @@
     "retweets": 20,
     "replies": 72,
     "quotes": 1,
-    "views": 58356
+    "views": 58358
    },
    "photos": [
     "https://pbs.twimg.com/media/HSNzvh0XQAAu0m5.jpg?name=large&format=webp",
@@ -23789,7 +23786,7 @@
     "retweets": 0,
     "replies": 3213,
     "quotes": 4938,
-    "views": 43872950
+    "views": 43872957
    },
    "photos": [],
    "videos": [],
@@ -23860,7 +23857,7 @@
     "retweets": 0,
     "replies": 773,
     "quotes": 1537,
-    "views": 10872901
+    "views": 10872908
    },
    "photos": [],
    "videos": [
@@ -24026,7 +24023,7 @@
     "retweets": 18095,
     "replies": 1108,
     "quotes": 1802,
-    "views": 17319849
+    "views": 17319853
    },
    "photos": [],
    "videos": [
@@ -24063,7 +24060,7 @@
     "retweets": 22,
     "replies": 47,
     "quotes": 1,
-    "views": 71734
+    "views": 71735
    },
    "photos": [
     "https://pbs.twimg.com/media/HQF-3ACXQAAOI3-.jpg?name=large&format=webp",
@@ -24230,7 +24227,7 @@
     "retweets": 69,
     "replies": 138,
     "quotes": 12,
-    "views": 553245
+    "views": 553251
    },
    "photos": [],
    "videos": [],
@@ -24292,7 +24289,7 @@
     "retweets": 2311,
     "replies": 1804,
     "quotes": 749,
-    "views": 6242457
+    "views": 6242461
    },
    "photos": [],
    "videos": [
@@ -24365,7 +24362,7 @@
     "retweets": 4059,
     "replies": 2525,
     "quotes": 1497,
-    "views": 4437573
+    "views": 4437578
    },
    "photos": [],
    "videos": [],
@@ -24812,7 +24809,7 @@
     "retweets": 1948,
     "replies": 1382,
     "quotes": 707,
-    "views": 8458775
+    "views": 8458779
    },
    "photos": [],
    "videos": [
@@ -25101,7 +25098,7 @@
     "retweets": 1021,
     "replies": 429,
     "quotes": 46,
-    "views": 1281920
+    "views": 1281923
    },
    "photos": [],
    "videos": [],
@@ -25132,7 +25129,7 @@
     "retweets": 2380,
     "replies": 1337,
     "quotes": 456,
-    "views": 3216014
+    "views": 3216017
    },
    "photos": [
     "https://pbs.twimg.com/media/HKYwNlEWMAAJanX.png?name=large&format=webp"
@@ -25521,7 +25518,7 @@
     "retweets": 10914,
     "replies": 7869,
     "quotes": 7550,
-    "views": 28084358
+    "views": 28084359
    },
    "photos": [],
    "videos": [],
@@ -27811,7 +27808,7 @@
     "retweets": 124,
     "replies": 1077,
     "quotes": 112,
-    "views": 2163784
+    "views": 2163786
    },
    "photos": [],
    "videos": [],
@@ -28105,7 +28102,7 @@
     "retweets": 289,
     "replies": 453,
     "quotes": 10,
-    "views": 1091004
+    "views": 1091005
    },
    "photos": [
     "https://pbs.twimg.com/media/GcW3OrKWoAANMqa.jpg?name=large&format=webp"
