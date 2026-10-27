@@ -33,6 +33,8 @@ ACCOUNTS_DEFAULT = [
     "CNBC", "Forbes", "business",
     "github", "rustlang", "golang", "ThePracticalDev", "freeCodeCamp",
     "dril", "internetarchive", "xkcd", "TheOnion", "verified",
+    "GibiASMR", "GentleWhispering", "ASMRDarling", "JellybeanASMR",
+    "FrivolousFox", "TingtingASMR", "calm", "Headspace", "ChillhopMusic",
 ]
 QUERY_DEFAULTS = [
     ("AI", "AI"),
@@ -43,6 +45,7 @@ QUERY_DEFAULTS = [
     ("space", "太空"),
     ("photography", "摄影"),
     ("gaming", "游戏"),
+    ("ASMR", "ASMR"),
 ]
 
 
