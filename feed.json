@@ -1,0 +1,5519 @@
+{
+ "ok": true,
+ "updated_at": "2026-10-27T12:35:45.932427+00:00",
+ "via": "GitHub Actions · Nitter 公共实例",
+ "accounts": [
+  {
+   "screen_name": "OpenAI",
+   "name": "OpenAI",
+   "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+   "verified": true,
+   "followers": 22,
+   "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://xitter.cf/t.co/dJGr6LgzPA",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "elonmusk",
+   "name": "Elon Musk",
+   "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+   "verified": true,
+   "followers": 111,
+   "description": "https://xitter.cf/t.co/ZdBx5WABYx",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "Reuters",
+   "name": "Reuters",
+   "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+   "verified": true,
+   "followers": 14,
+   "description": "Top and breaking news, pictures and videos from Reuters. For breaking business news, follow @ReutersBiz . Our daily podcast is here: https://xitter.cf/t.co/KO0QFy0d3a",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "NASA",
+   "name": "NASA",
+   "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+   "verified": true,
+   "followers": 745,
+   "description": "Making the seemingly impossible, possible. ✨",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "TechCrunch",
+   "name": "TechCrunch",
+   "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+   "verified": true,
+   "followers": 288,
+   "description": "Technology news and analysis with a focus on founders and startup teams. Got a tip? https://xitter.cf/t.co/J0WxnZxSRY",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "BBCWorld",
+   "name": "BBC News (World)",
+   "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+   "verified": true,
+   "followers": 413,
+   "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking . UK news, @BBCNews . Latest sports news @BBCSport",
+   "count": 20,
+   "error": ""
+  },
+  {
+   "screen_name": "GoogleDeepMind",
+   "name": "Google DeepMind",
+   "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+   "verified": true,
+   "followers": 46,
+   "description": "The engine room of @Google . Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://xitter.cf/t.co/jUHQA27iBL",
+   "count": 19,
+   "error": ""
+  },
+  {
+   "screen_name": "SCMPNews",
+   "name": "South China Morning Post",
+   "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+   "verified": true,
+   "followers": 43,
+   "description": "The South China Morning Post brings you news and analysis about Hong Kong, China and the rest of Asia. Get our app: https://xitter.cf/t.co/f15xfjp0Mo",
+   "count": 20,
+   "error": ""
+  }
+ ],
+ "tweets": [
+  {
+   "id": "2115059720134275423",
+   "url": "https://x.com/Reuters/status/2115059720134275423",
+   "text": "Britain and EU finding way through 'Made in Europe' concerns, UK minister says reut.rs/4srBjhD",
+   "created_at": "2026-10-27T12:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 1,
+    "replies": 1,
+    "quotes": null,
+    "views": 6759
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115058485117268178",
+   "url": "https://x.com/Reuters/status/2115058485117268178",
+   "text": "PODCAST: The silver lining in Europe’s dark economic clouds reut.rs/4imQQL6",
+   "created_at": "2026-10-27T12:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": null,
+    "views": 13282
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115058432235708700",
+   "url": "https://x.com/Reuters/status/2115058432235708700",
+   "text": "WATCH: From Apple entering the foldable market to websites going offline across the world, here are the week's hottest stories in tech reut.rs/4ijdV19",
+   "created_at": "2026-10-27T12:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": null,
+    "views": 12023
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115039053355900928/vid/avc1/1920x1080/fMAiJrUlHfqQ8don.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVoo5HLa0AAmEvC.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115058004617752722",
+   "url": "https://x.com/BBCWorld/status/2115058004617752722",
+   "text": "Co-ordinated cattle raids kill at least 72 people in South Sudan bbc.in/4iH3NAK",
+   "created_at": "2026-10-27T12:28:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 9,
+    "retweets": 3,
+    "replies": 4,
+    "quotes": null,
+    "views": 22461
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115056276589719746",
+   "url": "https://x.com/SCMPNews/status/2115056276589719746",
+   "text": "Greenhouse gas levels hit record highs, climate impact will last centuries: UN scmp.com/news/world/article/…",
+   "created_at": "2026-10-27T12:21:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": null,
+    "views": 1160
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115055955788353655",
+   "url": "https://x.com/Reuters/status/2115055955788353655",
+   "text": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says reut.rs/4yIhVhW",
+   "created_at": "2026-10-27T12:20:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 6,
+    "retweets": 3,
+    "replies": 3,
+    "quotes": null,
+    "views": 19999
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115054655537307869",
+   "url": "https://x.com/Reuters/status/2115054655537307869",
+   "text": "China's tech-heavy STAR50 stock index lost 40% of its value in four months, erasing about $480 billion, as fears over slowing AI demand and US export curbs on Chinese technology rattle investors. Tom Westbrook explains reut.rs/4eUwqbk",
+   "created_at": "2026-10-27T12:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 20,
+    "retweets": 6,
+    "replies": 11,
+    "quotes": 2,
+    "views": 20415
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115026958497226753/vid/avc1/1920x1080/7cChBD0V4hnxwoQ6.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVoge0taoAA92Z-.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115053430574022867",
+   "url": "https://x.com/Reuters/status/2115053430574022867",
+   "text": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk reut.rs/4zmp2hh",
+   "created_at": "2026-10-27T12:10:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 6,
+    "retweets": 3,
+    "replies": 2,
+    "quotes": null,
+    "views": 21229
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115053418960077289",
+   "url": "https://x.com/Reuters/status/2115053418960077289",
+   "text": "🔊 Oil prices hover near multi-month highs as traders watch mediation efforts with Iran and Israel heads to the polls. More on today's Morning Bid podcast reut.rs/4jCFx3P",
+   "created_at": "2026-10-27T12:10:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 9,
+    "retweets": 3,
+    "replies": 3,
+    "quotes": null,
+    "views": 18737
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVot3v-WQAEPOBX.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115050980727296147",
+   "url": "https://x.com/Reuters/status/2115050980727296147",
+   "text": "Fire breaks out in shantytown in Seoul's Gangnam district reut.rs/4svJw4K",
+   "created_at": "2026-10-27T12:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7,
+    "retweets": 3,
+    "replies": 2,
+    "quotes": null,
+    "views": 21915
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115050900666384830",
+   "url": "https://x.com/Reuters/status/2115050900666384830",
+   "text": "Republican Senator Susan Collins is fighting to keep her Maine Senate seat against Democrat Troy Jackson, a former state Senate leader, in a race seen as a key Democratic pickup opportunity reut.rs/4zQkwYc",
+   "created_at": "2026-10-27T12:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 11,
+    "retweets": 4,
+    "replies": 9,
+    "quotes": 1,
+    "views": 21924
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115032643964203008/vid/avc1/1920x1080/BdkN2uhN7mWdhSw5.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115032643964203008/img/wk7z4TbAWfc3pFnX.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115048411720232988",
+   "url": "https://x.com/Reuters/status/2115048411720232988",
+   "text": "Auditor of GFG Alliance's Liberty Commodities fined in UK reut.rs/4zV6zbt",
+   "created_at": "2026-10-27T11:50:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 2,
+    "replies": 2,
+    "quotes": null,
+    "views": 26286
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115047149419237869",
+   "url": "https://x.com/Reuters/status/2115047149419237869",
+   "text": "Three Arab states back Greece in dispute over Turkey-Libya maritime accord reut.rs/4jO2ocV",
+   "created_at": "2026-10-27T11:45:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 64,
+    "retweets": 28,
+    "replies": 8,
+    "quotes": 1,
+    "views": 29270
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115047105588756891",
+   "url": "https://x.com/Reuters/status/2115047105588756891",
+   "text": "AI-generated models are becoming more common in online fashion, and real models are facing growing pressure to let brands use their AI clones, change their faces or alter their body shapes. Helen Reid examines what this means for the industry reut.rs/4A0O2L7",
+   "created_at": "2026-10-27T11:45:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 21,
+    "retweets": 8,
+    "replies": 4,
+    "quotes": 1,
+    "views": 25251
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115028180444848128/vid/avc1/1920x1080/ODezEso6-dln1Ke7.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115028180444848128/img/l7A4608FS8HhXNDj.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115045891698500074",
+   "url": "https://x.com/Reuters/status/2115045891698500074",
+   "text": "King Charles heads to Caribbean as calls for slavery reparations grow reut.rs/4imOnAu",
+   "created_at": "2026-10-27T11:40:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 12,
+    "retweets": 5,
+    "replies": 5,
+    "quotes": 1,
+    "views": 27112
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115045117786820991",
+   "url": "https://x.com/Reuters/status/2115045117786820991",
+   "text": "Exclusive: Researchers at TrendAI ‌concluded the Israeli company Discover-Tech was one of the biggest sources of digital ads shown to users of SpaceX's Starlink service and that the ads were likely being used to geolocate or otherwise surveil them reut.rs/4jDCHLZ",
+   "created_at": "2026-10-27T11:37:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 17,
+    "retweets": 16,
+    "replies": 7,
+    "quotes": 5,
+    "views": 28000
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115044625584898317",
+   "url": "https://x.com/Reuters/status/2115044625584898317",
+   "text": "COMMENTARY: Morning Bid: ANTimatter reut.rs/4zhDxTI",
+   "created_at": "2026-10-27T11:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3,
+    "retweets": 2,
+    "replies": 1,
+    "quotes": null,
+    "views": 28565
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115043390752436232",
+   "url": "https://x.com/Reuters/status/2115043390752436232",
+   "text": "Morning Bid: All eyes on AI reut.rs/4srF6f6",
+   "created_at": "2026-10-27T11:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 1,
+    "replies": 7,
+    "quotes": null,
+    "views": 26998
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115043331357147365",
+   "url": "https://x.com/Reuters/status/2115043331357147365",
+   "text": "As Pope Leo prepares to return to South America in November, many Peruvians remember him as the priest who helped feed hungry families, delivered aid after floods and walked alongside migrants in the country he would eventually call his own reut.rs/4yNu4Cm",
+   "created_at": "2026-10-27T11:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 45,
+    "retweets": 13,
+    "replies": 5,
+    "quotes": null,
+    "views": 25964
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115030084776308737/vid/avc1/1920x1080/N7rWmlAvyZs0JJHd.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115030084776308737/img/tWCvi202HCUynQ8J.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115042143119044650",
+   "url": "https://x.com/BBCWorld/status/2115042143119044650",
+   "text": "Netherlands makes U-turn over Eurovision 2027 participation bbc.in/48hxa6N",
+   "created_at": "2026-10-27T11:25:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 35,
+    "retweets": 12,
+    "replies": 13,
+    "quotes": 1,
+    "views": 52056
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115041849106686380",
+   "url": "https://x.com/SCMPNews/status/2115041849106686380",
+   "text": "Football star Kylian Mbappe faces huge China backlash over ‘unacceptable’ remark scmp.com/economy/china-econo…",
+   "created_at": "2026-10-27T11:24:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7,
+    "retweets": 2,
+    "replies": 3,
+    "quotes": null,
+    "views": 2772
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115040878817427519",
+   "url": "https://x.com/Reuters/status/2115040878817427519",
+   "text": "China hands former security regulator anti-graft official suspended death sentence reut.rs/4zv7Wy1",
+   "created_at": "2026-10-27T11:20:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 19,
+    "retweets": 6,
+    "replies": 3,
+    "quotes": 1,
+    "views": 31913
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115039555443478718",
+   "url": "https://x.com/Reuters/status/2115039555443478718",
+   "text": "Visitors at a South Korean observatory overlooking North Korea expressed concern after North Korean artillery units pointed south on the border. Hyunyoung Yi has more reut.rs/4zT2xQK",
+   "created_at": "2026-10-27T11:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Reuters",
+    "screen_name": "Reuters",
+    "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 37,
+    "retweets": 7,
+    "replies": 1,
+    "quotes": 1,
+    "views": 33948
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2115018797853655040/vid/avc1/1920x1080/nCl3bidfm2XNLPkG.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115018797853655040/img/Uf8U-Pbqh8JVxRfR.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115036560672305425",
+   "url": "https://x.com/TechCrunch/status/2115036560672305425",
+   "text": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue. spr.ly/6017BHiSKJ",
+   "created_at": "2026-10-27T11:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 12,
+    "retweets": 2,
+    "replies": 15,
+    "quotes": null,
+    "views": 11394
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115032618521485796",
+   "url": "https://x.com/tara_ro/status/2115032618521485796",
+   "text": "🔊 Israel is deeply divided as it heads into elections today.\n\nJerusalem bureau chief Rami Ayyub tells the @Reuters World News podcast that it could come down to one thing: turnout.\n\nWatch and listen now: youtube.com/watch?v=Rp5D5XUi…",
+   "created_at": "2026-10-27T10:47:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Tara Oakes",
+    "screen_name": "tara_ro",
+    "avatar": "https://pbs.twimg.com/profile_images/1773333666397122561/zZRIJVe3_400x400.jpg",
+    "verified": false,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 13,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": null,
+    "views": 22128
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Reuters",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115029121776382399",
+   "url": "https://x.com/BBCWorld/status/2115029121776382399",
+   "text": "Two charged with national security offences over RAF Fairford incident bbc.in/3Wt3tgn",
+   "created_at": "2026-10-27T10:33:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 39,
+    "retweets": 11,
+    "replies": 21,
+    "quotes": 2,
+    "views": 55820
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115022169646170603",
+   "url": "https://x.com/SCMPNews/status/2115022169646170603",
+   "text": "Philippine Air Force faces hard questions after deadly crashes scmp.com/week-asia/politics/…",
+   "created_at": "2026-10-27T10:05:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": null,
+    "views": 3257
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115014978746945706",
+   "url": "https://x.com/BBCWorld/status/2115014978746945706",
+   "text": "Sir Tom Jones 'truly sorry' as he cancels two shows due to illness bbc.in/4ePMKdp",
+   "created_at": "2026-10-27T09:37:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 93,
+    "retweets": 15,
+    "replies": 15,
+    "quotes": 7,
+    "views": 72642
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115014303312990294",
+   "url": "https://x.com/SCMPNews/status/2115014303312990294",
+   "text": "Fragile India-China thaw tested by reported fresh Himalayan border face-offs scmp.com/news/china/diplomac…",
+   "created_at": "2026-10-27T09:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": null,
+    "views": 3293
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2115000071905309034",
+   "url": "https://x.com/SCMPNews/status/2115000071905309034",
+   "text": "Is China’s H-6K strategic bomber getting powerful jamming capabilities? scmp.com/news/china/military…",
+   "created_at": "2026-10-27T08:38:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": null,
+    "views": 3973
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114994594622418975",
+   "url": "https://x.com/SCMPNews/status/2114994594622418975",
+   "text": "1 in 6 Gen Z South Koreans took GLP-1 slimming drugs last year: survey scmp.com/week-asia/health-en…",
+   "created_at": "2026-10-27T08:16:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5,
+    "retweets": 2,
+    "replies": 1,
+    "quotes": 1,
+    "views": 3339
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114990631592378651",
+   "url": "https://x.com/BBCWorld/status/2114990631592378651",
+   "text": "MP and MSP detained by Israel and barred from entering West Bank bbc.in/4jIWdH4",
+   "created_at": "2026-10-27T08:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 216,
+    "retweets": 43,
+    "replies": 227,
+    "quotes": 19,
+    "views": 91525
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114985497604841910",
+   "url": "https://x.com/SCMPNews/status/2114985497604841910",
+   "text": "Israelis vote in tense election testing Netanyahu’s grip on power scmp.com/news/world/middle-e…",
+   "created_at": "2026-10-27T07:40:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": null,
+    "views": 2782
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114979867057954849",
+   "url": "https://x.com/BBCWorld/status/2114979867057954849",
+   "text": "Major Chinese brands drop Mbappé as backlash grows over Mao joke bbc.in/4ibCXze",
+   "created_at": "2026-10-27T07:17:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2084,
+    "retweets": 252,
+    "replies": 207,
+    "quotes": 144,
+    "views": 638557
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114978847217062377",
+   "url": "https://x.com/SCMPNews/status/2114978847217062377",
+   "text": "South Korea’s president urged to play new Call of Duty as war wake-up call scmp.com/week-asia/lifestyle…",
+   "created_at": "2026-10-27T07:13:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 4,
+    "replies": 0,
+    "quotes": 1,
+    "views": 3855
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114973768473039185",
+   "url": "https://x.com/elonmusk/status/2114973768473039185",
+   "text": "Everyone should have at least a few penchants",
+   "created_at": "2026-10-27T06:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 18855,
+    "retweets": 1477,
+    "replies": 3332,
+    "quotes": 432,
+    "views": 3265945
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114969119103570012",
+   "url": "https://x.com/TechCrunch/status/2114969119103570012",
+   "text": "Whose hand is behind this travesty? spr.ly/6015BHiRrN",
+   "created_at": "2026-10-27T06:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 15,
+    "retweets": 2,
+    "replies": 10,
+    "quotes": null,
+    "views": 21838
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114968538276368467",
+   "url": "https://x.com/BBCWorld/status/2114968538276368467",
+   "text": "Event held to celebrate Thai culture in Jersey bbc.in/4k1nxR1",
+   "created_at": "2026-10-27T06:32:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 45,
+    "retweets": 8,
+    "replies": 23,
+    "quotes": 2,
+    "views": 71893
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114967042952687676",
+   "url": "https://x.com/elonmusk/status/2114967042952687676",
+   "text": "He’s right",
+   "created_at": "2026-10-27T06:26:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 10749,
+    "retweets": 1512,
+    "replies": 842,
+    "quotes": 62,
+    "views": 1432270
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114746982216404992/vid/avc1/1280x720/9ptsl6CclOQ--Vxe.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114746982216404992/img/6Dif_eRpIsMkNEh2.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": {
+    "id": "2114747000654598250",
+    "url": "https://x.com/townhallcom/status/2114747000654598250",
+    "text": "",
+    "author": {
+     "name": "Townhall.com",
+     "screen_name": "townhallcom",
+     "avatar": "https://pbs.twimg.com/profile_images/1646204237859242006/zbZik6FX_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114963442289271238",
+   "url": "https://x.com/BBCWorld/status/2114963442289271238",
+   "text": "Australian sunscreen brands face stricter rules after safety scandal bbc.in/4i8vEtx",
+   "created_at": "2026-10-27T06:12:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 115,
+    "retweets": 25,
+    "replies": 18,
+    "quotes": 2,
+    "views": 109924
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114961181832101937",
+   "url": "https://x.com/BBCWorld/status/2114961181832101937",
+   "text": "Donald Trump's biggest economic problem looks strangely familiar bbc.in/4yJydaA",
+   "created_at": "2026-10-27T06:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 118,
+    "retweets": 16,
+    "replies": 37,
+    "quotes": 1,
+    "views": 78698
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114957236527116779",
+   "url": "https://x.com/BBCWorld/status/2114957236527116779",
+   "text": "Israel heads to polls for pivotal election defined by security and democracy bbc.in/4yNZwR5",
+   "created_at": "2026-10-27T05:47:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 345,
+    "retweets": 62,
+    "replies": 78,
+    "quotes": 16,
+    "views": 91993
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114949569934987533",
+   "url": "https://x.com/SCMPNews/status/2114949569934987533",
+   "text": "‘Disgusting monster’: Meghan Markle’s dad slammed by son amid Philippine probe scmp.com/week-asia/people/ar…",
+   "created_at": "2026-10-27T05:17:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 2,
+    "replies": 1,
+    "quotes": null,
+    "views": 3921
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114944426271441127",
+   "url": "https://x.com/elonmusk/status/2114944426271441127",
+   "text": "Cute 🥰",
+   "created_at": "2026-10-27T04:56:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 6627,
+    "retweets": 546,
+    "replies": 715,
+    "quotes": 84,
+    "views": 1741341
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114773600574279837",
+    "url": "https://x.com/JensenHuang/status/2114773600574279837",
+    "text": "",
+    "author": {
+     "name": "Jensen Huang",
+     "screen_name": "JensenHuang",
+     "avatar": "https://pbs.twimg.com/profile_images/2080613261674962944/OMXX4RJ3_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114936152205697247",
+   "url": "https://x.com/elonmusk/status/2114936152205697247",
+   "text": "A Storm of Cybercabs",
+   "created_at": "2026-10-27T04:24:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 9867,
+    "retweets": 1148,
+    "replies": 959,
+    "quotes": 132,
+    "views": 1476266
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114749191067168769/vid/avc1/3840x2160/Ih-PzTMHGheahfdI.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVkZL1GaUAAddob.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": {
+    "id": "2114751345551147465",
+    "url": "https://x.com/thesimple_sarah/status/2114751345551147465",
+    "text": "",
+    "author": {
+     "name": "Sarah",
+     "screen_name": "thesimple_sarah",
+     "avatar": "https://pbs.twimg.com/profile_images/1846255498925879297/YBFZjRoJ_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114935735430119764",
+   "url": "https://x.com/alx/status/2114935735430119764",
+   "text": "Just published a Grok @Bot to remove my number from spam call lists and one to remove my personal info from public sites \n\nCall list remover: x.ai/bot/eGVcE2autG0u6UcAwE3… Privacy scrubber: x.ai/bot/ZSQK72Iear_ykfnpTIO… Took seconds to set up.",
+   "created_at": "2026-10-27T04:22:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "ALX 🎃🇺🇸",
+    "screen_name": "alx",
+    "avatar": "https://pbs.twimg.com/profile_images/2105508393213415424/ykMDJwKu_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2817,
+    "retweets": 0,
+    "replies": 194,
+    "quotes": 33,
+    "views": 402441
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVnC18ZXUAAsVnC.jpg?name=large&format=webp",
+    "https://pbs.twimg.com/media/HVnC18nWUAAbj8y.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114933597387858128",
+   "url": "https://x.com/SCMPNews/status/2114933597387858128",
+   "text": "South Korean drama ‘Doctor X’ triggers fresh row over Gwangju Uprising depiction scmp.com/news/asia/east-asia…",
+   "created_at": "2026-10-27T04:13:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3,
+    "retweets": 2,
+    "replies": 0,
+    "quotes": null,
+    "views": 7955
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114932484643172786",
+   "url": "https://x.com/SCMPNews/status/2114932484643172786",
+   "text": "Chinese scientists create powerful catalyst to turn air on Mars into rocket fuel scmp.com/news/china/science/…",
+   "created_at": "2026-10-27T04:09:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": 1,
+    "views": 4321
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114931068365414757",
+   "url": "https://x.com/elonmusk/status/2114931068365414757",
+   "text": "🤭",
+   "created_at": "2026-10-27T04:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 12721,
+    "retweets": 799,
+    "replies": 883,
+    "quotes": 78,
+    "views": 1516668
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVkXnl8WQAA6lVP.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114747474950725796",
+    "url": "https://x.com/RobotaxiRadar/status/2114747474950725796",
+    "text": "",
+    "author": {
+     "name": "Robotaxi Radar",
+     "screen_name": "RobotaxiRadar",
+     "avatar": "https://pbs.twimg.com/profile_images/1938424434152353793/M9qmT4lh_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114930622238200202",
+   "url": "https://x.com/elonmusk/status/2114930622238200202",
+   "text": "Sounds like Alex P🍆 knows a thing or two about being investigated 🤔",
+   "created_at": "2026-10-27T04:02:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 18858,
+    "retweets": 2204,
+    "replies": 597,
+    "quotes": 77,
+    "views": 2030000
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114923009039290680",
+    "url": "https://x.com/KatieMiller/status/2114923009039290680",
+    "text": "",
+    "author": {
+     "name": "Katie Miller",
+     "screen_name": "KatieMiller",
+     "avatar": "https://pbs.twimg.com/profile_images/2069236878105079808/w6zY6sZF_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114926690988081593",
+   "url": "https://x.com/p_ferragu/status/2114926690988081593",
+   "text": "10x safer to not-drive FSD than to drive a non-Tesla. What are you waiting for, Europe? Save lives!",
+   "created_at": "2026-10-27T03:46:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Pierre Ferragu",
+    "screen_name": "p_ferragu",
+    "avatar": "https://pbs.twimg.com/profile_images/1905334527821586432/Yz3rxBIX_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1606,
+    "retweets": 0,
+    "replies": 86,
+    "quotes": 7,
+    "views": 306078
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVm4hjTXMAAeOZ8.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114924525536034869",
+    "url": "https://x.com/SawyerMerritt/status/2114924525536034869",
+    "text": "",
+    "author": {
+     "name": "Sawyer Merritt",
+     "screen_name": "SawyerMerritt",
+     "avatar": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114921994152038908",
+   "url": "https://x.com/SCMPNews/status/2114921994152038908",
+   "text": "Myanmar refugee in Denmark demands justice over junta war crimes scmp.com/news/asia/southeast…",
+   "created_at": "2026-10-27T03:27:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": null,
+    "views": 3503
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114919284115706357",
+   "url": "https://x.com/BBCWorld/status/2114919284115706357",
+   "text": "New Zealand Election 2026: What you need to know bbc.in/4zdHI2N",
+   "created_at": "2026-10-27T03:17:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 84,
+    "retweets": 17,
+    "replies": 20,
+    "quotes": null,
+    "views": 80231
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114915295332553164",
+   "url": "https://x.com/BBCWorld/status/2114915295332553164",
+   "text": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump bbc.in/3UfDeth",
+   "created_at": "2026-10-27T03:01:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 99,
+    "retweets": 20,
+    "replies": 46,
+    "quotes": 4,
+    "views": 76861
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114910782752170077",
+   "url": "https://x.com/BBCWorld/status/2114910782752170077",
+   "text": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack bbc.in/3WtaSMI",
+   "created_at": "2026-10-27T02:43:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 168,
+    "retweets": 27,
+    "replies": 28,
+    "quotes": 7,
+    "views": 90362
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114901500027642180",
+   "url": "https://x.com/SCMPNews/status/2114901500027642180",
+   "text": "AI boy avatars go viral in China, using sob stories to trick elderly out of money scmp.com/news/people-culture…",
+   "created_at": "2026-10-27T02:06:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 1,
+    "replies": 1,
+    "quotes": 2,
+    "views": 6415
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114900669316399294",
+   "url": "https://x.com/TechCrunch/status/2114900669316399294",
+   "text": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. spr.ly/6016BH9hv6",
+   "created_at": "2026-10-27T02:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 59,
+    "retweets": 6,
+    "replies": 45,
+    "quotes": 6,
+    "views": 25218
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114897771001974921",
+   "url": "https://x.com/ID_AA_Carmack/status/2114897771001974921",
+   "text": "I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is around the corner, but reality check:\n\nThere is no robot in the world that can change the batteries in a jack-o-lantern.\n\nIf you have a robot friendly door handle it might be able to walk outside, pick it up, and carry it back inside. The robot could open the drawer with your batteries in it, but then things get tough.\n\nOpening the package of AA batteries?\nExtracting a precision screwdriver from its case?\nUnscrewing four tiny screws that require a hard press and twist?\nPopping batteries out of the case?\n\nYes, you could build and train a specialist robot to do that today, but there is a very long way to go to replace the full range of human capabilities. Near term doomer scenarios should stop at “secretly controlling humanity” instead of “wiping humanity out” 😀",
+   "created_at": "2026-10-27T01:51:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "John Carmack",
+    "screen_name": "ID_AA_Carmack",
+    "avatar": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5000,
+    "retweets": 0,
+    "replies": 520,
+    "quotes": 64,
+    "views": 742712
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114897185724579970",
+   "url": "https://x.com/BBCWorld/status/2114897185724579970",
+   "text": "Lula's comeback in Brazil dents Trump's ambitions for Latin America bbc.in/3VX0ZXA",
+   "created_at": "2026-10-27T01:49:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1071,
+    "retweets": 184,
+    "replies": 159,
+    "quotes": 6,
+    "views": 86591
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114894746837475660",
+   "url": "https://x.com/SCMPNews/status/2114894746837475660",
+   "text": "Hong Kong’s South China Morning Post shines at Asian Media Awards with 6 prizes scmp.com/news/hong-kong/soci…",
+   "created_at": "2026-10-27T01:39:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": null,
+    "views": 3483
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114893417599914366",
+   "url": "https://x.com/elonmusk/status/2114893417599914366",
+   "text": "Investigate your wiener",
+   "created_at": "2026-10-27T01:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 114406,
+    "retweets": 0,
+    "replies": 4917,
+    "quotes": 1093,
+    "views": 3741612
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114890314280292819",
+   "url": "https://x.com/Devon_Eriksen_/status/2114890314280292819",
+   "text": "In free nations, we investigate crimes to see who is guilty of them. \n\nIn communist tyrannies, they investigate men to see what they can be punished for.",
+   "created_at": "2026-10-27T01:21:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Devon Eriksen",
+    "screen_name": "Devon_Eriksen_",
+    "avatar": "https://pbs.twimg.com/profile_images/1740549721494638592/bp4iCXas_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 17539,
+    "retweets": 0,
+    "replies": 232,
+    "quotes": 62,
+    "views": 503451
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114798781778862589",
+    "url": "https://x.com/SenAlexPadilla/status/2114798781778862589",
+    "text": "",
+    "author": {
+     "name": "Senator Alex Padilla",
+     "screen_name": "SenAlexPadilla",
+     "avatar": "https://pbs.twimg.com/profile_images/1410351547964432388/VgMJmiWA_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114888086828065146",
+   "url": "https://x.com/TechCrunch/status/2114888086828065146",
+   "text": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI. spr.ly/6019BH9f9H",
+   "created_at": "2026-10-27T01:13:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 40,
+    "retweets": 11,
+    "replies": 39,
+    "quotes": 1,
+    "views": 20520
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114887171534393468",
+   "url": "https://x.com/SCMPNews/status/2114887171534393468",
+   "text": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure scmp.com/news/china/military…",
+   "created_at": "2026-10-27T01:09:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": 1,
+    "views": 3508
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114878524498583722",
+   "url": "https://x.com/BBCWorld/status/2114878524498583722",
+   "text": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump bbc.in/4i7EQhM",
+   "created_at": "2026-10-27T00:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 371,
+    "retweets": 77,
+    "replies": 20,
+    "quotes": null,
+    "views": 82616
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114878284915745156",
+   "url": "https://x.com/SCMPNews/status/2114878284915745156",
+   "text": "Officials pledge to quell dog attacks before first Northern Metropolis Marathon scmp.com/sport/hong-kong/art…",
+   "created_at": "2026-10-27T00:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": 1,
+    "views": 3798
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114871658074759380",
+   "url": "https://x.com/SCMPNews/status/2114871658074759380",
+   "text": "Southeast Asia’s housing paradox: too many homes, too few buyers scmp.com/week-asia/economics…",
+   "created_at": "2026-10-27T00:07:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 15,
+    "retweets": 4,
+    "replies": 0,
+    "quotes": 2,
+    "views": 5304
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114870559733362724",
+   "url": "https://x.com/BBCWorld/status/2114870559733362724",
+   "text": "India's largest share sale could end cheap mobile internet for millions bbc.in/4st38Gw",
+   "created_at": "2026-10-27T00:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 74,
+    "retweets": 11,
+    "replies": 17,
+    "quotes": 5,
+    "views": 91247
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114870681494081699",
+   "url": "https://x.com/SCMPNews/status/2114870681494081699",
+   "text": "What message is China sending with latest footage of ‘no-notice’ DF rocket drill? scmp.com/news/china/military…",
+   "created_at": "2026-10-27T00:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 11,
+    "retweets": 3,
+    "replies": 2,
+    "quotes": null,
+    "views": 6632
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114867553205879274",
+   "url": "https://x.com/SCMPNews/status/2114867553205879274",
+   "text": "US rapper Macklemore launches Free Palestine Tour after Ed Sheeran rift scmp.com/news/world/europe/a…",
+   "created_at": "2026-10-26T23:51:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 20,
+    "retweets": 3,
+    "replies": 5,
+    "quotes": null,
+    "views": 3655
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114858608152154577",
+   "url": "https://x.com/SCMPNews/status/2114858608152154577",
+   "text": "Hong Kong to overhaul traffic management at Huanggang Port after weekend gridlock scmp.com/news/hong-kong/tran…",
+   "created_at": "2026-10-26T23:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "South China Morning Post",
+    "screen_name": "SCMPNews",
+    "avatar": "https://pbs.twimg.com/profile_images/2056304299395997696/5r1VQqHg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4,
+    "retweets": 2,
+    "replies": 0,
+    "quotes": null,
+    "views": 3751
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114854940711833669",
+   "url": "https://x.com/elonmusk/status/2114854940711833669",
+   "text": "🎯😂",
+   "created_at": "2026-10-26T23:01:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 74329,
+    "retweets": 3673,
+    "replies": 1783,
+    "quotes": 245,
+    "views": 5135726
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HSBY_zab0AEIhLB.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2098775310691078252",
+    "url": "https://x.com/tahreem57/status/2098775310691078252",
+    "text": "",
+    "author": {
+     "name": "Tahreem Hussain",
+     "screen_name": "tahreem57",
+     "avatar": "https://pbs.twimg.com/profile_images/1782826101594550272/kAdNIvp0_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114853045276144070",
+   "url": "https://x.com/BBCBreaking/status/2114853045276144070",
+   "text": "Harry Kane becomes first Englishman in 25 years to win the Ballon d'Or - football's top individual prize bbc.in/48j8ESI",
+   "created_at": "2026-10-26T22:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC Breaking News",
+    "screen_name": "BBCBreaking",
+    "avatar": "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2960,
+    "retweets": 0,
+    "replies": 107,
+    "quotes": 42,
+    "views": 1179069
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "BBC News (World)",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114840263247933839",
+   "url": "https://x.com/TechCrunch/status/2114840263247933839",
+   "text": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team. spr.ly/6012BH9oQM",
+   "created_at": "2026-10-26T22:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 49,
+    "retweets": 7,
+    "replies": 14,
+    "quotes": null,
+    "views": 32398
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114839996452470828",
+   "url": "https://x.com/BBCWorld/status/2114839996452470828",
+   "text": "Ex-FBI chief James Comey faces federal charges for third time bbc.in/3Uol20y",
+   "created_at": "2026-10-26T22:02:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 130,
+    "retweets": 23,
+    "replies": 33,
+    "quotes": 4,
+    "views": 183185
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114833682469122314",
+   "url": "https://x.com/danintheory/status/2114833682469122314",
+   "text": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory. openai.com/index/building-sc…",
+   "created_at": "2026-10-26T21:36:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Dan Roberts",
+    "screen_name": "danintheory",
+    "avatar": "https://pbs.twimg.com/profile_images/450003768709353472/Nod6R8y0_400x400.jpeg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5972,
+    "retweets": 0,
+    "replies": 262,
+    "quotes": 495,
+    "views": 1541162
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "OpenAI",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114833652442132841",
+   "url": "https://x.com/wholemars/status/2114833652442132841",
+   "text": "There must be a meaningful political opposition in the United States. One party rule always ends in disaster. \n\nSome states like California are de facto one party rule already. They hand you a ballot where your choice is two Democrats. \n\nThey ask you with a straight face, who do you want to be the next mayor of Los Angeles… the mayor who let the city burn while she was traveling abroad, or a socialist?",
+   "created_at": "2026-10-26T21:36:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Whole Mars Catalog",
+    "screen_name": "wholemars",
+    "avatar": "https://pbs.twimg.com/profile_images/2100121110960553984/UWLjAKcu_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2826,
+    "retweets": 0,
+    "replies": 173,
+    "quotes": 18,
+    "views": 415384
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114826673623285990",
+   "url": "https://x.com/TechCrunch/status/2114826673623285990",
+   "text": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right. spr.ly/6014BH9c36",
+   "created_at": "2026-10-26T21:09:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 75,
+    "retweets": 7,
+    "replies": 19,
+    "quotes": 2,
+    "views": 25337
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114808284288782545",
+   "url": "https://x.com/BBCWorld/status/2114808284288782545",
+   "text": "Macklemore begins Free Palestine tour after Ed Sheeran fallout bbc.in/4zb6a4P",
+   "created_at": "2026-10-26T19:56:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 6167,
+    "retweets": 658,
+    "replies": 622,
+    "quotes": 58,
+    "views": 724739
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114801524358406570",
+   "url": "https://x.com/NASA/status/2114801524358406570",
+   "text": "The @NASAWebb telescope recently spotted stars brewing in this cosmic cauldron. This region of toil and trouble, named N159, is 161,000 light-years from Earth, in the Large Magellanic Cloud.",
+   "created_at": "2026-10-26T19:29:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4285,
+    "retweets": 514,
+    "replies": 173,
+    "quotes": 32,
+    "views": 877053
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVlIxvSXQAElfnf.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114801483749245260",
+   "url": "https://x.com/BBCWorld/status/2114801483749245260",
+   "text": "Trump administration illegally fired James Comey's daughter, judge rules bbc.in/4yHj616",
+   "created_at": "2026-10-26T19:28:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "BBC News (World)",
+    "screen_name": "BBCWorld",
+    "avatar": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 314,
+    "retweets": 59,
+    "replies": 34,
+    "quotes": 1,
+    "views": 89521
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114800007727423728",
+   "url": "https://x.com/TechCrunch/status/2114800007727423728",
+   "text": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking. spr.ly/6012BH9kME",
+   "created_at": "2026-10-26T19:23:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 28,
+    "retweets": 3,
+    "replies": 17,
+    "quotes": null,
+    "views": 21141
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114795166540394888",
+   "url": "https://x.com/DataRepublican/status/2114795166540394888",
+   "text": "Well.",
+   "created_at": "2026-10-26T19:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "DataRepublican (small r)",
+    "screen_name": "DataRepublican",
+    "avatar": "https://pbs.twimg.com/profile_images/1807813962236645376/li41KShP_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 19844,
+    "retweets": 0,
+    "replies": 537,
+    "quotes": 176,
+    "views": 555361
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114746982216404992/vid/avc1/1280x720/9ptsl6CclOQ--Vxe.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114746982216404992/img/6Dif_eRpIsMkNEh2.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": {
+    "id": "2114747000654598250",
+    "url": "https://x.com/townhallcom/status/2114747000654598250",
+    "text": "",
+    "author": {
+     "name": "Townhall.com",
+     "screen_name": "townhallcom",
+     "avatar": "https://pbs.twimg.com/profile_images/1646204237859242006/zbZik6FX_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114794969391091760",
+   "url": "https://x.com/TechCrunch/status/2114794969391091760",
+   "text": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone? spr.ly/6019BH9nEN",
+   "created_at": "2026-10-26T19:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 27,
+    "retweets": 6,
+    "replies": 10,
+    "quotes": 1,
+    "views": 16783
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114780711664398349",
+   "url": "https://x.com/OpenAI/status/2114780711664398349",
+   "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+   "created_at": "2026-10-26T18:06:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 25548,
+    "retweets": 2247,
+    "replies": 1389,
+    "quotes": 1992,
+    "views": 4391726
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114778494395678720/vid/avc1/1920x1080/oUzhkuK2tc42w-OZ.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVk3m2pW0AERTJj.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114780717188272382",
+   "url": "https://x.com/OpenAI/status/2114780717188272382",
+   "text": "GPT-6.1 Terra substantially outperforms GPT-5.6 Terra on Agents’ Last Exam, a test of how well agents use software at work.\n\nIt even matches GPT-6 Astra at one-tenth the price per token and finishes tasks over 3× faster on average than both Astra and GPT-6.1 Sol.",
+   "created_at": "2026-10-26T18:06:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3103,
+    "retweets": 357,
+    "replies": 113,
+    "quotes": 462,
+    "views": 952958
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVk0CqWXkAAnsvd.png?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114780720170164735",
+   "url": "https://x.com/OpenAI/status/2114780720170164735",
+   "text": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.\n\nDevelopers can also access it through the OpenAI API as gpt-6.1-terra. openai.com/index/introducing…",
+   "created_at": "2026-10-26T18:06:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1447,
+    "retweets": 66,
+    "replies": 38,
+    "quotes": 35,
+    "views": 242815
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114776541364191390",
+   "url": "https://x.com/EndWokeness/status/2114776541364191390",
+   "text": "This makes no sense when you realize all of the top round 1 candidates were right wing",
+   "created_at": "2026-10-26T17:49:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "End Wokeness",
+    "screen_name": "EndWokeness",
+    "avatar": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 6748,
+    "retweets": 0,
+    "replies": 131,
+    "quotes": 15,
+    "views": 379541
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVkvEi9WEAAf3KS.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2114773279667810673",
+    "url": "https://x.com/PollTracker2024/status/2114773279667810673",
+    "text": "",
+    "author": {
+     "name": "Politics & Poll Tracker 📡",
+     "screen_name": "PollTracker2024",
+     "avatar": "https://pbs.twimg.com/profile_images/1827527827018690560/XQA9QAU2_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114776339760701918",
+   "url": "https://x.com/TechCrunch/status/2114776339760701918",
+   "text": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators. spr.ly/6010BH93sg",
+   "created_at": "2026-10-26T17:49:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 40,
+    "retweets": 10,
+    "replies": 10,
+    "quotes": 1,
+    "views": 17845
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114772999396069613",
+   "url": "https://x.com/america/status/2114772999396069613",
+   "text": "Texas parents need to understand how serious this election is.\n\nIf you refuse to “affirm” your child’s trans identity, Democrat James Talarico thinks you should be charged with child abuse.\n\nHe voted for a law in the state legislature that would do this, it’s exactly what he would do in the Senate.\n\nThis is insane.",
+   "created_at": "2026-10-26T17:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "America",
+    "screen_name": "america",
+    "avatar": "https://pbs.twimg.com/profile_images/1842003465448398848/U3EZmdUz_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2519,
+    "retweets": 0,
+    "replies": 165,
+    "quotes": 31,
+    "views": 306934
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2099491605614878721/vid/avc1/642x362/3hLGLCBUhcNMMVdq.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2099491605614878721/img/6QHSHdW-J0J6Rl4q.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114762255401193672",
+   "url": "https://x.com/TechCrunch/status/2114762255401193672",
+   "text": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier. spr.ly/6016BH9HKo",
+   "created_at": "2026-10-26T16:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 43,
+    "retweets": 5,
+    "replies": 9,
+    "quotes": 1,
+    "views": 20327
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114761244452262337",
+   "url": "https://x.com/TechCrunch/status/2114761244452262337",
+   "text": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU spr.ly/6019BH9GUN",
+   "created_at": "2026-10-26T16:49:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 41,
+    "retweets": 6,
+    "replies": 14,
+    "quotes": 3,
+    "views": 22666
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114748661376618772",
+   "url": "https://x.com/TechCrunch/status/2114748661376618772",
+   "text": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce. spr.ly/6012BHghNA",
+   "created_at": "2026-10-26T15:59:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 73,
+    "retweets": 11,
+    "replies": 6,
+    "quotes": 3,
+    "views": 48438
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114739987271073944",
+   "url": "https://x.com/live_munro/status/2114739987271073944",
+   "text": "The full video is now live on @YouTube !\n\nA big thank you to @larsmoravy , @EricETesla , and the rest of the Tesla team for taking the time to walk us through the Cybercab and share the engineering, design, and technology behind it.",
+   "created_at": "2026-10-26T15:24:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Munro Live",
+    "screen_name": "live_munro",
+    "avatar": "https://pbs.twimg.com/profile_images/2085091870758080512/LAApVpym_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2880,
+    "retweets": 0,
+    "replies": 103,
+    "quotes": 70,
+    "views": 698460
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114739348461510656/vid/avc1/3840x2160/UJGimSoo5KriDQ-N.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114739348461510656/img/XYuOdVEYFhRFpRkn.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114728526158905726",
+   "url": "https://x.com/TechCrunch/status/2114728526158905726",
+   "text": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission. spr.ly/6011BHgLYZ",
+   "created_at": "2026-10-26T14:39:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 89,
+    "retweets": 11,
+    "replies": 31,
+    "quotes": 4,
+    "views": 28074
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114726009815671150",
+   "url": "https://x.com/TechCrunch/status/2114726009815671150",
+   "text": "The new iPad mini features a thinner and lighter design than its predecessor. spr.ly/6018BHgIea",
+   "created_at": "2026-10-26T14:29:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 20,
+    "retweets": 4,
+    "replies": 8,
+    "quotes": 3,
+    "views": 22988
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114720977279922550",
+   "url": "https://x.com/TechCrunch/status/2114720977279922550",
+   "text": "Matiks has introduced a new platform for users to create games using AI. spr.ly/6018BHgaye",
+   "created_at": "2026-10-26T14:09:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 315,
+    "retweets": 24,
+    "replies": 18,
+    "quotes": 13,
+    "views": 66296
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114712197834149958",
+   "url": "https://x.com/LunarResearcher/status/2114712197834149958",
+   "text": "Holy f*ck, Elon Musk's team at spacexai just dropped a full spam killer inside Grok Bot, and it's free\n\nDeleteMe charges $129 a year to pull your number off spam lists\n\nGrok Bot does it for $0\n\nIt finds your number on people-search sites, files every opt-out, clicks the confirmation emails and checks again every month\n\nAdd the free Spam-Call Scrubber skill, then say these 3 lines once:\n\n1. \"Find every site that lists my phone number and home address\"\n2. \"File the opt-out on each one and finish the confirmation emails\"\n3. \"Check again on the 1st of every month and tell me what came back\"\n\nSay line 1 tonight\n\nThen read how to wire it into a team that never sleeps in the article below ↓",
+   "created_at": "2026-10-26T13:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Lunar",
+    "screen_name": "LunarResearcher",
+    "avatar": "https://pbs.twimg.com/profile_images/2035680801216475136/FRvLbYgF_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 10112,
+    "retweets": 0,
+    "replies": 411,
+    "quotes": 67,
+    "views": 945439
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114712072747405312/vid/avc1/1080x1350/AF5u4mwVWyMZIn6P.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114712072747405312/img/mIbjgRRRSgsygmm4.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": {
+    "id": "2101661510091034926",
+    "url": "https://x.com/0xjmori/status/2101661510091034926",
+    "text": "",
+    "author": {
+     "name": "Mori",
+     "screen_name": "0xjmori",
+     "avatar": "https://pbs.twimg.com/profile_images/2096395098594615296/tycV6b2J_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114703361790378451",
+   "url": "https://x.com/TechCrunch/status/2114703361790378451",
+   "text": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software. spr.ly/6019BHgoPT",
+   "created_at": "2026-10-26T12:59:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 25,
+    "retweets": 2,
+    "replies": 14,
+    "quotes": 3,
+    "views": 21310
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114632715794366681",
+   "url": "https://x.com/SpringerNature/status/2114632715794366681",
+   "text": "Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help reviewers navigate manuscripts more effectively and focus their time on specialist scientific judgement.\n\nLearn more: spklr.io/6017EVgrh",
+   "created_at": "2026-10-26T08:18:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Springer Nature",
+    "screen_name": "SpringerNature",
+    "avatar": "https://pbs.twimg.com/profile_images/1940305245533310977/12thiGQd_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 72,
+    "retweets": 0,
+    "replies": 11,
+    "quotes": 4,
+    "views": 23756
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVivP1EXwAAPtHo.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114525692083740875",
+   "url": "https://x.com/TechCrunch/status/2114525692083740875",
+   "text": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you. spr.ly/6010BH52iE",
+   "created_at": "2026-10-26T01:13:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 34,
+    "retweets": 4,
+    "replies": 13,
+    "quotes": 1,
+    "views": 25813
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114484649430798432",
+   "url": "https://x.com/NASA/status/2114484649430798432",
+   "text": "Have you put up your Halloween decor? The night sky will add the finishing touch. 🌕\n \nOctober’s full moon, named the Hunter’s Moon, will rise on the night of Oct. 26. Its name comes from the seasonal practice of hunters relying on bright moonlight.",
+   "created_at": "2026-10-25T22:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7574,
+    "retweets": 1258,
+    "replies": 308,
+    "quotes": 146,
+    "views": 1286666
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVbziVaWQAAxGi1.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114470328604766391",
+   "url": "https://x.com/TechCrunch/status/2114470328604766391",
+   "text": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. spr.ly/6012BH5WXy",
+   "created_at": "2026-10-25T21:33:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 42,
+    "retweets": 6,
+    "replies": 23,
+    "quotes": 1,
+    "views": 37100
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114453209859104945",
+   "url": "https://x.com/TechCrunch/status/2114453209859104945",
+   "text": "\"That's a 12-year-old view of the world.\" spr.ly/6019BH5ii3",
+   "created_at": "2026-10-25T20:25:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 17,
+    "retweets": 4,
+    "replies": 7,
+    "quotes": 1,
+    "views": 25708
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114425731832775042",
+   "url": "https://x.com/NASAAdmin/status/2114425731832775042",
+   "text": "This is how @NASA does game day. Roll Tide! 🚀🏈",
+   "created_at": "2026-10-25T18:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA Administrator Jared Isaacman",
+    "screen_name": "NASAAdmin",
+    "avatar": "https://pbs.twimg.com/profile_images/2001755387486232576/mf5hRS_U_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2895,
+    "retweets": 0,
+    "replies": 68,
+    "quotes": 21,
+    "views": 248934
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2114425548155895808/vid/avc1/3840x2160/-NRZdivMMJO2m2uo.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVfy1VUXIAE7NRo.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114401374465073653",
+   "url": "https://x.com/TechCrunch/status/2114401374465073653",
+   "text": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" spr.ly/6014BH5uME",
+   "created_at": "2026-10-25T16:59:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "TechCrunch",
+    "screen_name": "TechCrunch",
+    "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_400x400.png",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 171,
+    "retweets": 28,
+    "replies": 84,
+    "quotes": 26,
+    "views": 62554
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114390461586477325",
+   "url": "https://x.com/DimaZeniuk/status/2114390461586477325",
+   "text": "“The diplomats want war and the warriors want peace.”\n\n— Elon Musk",
+   "created_at": "2026-10-25T16:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Dima Zeniuk",
+    "screen_name": "DimaZeniuk",
+    "avatar": "https://pbs.twimg.com/profile_images/1630993148380938246/rhnQ_j7Z_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7695,
+    "retweets": 0,
+    "replies": 555,
+    "quotes": 90,
+    "views": 434982
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVfS6pcWAAAy6zI.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Elon Musk",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114127143072387241",
+   "url": "https://x.com/NASAAdmin/status/2114127143072387241",
+   "text": "Roll Tide and full throttle!\n\nAn incredible day in Tuscaloosa with @SecRollins , from signing a new agreement between @NASA and @USDA and meeting with students at @UofAlabama to flying over a packed Bryant-Denny Stadium ahead of Alabama vs. Texas A&M.\n\nThe same spirit that takes us into the skies will take us back to the Moon and inspire the next generation to take us even farther.",
+   "created_at": "2026-10-24T22:49:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA Administrator Jared Isaacman",
+    "screen_name": "NASAAdmin",
+    "avatar": "https://pbs.twimg.com/profile_images/2001755387486232576/mf5hRS_U_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2234,
+    "retweets": 0,
+    "replies": 75,
+    "quotes": 14,
+    "views": 220885
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVbjbXOXAAAXJ0a.jpg?name=large&format=webp",
+    "https://pbs.twimg.com/media/HVbjbXMXcAAphce.jpg?name=large&format=webp",
+    "https://pbs.twimg.com/media/HVbjbXNXMAAgzFI.jpg?name=large&format=webp",
+    "https://pbs.twimg.com/media/HVbjbXNWQAAeEGi.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2114034650117284068",
+   "url": "https://x.com/NASASpox/status/2114034650117284068",
+   "text": "NASA’s Inspiration Tour has landed in in the SEC 🚀🏈\n\nAhead of Alabama vs. Texas A&M, @NASAAdmin met with students and fans outside Bryant-Denny Stadium, joined @SecRollins to sign a new MOU between NASA and @USDA , and will soon take to the skies for today’s flyover!",
+   "created_at": "2026-10-24T16:41:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA Spox",
+    "screen_name": "NASASpox",
+    "avatar": "https://pbs.twimg.com/profile_images/2094450130237755392/4TkxuQxN_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 657,
+    "retweets": 0,
+    "replies": 16,
+    "quotes": 7,
+    "views": 204238
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVaPTtiXsAAF4yu.jpg?name=large&format=webp",
+    "https://pbs.twimg.com/media/HVaPTuKXMAA6z1e.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113981790897463375",
+   "url": "https://x.com/Nasdaq/status/2113981790897463375",
+   "text": "28.1 miles. A new off-world record on Mars.\n \nAfter more than 2,000 Martian days exploring Jezero Crater, @NASA ’s Perseverance rover continues to show what’s possible when science, technology, and exploration come together.\n \nCongratulations @NASA and @NASAJPL . Here’s to pushing boundaries, on Earth and beyond.",
+   "created_at": "2026-10-24T13:11:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Nasdaq",
+    "screen_name": "Nasdaq",
+    "avatar": "https://pbs.twimg.com/profile_images/1521140484512620544/Ev6EIPlD_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 471,
+    "retweets": 0,
+    "replies": 19,
+    "quotes": 9,
+    "views": 197260
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2113981749839515648/vid/avc1/1080x1920/O7AVYPF-_q6jj8Hw.mp4?tag=16",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2113981749839515648/img/pcg1Y8bHjQSBcVyI.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113776971603689874",
+   "url": "https://x.com/NASA/status/2113776971603689874",
+   "text": "We are not slowing down. 🚀\n\nOur Artemis III mission will send four astronauts to low Earth orbit next year to test critical systems needed for future lunar landings go.nasa.gov/4jzartX and we’re accelerating efforts to ensure the success of Artemis IV, the first Artemis mission on the lunar surface go.nasa.gov/4zV3TLc .",
+   "created_at": "2026-10-23T23:37:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7782,
+    "retweets": 1030,
+    "replies": 375,
+    "quotes": 89,
+    "views": 1332953
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2113776813121941504/vid/avc1/1920x1080/oa29OYgVBG7qAyEB.mp4?tag=16",
+     "thumbnail": "https://pbs.twimg.com/media/HVWk812WIAAg_hz.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113766354386084338",
+   "url": "https://x.com/OpenAI/status/2113766354386084338",
+   "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.\n\nThis root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.\n\nMore details on the patch and mitigations below: patchtheplanet.org/brotli",
+   "created_at": "2026-10-23T22:55:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7034,
+    "retweets": 1010,
+    "replies": 541,
+    "quotes": 500,
+    "views": 2099311
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2113718797505036665",
+    "url": "https://x.com/OpenAI/status/2113718797505036665",
+    "text": "",
+    "author": {
+     "name": "OpenAI",
+     "screen_name": "OpenAI",
+     "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113761368096587982",
+   "url": "https://x.com/NASASpox/status/2113761368096587982",
+   "text": "NASA just shared some major updates on the road ahead for Artemis 🚀\n \n2027: Artemis III tests Orion and two lunar landers in low Earth orbit.\n2028: Artemis IV returns Americans to the Moon.\n \nCatch up on today's announcements in this special edition NASA Minute!",
+   "created_at": "2026-10-23T22:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA Spox",
+    "screen_name": "NASASpox",
+    "avatar": "https://pbs.twimg.com/profile_images/2094450130237755392/4TkxuQxN_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 641,
+    "retweets": 0,
+    "replies": 40,
+    "quotes": 10,
+    "views": 180473
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2113757177340919808/vid/avc1/2160x3840/fIoGRveanPREBRp3.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVWWdrLXQAAeA01.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113753218543243304",
+   "url": "https://x.com/ChatGPT/status/2113753218543243304",
+   "text": "We’re using dots to build better dots. @rennsong , an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex.",
+   "created_at": "2026-10-23T22:03:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "ChatGPT",
+    "screen_name": "ChatGPT",
+    "avatar": "https://pbs.twimg.com/profile_images/2081980424666935296/qU5G7mQg_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1950,
+    "retweets": 0,
+    "replies": 241,
+    "quotes": 26,
+    "views": 254208
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2113751572547350529/vid/avc1/1920x1080/DEANAzzXoG1inMEZ.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HVWQJ94W0AEmhQL.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "OpenAI",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113718797505036665",
+   "url": "https://x.com/OpenAI/status/2113718797505036665",
+   "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can still learn to browse, search, and use applications.\n\nOn September 20, after a model exploited a DNS misconfiguration to find a way outside of this offline world, we paused frontier training to strengthen containment further. We assembled teams of agents, powered by our most cyber-capable models, and tasked them with finding weaknesses in our research environments.\n\nWhile they found no route to the internet they could easily exploit while concealing their activity from our monitors, they did find zero-day vulnerabilities, virtual machine escapes, and hardware side-channels for communication between agents. We used their discoveries to further strengthen our defenses and contribute fixes to open-source software.\n\nAfter strengthening our containment architecture, we resumed our frontier RL training and inference on October 1. We’ve reserved substantial compute for continuous red-teaming, and made high-compute red-teaming part of the safety cases we use to decide whether frontier training and evaluation can proceed securely. openai.com/index/securing-ou…",
+   "created_at": "2026-10-23T19:46:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 13646,
+    "retweets": 1245,
+    "replies": 1171,
+    "quotes": 1327,
+    "views": 7587571
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113693409772761305",
+   "url": "https://x.com/NASA/status/2113693409772761305",
+   "text": "LIVE: @NASAAdmin and agency leaders are sharing the latest updates on next year's Artemis III mission and our plans to return astronauts to the surface of the Moon by 2028. xitter.cf/i/broadcasts/1RJZzBdZY…",
+   "created_at": "2026-10-23T18:05:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3856,
+    "retweets": 786,
+    "replies": 295,
+    "quotes": 129,
+    "views": 2218966
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113655288687431819",
+   "url": "https://x.com/NASA/status/2113655288687431819",
+   "text": "Ahh… blue lagoon 🏖️\n\nThis deep-blue sea of gas and dust—called Messier 8 or the Lagoon Nebula—is a hotbed of star formation. The young stars within the nebula emit rays of high-energy light, including X-rays shown in pink by @chandraxray .",
+   "created_at": "2026-10-23T15:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 8586,
+    "retweets": 1626,
+    "replies": 254,
+    "quotes": 103,
+    "views": 837902
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVU2SLKW0AA7q0a.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113645959762575623",
+   "url": "https://x.com/GoogleDeepMind/status/2113645959762575623",
+   "text": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity .\n\nIt iterates on the geometry, textures, and lighting to create the finished scene.",
+   "created_at": "2026-10-23T14:57:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2447,
+    "retweets": 181,
+    "replies": 276,
+    "quotes": 119,
+    "views": 169587
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2113645779952807937/vid/avc1/1920x1080/mXBp-jHe7_mtt1jU.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2113645779952807937/img/WXn93XhmXcD8Cp4D.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113361341071212918",
+   "url": "https://x.com/NASAArtemis/status/2113361341071212918",
+   "text": "Ready for an Artemis update?\n\nTune in Friday, Oct. 23, at 2 p.m. ET (1800 UTC) to hear our latest progress and accelerated plans for Artemis lunar missions.\n\nWatch live: youtube.com/live/pAKqJxuxDgk",
+   "created_at": "2026-10-22T20:06:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA Artemis",
+    "screen_name": "NASAArtemis",
+    "avatar": "https://pbs.twimg.com/profile_images/2042236624377921536/axp_8Jli_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2540,
+    "retweets": 0,
+    "replies": 51,
+    "quotes": 46,
+    "views": 270428
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVQq8KgXkAET_oY.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113358139999265160",
+   "url": "https://x.com/NASA/status/2113358139999265160",
+   "text": "That's our jam 🎼\n \nAstronomers used @ChandraXray to find out that this radio wave formation, known as the \"Treble Clef\" thanks to its distinctive shape, was likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters.",
+   "created_at": "2026-10-22T19:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5311,
+    "retweets": 838,
+    "replies": 284,
+    "quotes": 64,
+    "views": 995297
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVQoB1nXIAAiLcW.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113298833392496746",
+   "url": "https://x.com/OpenAI/status/2113298833392496746",
+   "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
+   "created_at": "2026-10-22T15:57:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2647,
+    "retweets": 147,
+    "replies": 377,
+    "quotes": 92,
+    "views": 409777
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2113290966933389390",
+    "url": "https://x.com/METR_Evals/status/2113290966933389390",
+    "text": "",
+    "author": {
+     "name": "METR",
+     "screen_name": "METR_Evals",
+     "avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113278710795153785",
+   "url": "https://x.com/GoogleDeepMind/status/2113278710795153785",
+   "text": "Not all forests are equal, and now we can map the difference. 🌳\n\nMeet Forest Typology (ForTy): a 10m map of natural, planted, and farmed forests to help identify deforestation and protect the forests that matter most. 🧵",
+   "created_at": "2026-10-22T14:38:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 880,
+    "retweets": 124,
+    "replies": 138,
+    "quotes": 62,
+    "views": 84580
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/tweet_video/HVPfO3QXkAAphKe.mp4",
+     "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HVPfO3QXkAAphKe.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113278719447965943",
+   "url": "https://x.com/GoogleDeepMind/status/2113278719447965943",
+   "text": "Different forests can look identical from above, so ForTy tracks how they have changed over time. 🌲🛰️\n\nBuilt on AlphaEarth Foundations, our foundational AI model for planetary data, ForTy reads years of satellite imagery across 1.7M sites to help governments, companies, conservation groups and scientists build deforestation-free supply chains.",
+   "created_at": "2026-10-22T14:38:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 57,
+    "retweets": 4,
+    "replies": 5,
+    "quotes": 1,
+    "views": 17207
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVPfa0yXsAEkhQH.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2113278722337804299",
+   "url": "https://x.com/GoogleDeepMind/status/2113278722337804299",
+   "text": "Published in @ScientificData , the ForTy 2020 map and the 2017–2025 time series are freely available today on Google Earth Engine - helping organizations build deforestation-free supply chains and protect the natural forests that matter most.  \nFind out more → goo.gle/48aHnBS",
+   "created_at": "2026-10-22T14:38:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 47,
+    "retweets": 3,
+    "replies": 4,
+    "quotes": 3,
+    "views": 15335
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112988118471295323",
+   "url": "https://x.com/OpenAI/status/2112988118471295323",
+   "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build. openai.com/index/openai-mode…",
+   "created_at": "2026-10-21T19:23:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 5272,
+    "retweets": 412,
+    "replies": 481,
+    "quotes": 229,
+    "views": 521450
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112974723659247896",
+   "url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
+   "text": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart.",
+   "created_at": "2026-10-21T18:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3138,
+    "retweets": 305,
+    "replies": 245,
+    "quotes": 68,
+    "views": 225872
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112974557619302400/vid/avc1/1920x1080/drtYOJAYBY2n30ix.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112974557619302400/img/C5NXfnVigLrq4siZ.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112959650551173522",
+   "url": "https://x.com/NASA/status/2112959650551173522",
+   "text": "\"I just hear over and over again: 'I felt like I went on the mission with you'.\"\n\nArtemis II's Jeremy Hansen and Victor Glover reflect on their historic trip around the Moon — and how life on Earth has been since — in our latest Houston We Have A Podcast: go.nasa.gov/4dSkerm",
+   "created_at": "2026-10-21T17:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1807,
+    "retweets": 237,
+    "replies": 189,
+    "quotes": 16,
+    "views": 903649
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVK9moNWUAAzx2Y.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112956250908750175",
+   "url": "https://x.com/ralucaadapopa/status/2112956250908750175",
+   "text": "Wiz Research discovered PHP2Shell - CVSS 9.2 vulnerabilities in core PHP affecting 70% of the web. Pleased to see the important role that Gemini 4 Argon played here, finding the vulnerability, developing the complex exploit chain, creating attack detectors and validating the patch, giving defenders an advantage. Read more here: wiz.io/blog/php2shell-php-rc…",
+   "created_at": "2026-10-21T17:16:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Raluca Ada Popa",
+    "screen_name": "ralucaadapopa",
+    "avatar": "https://pbs.twimg.com/profile_images/1152741019210801153/__uOTf_S_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 100,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 2,
+    "views": 22044
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112945805686604033",
+   "url": "https://x.com/OpenAI/status/2112945805686604033",
+   "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it: github.com/openai/php2shell-…",
+   "created_at": "2026-10-21T16:35:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 9420,
+    "retweets": 1220,
+    "replies": 352,
+    "quotes": 233,
+    "views": 1485928
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2112907856018309586",
+    "url": "https://x.com/OpenAI/status/2112907856018309586",
+    "text": "",
+    "author": {
+     "name": "OpenAI",
+     "screen_name": "OpenAI",
+     "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112931457786081428",
+   "url": "https://x.com/elonmusk/status/2112931457786081428",
+   "text": "Some fools still think the legacy news is real. Amazing.",
+   "created_at": "2026-10-21T15:38:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 297948,
+    "retweets": 36549,
+    "replies": 19047,
+    "quotes": 2929,
+    "views": 25670734
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112922030165090573",
+   "url": "https://x.com/TZahavy/status/2112922030165090573",
+   "text": "Over the past year, the Discovery team at @GoogleDeepMind , in a project led by student researcher @dsantosmarco , has made new discoveries in one of the most beautiful open problems at the edge of computation: Finding the 6th Busy Beaver (BB) number.\n\nWhile most AI math systems solve human-generated problems, like theorems, this work tackles a different aspect of mathematical creativity: Discovering hidden problems.\n\nFor years, the BB Community has pursued one of theoretical computer science’s most captivating collaborative quests: finding the simplest programs that run the longest before halting. Because determining whether these programs ever stop is uncomputable, no universal algorithm can solve it, meaning new mathematical techniques need to be found and invented to make progress.\n\nIn this way, the BB challenge serves as an open ended domain for mathematical creativity and, in particular, a generator of hard math problems called Cryptids. These are tiny programs whose halting behavior is governed by and equivalent to deep, unsolved math problems in number theory, similar to the Collatz or Goldbach conjectures. Historically, the BB community had recognized ~20 Cryptids in BB(6), and the best problems were selected for the Busy Math Olympiad (BMO).\n\nBuilding on their work, Marco built a pipeline powered by Gemini 4 Argon that:\n1️⃣ Simulates raw Turing machine traces to compress recurring patterns.\n2️⃣ Conjectures mathematical transition rules & runs synthetic experiments to test edge cases.\n3️⃣ Proves the equivalence formally in Lean 4.  Using this pipeline, Marco and the team discovered 20 new potential Cryptids and verified 33 more machines previously studied in the BB community. All the proofs were open sourced and shared in the community discord channel and we hope that they will help the community to make progress towards resolving BB(6). We also contributed related halting/non-halting proofs directly to the community GitHub repository.\n\nFinding these Cryptids shows hidden links between simple programs and number theory, and helps mathematicians map the limits of computation. I'm also excited about Gemini 4 Argon's ability to help researchers both solve hard problems and accelerate scientific discoveries, of which Busy Beaver is just one example.\n\nWork led by our student researcher @dsantosmarco with paper contributions from @vivek_veeriah , @Dahoas1 , Andrew Bolt, @zuza777 , Satinder Singh, and myself with additional contributions from Hussain Masoom, @maxencefaldor , @MoritzFirsching and Petar Sirkovic.\n\nRead more about it in our paper: arxiv.org/abs/2610.22603",
+   "created_at": "2026-10-21T15:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Tom Zahavy",
+    "screen_name": "TZahavy",
+    "avatar": "https://pbs.twimg.com/profile_images/1984383190815952896/DGQA3E0j_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 533,
+    "retweets": 0,
+    "replies": 30,
+    "quotes": 19,
+    "views": 51119
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVKbYfcW8AA_dS-.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112907856018309586",
+   "url": "https://x.com/OpenAI/status/2112907856018309586",
+   "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare. openai.com/index/coordinated…",
+   "created_at": "2026-10-21T14:04:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 14470,
+    "retweets": 2875,
+    "replies": 622,
+    "quotes": 1523,
+    "views": 5901705
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112899854569762936",
+   "url": "https://x.com/OpenAI/status/2112899854569762936",
+   "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch , a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets. openai.com/index/scaling-ai-…",
+   "created_at": "2026-10-21T13:32:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7019,
+    "retweets": 745,
+    "replies": 402,
+    "quotes": 316,
+    "views": 1482529
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112899856205578486",
+   "url": "https://x.com/OpenAI/status/2112899856205578486",
+   "text": "In the same mouse-brain dataset, GPT-Rosalind found a possible clue to why TSC2 mutations tend to cause more severe tuberous sclerosis than TSC1 mutations.\n\nThe two genes work together to regulate mTOR. Yet in one group of cerebellar neurons, disrupting TSC2 changed the expression of dozens of genes, including genes involved in neuronal communication. Disrupting TSC1 had little effect on gene expression in the same cell type.\n\nExisting treatments already target mTOR. Do they reverse these changes, or is there more to TSC2’s role in these neurons?",
+   "created_at": "2026-10-21T13:32:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 728,
+    "retweets": 30,
+    "replies": 26,
+    "quotes": 5,
+    "views": 146657
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112860446323527735",
+   "url": "https://x.com/pushmeet/status/2112860446323527735",
+   "text": "SynthID timeline over the last few weeks has been momentous – from opening SynthID Detector to the public, to launching SynthID Bio to watermark functional, AI-designed proteins. \n\nEach moment brought us a step closer to our broader vision on provenance, or helping verify what is AI-generated and what isn’t.\n\nRecently, Dartmouth Professor Hany Farid and I discussed why solving provenance is vital to @GoogleDeepMind ’s broader mission to develop AI to benefit humanity.\n\nIn short: solving provenance is a highly complex, multi-disciplinary effort with watermarking technology at its core. It requires a collective mix of frontier research, interoperable open standards, and direct collaboration across platforms and developers.\n\nRead our full conversation on Google's Public Policy blog: publicpolicy.google/article/…",
+   "created_at": "2026-10-21T10:56:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Pushmeet Kohli",
+    "screen_name": "pushmeet",
+    "avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 71,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 1,
+    "views": 22207
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112650063923048481",
+   "url": "https://x.com/Space_Station/status/2112650063923048481",
+   "text": "Planting the seeds for deep space exploration! 🌱🚀 \n\nAstronauts on the space station are continuing to test ways to grow fresh food in microgravity using plant pillows, advancing @NASAScience_ research on seed storage and crop growth capabilities for future exploration missions.",
+   "created_at": "2026-10-20T21:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "International Space Station",
+    "screen_name": "Space_Station",
+    "avatar": "https://pbs.twimg.com/profile_images/1949871812176732160/ZesOirrR_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 836,
+    "retweets": 0,
+    "replies": 35,
+    "quotes": 9,
+    "views": 212610
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112582558215032832/vid/avc1/1920x1080/yPOaafyzHlQs4nFg.mp4?tag=16",
+     "thumbnail": "https://pbs.twimg.com/media/HVFmtMtXAAAwr5g.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112628310702272570",
+   "url": "https://x.com/NASAJohnson/status/2112628310702272570",
+   "text": "Some moments are worth floating back to. ✨\n\nWhen @NASA ’s @SpaceX Crew-13 launched on Oct. 1, they brought along a little extra company! 🚀 Meet Lucky, a hand-crocheted golden dragon and the crew’s zero-gravity indicator! These small companions float freely once a spacecraft reaches microgravity, giving astronauts a visual sign that they’re officially weightless.",
+   "created_at": "2026-10-20T19:33:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA's Johnson Space Center",
+    "screen_name": "NASAJohnson",
+    "avatar": "https://pbs.twimg.com/profile_images/1920920885742944256/yqDqTY93_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1323,
+    "retweets": 0,
+    "replies": 57,
+    "quotes": 10,
+    "views": 205806
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112628211796316161/vid/avc1/1836x1080/vSMG1-Yfc85pt7BM.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112628211796316161/img/9U-oSqDuZS5m2tML.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "NASA",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112607347688583586",
+   "url": "https://x.com/OpenAI/status/2112607347688583586",
+   "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team! openai.com/index/openai-to-a…",
+   "created_at": "2026-10-20T18:10:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 7397,
+    "retweets": 690,
+    "replies": 464,
+    "quotes": 381,
+    "views": 907544
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112604875452223824",
+   "url": "https://x.com/NASA/status/2112604875452223824",
+   "text": "LIVE: Get a preview of two upcoming spacewalks set for Oct. 29 and Nov. 5. @astro_anil and CSA (Canadian Space Agency) astronaut Joshua Kutryk will use both spacewalks to finish installing solar arrays. xitter.cf/i/broadcasts/1jxXgBNWy…",
+   "created_at": "2026-10-20T18:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1203,
+    "retweets": 181,
+    "replies": 133,
+    "quotes": 15,
+    "views": 789877
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112560723603632217",
+   "url": "https://x.com/NASA/status/2112560723603632217",
+   "text": "There's a lot of ground to cover when you're building a Moon Base. \n\nDuring the first phase of @NASAMoonBase development, robotic rovers will gather new details about the lunar South Pole region, while lunar terrain vehicles will extend the reach of each Artemis mission.",
+   "created_at": "2026-10-20T15:05:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3870,
+    "retweets": 582,
+    "replies": 297,
+    "quotes": 66,
+    "views": 598145
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112560648005484545/vid/avc1/1080x1920/p22pg524_Km8ghQo.mp4?tag=16",
+     "thumbnail": "https://pbs.twimg.com/media/HVFSyBvWAAE5Y1_.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112560726397092239",
+   "url": "https://x.com/NASA/status/2112560726397092239",
+   "text": "The journey is just beginning. See how NASA and our partners are getting @NASAMoonBase moving in the full video: go.nasa.gov/3W0jYQS",
+   "created_at": "2026-10-20T15:05:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 493,
+    "retweets": 80,
+    "replies": 24,
+    "quotes": 3,
+    "views": 154981
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112557925264752930",
+   "url": "https://x.com/GoogleDeepMind/status/2112557925264752930",
+   "text": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity , it animates orbiting electrons, atomic data, and light spectra.",
+   "created_at": "2026-10-20T14:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 4720,
+    "retweets": 559,
+    "replies": 326,
+    "quotes": 145,
+    "views": 602771
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112556446218862593/vid/avc1/1920x1080/pY7aXhWMcWehJljh.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112556446218862593/img/vm7Hadu5pWswOhr9.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112553116390269175",
+   "url": "https://x.com/NASA/status/2112553116390269175",
+   "text": "Welcome to the Artemis Accords, Uzbekistan 🇺🇿\n\nUzbekistan has joined 76 other nations around the world by committing to the peaceful and safe exploration of space. go.nasa.gov/4hWoI2z",
+   "created_at": "2026-10-20T14:34:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1943,
+    "retweets": 215,
+    "replies": 128,
+    "quotes": 29,
+    "views": 959818
+   },
+   "photos": [
+    "https://pbs.twimg.com/media/HVFL3R8XsAAwP91.jpg?name=large&format=webp"
+   ],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2112310345863930168",
+   "url": "https://x.com/OpenAI/status/2112310345863930168",
+   "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means understanding decades of business logic and helping developers modernize those systems while preserving what works.\n\nWe’re building these capabilities around the challenges developers and enterprise customers bring us. If your team is working on these systems, tell us which languages and workflows we should tackle next. openai.com/index/low-resourc…",
+   "created_at": "2026-10-19T22:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 9579,
+    "retweets": 690,
+    "replies": 841,
+    "quotes": 568,
+    "views": 1780191
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2112309796745682944/vid/avc1/1920x1080/jnLAZhRFuKMsjngz.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112309796745682944/img/uV5UTO10mMmVfiun.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2111211411766399288",
+   "url": "https://x.com/OpenAIDevs/status/2111211411766399288",
+   "text": "Put your dot on call.\n\nAli, an engineer at OpenAI, used his dot to triage an on-call incident at 3am.\n\nHis dot investigated the issue and started a Codex thread, so he could steer the work from his phone in the ChatGPT app.",
+   "created_at": "2026-10-16T21:43:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI Developers",
+    "screen_name": "OpenAIDevs",
+    "avatar": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1586,
+    "retweets": 0,
+    "replies": 227,
+    "quotes": 47,
+    "views": 236776
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2111157046720573440/vid/avc1/1920x1080/29RqOtlkjvtLz4xx.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/media/HUyHqyGXoAAfdzT.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "OpenAI",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2111192259073094035",
+   "url": "https://x.com/OpenAI/status/2111192259073094035",
+   "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
+   "created_at": "2026-10-16T20:27:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 12487,
+    "retweets": 668,
+    "replies": 928,
+    "quotes": 424,
+    "views": 2468685
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2111180963661435219",
+   "url": "https://x.com/NASA/status/2111180963661435219",
+   "text": "The aircraft lineup just keeps getting bigger. ✈️\n\nMAX POWER, a new aerospace expo, is set for Nov. 7-8 @NASAKennedy — featuring flyovers and static displays, including NASA’s F-15, F-18, T-38, and ER-2 aircraft.\n\nDetails on how to join us: nasa.gov/maxpower/",
+   "created_at": "2026-10-16T19:42:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "NASA",
+    "screen_name": "NASA",
+    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 1695,
+    "retweets": 268,
+    "replies": 193,
+    "quotes": 26,
+    "views": 439939
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2111180787802370048/vid/avc1/1080x1920/xLb-yr9GVdddx5sY.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111180787802370048/img/0nbyTdS0MRg5JqXk.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2111127991401247033",
+   "url": "https://x.com/GoogleDeepMind/status/2111127991401247033",
+   "text": "Four Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓ xitter.cf/maxencefaldor/status/2…",
+   "created_at": "2026-10-16T16:11:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2614,
+    "retweets": 214,
+    "replies": 388,
+    "quotes": 217,
+    "views": 264519
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2111023397106770026",
+    "url": "https://x.com/maxencefaldor/status/2111023397106770026",
+    "text": "",
+    "author": {
+     "name": "Maxence Faldor",
+     "screen_name": "maxencefaldor",
+     "avatar": "https://pbs.twimg.com/profile_images/1630242532272623620/A6wVavsz_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2111038207240388770",
+   "url": "https://x.com/GoogleDeepMind/status/2111038207240388770",
+   "text": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → goo.gle/4i48Cmr",
+   "created_at": "2026-10-16T10:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 725,
+    "retweets": 79,
+    "replies": 140,
+    "quotes": 22,
+    "views": 148450
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/tweet_video/HUvplD8W4AAEu4P.mp4",
+     "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HUvplD8W4AAEu4P.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110841898076418336",
+   "url": "https://x.com/OpenAI/status/2110841898076418336",
+   "text": "We're expanding access to GPT-Rosalind for academic research.\n\nThe new Rosalind Academic Plan helps scientific labs bring AI into the work of understanding biology, exploring ideas, and deciding what to test next—with sponsored access for eligible labs at U.S. universities.\n\nAcademic research starts with questions whose impact may take years to impact human health.",
+   "created_at": "2026-10-15T21:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 3324,
+    "retweets": 303,
+    "replies": 339,
+    "quotes": 108,
+    "views": 426685
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2110841872742858752/vid/avc1/1920x1080/rjivINa_ojhDJasO.mp4?tag=29",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110841872742858752/img/afsUfyxpTzvudLuz.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110841899838046525",
+   "url": "https://x.com/OpenAI/status/2110841899838046525",
+   "text": "GPT-Rosalind is built to support that work: helping researchers reason across scientific literature and biological data, with scientists bringing the expertise and judgment to evaluate the evidence.\n\nEligible labs can receive up to 12 months of sponsored access to OpenAI tools, with GPT-Rosalind access subject to trusted-access approval.\n\nResearch data shared through the Rosalind Academic Plan is not used to train our models by default.",
+   "created_at": "2026-10-15T21:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 334,
+    "retweets": 17,
+    "replies": 42,
+    "quotes": 5,
+    "views": 141476
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110841901121511705",
+   "url": "https://x.com/OpenAI/status/2110841901121511705",
+   "text": "Learn about the Rosalind Academic Plan, check your lab's eligibility, and find out how to apply: openai.com/index/introducing…",
+   "created_at": "2026-10-15T21:15:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "OpenAI",
+    "screen_name": "OpenAI",
+    "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 195,
+    "retweets": 11,
+    "replies": 9,
+    "quotes": 1,
+    "views": 73199
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110724943860154669",
+   "url": "https://x.com/PeterWBattaglia/status/2110724943860154669",
+   "text": "Last week, Hurricane Isaias made landfall in the Florida Panhandle. Our thoughts are with everyone affected and with the recovery efforts still underway. Earlier and more accurate forecasting can help protect communities by giving them more time to prepare, and we are grateful that Google’s WeatherNext model was able to assist the @NWSNHC 's expert forecasters.\n\nBased on initial evaluations, here's how our model supported the response to #Isaias :\n\n- Tracking the Hurricane’s Path: WeatherNext was the most accurate model on the storm’s track. While traditional physics models predicted landfall closer to New Orleans, WeatherNext correctly predicted a path further east. This allowed NHC forecasters to highlight the potential for wind and storm surge impacts in the Florida Panhandle from their very first forecast. \n\n- More Time to Prepare: Up to three days before landfall, our model consistently predicted its eventual location in the Florida Panhandle to within 60 km or less, supporting the NHC as they honed in on a track toward the Florida Panhandle and issued hurricane watches and warnings to give officials in Florida, Alabama, and Mississippi more time to prepare. \n\n- Early Indications about Intensity: Early on, WeatherNext accurately predicted the intensification to a major hurricane. Alongside the regional hurricane models HWRF and HMON, WeatherNext’s intensity forecasts helped NHC forecasters to predict that the Isaias would approach the coast as a category 2 hurricane from the very first advisory. \n\nGiving communities more time and more accurate warnings is critical for protecting lives and livelihoods. While model performance varies from storm to storm, Isaias reflects our broader findings. In our recent @Nature paper co-authored with NHC forecasters, evaluating 200+ global tropical cyclones, we found our model provides ~1 day of additional lead time for both track and intensity.\n\nIt’s been an honor for the @GoogleDeepMind and @GoogleResearch teams to work alongside NHC forecasters. By combining AI, physics models, satellite data, and the crucial expertise of meteorologists, we're excited to keep pushing the boundaries of forecasting to help protect communities.",
+   "created_at": "2026-10-15T13:30:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Peter Battaglia",
+    "screen_name": "PeterWBattaglia",
+    "avatar": "https://pbs.twimg.com/profile_images/1269410757726396416/MoI2G9K8_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 85,
+    "retweets": 0,
+    "replies": 8,
+    "quotes": 2,
+    "views": 34794
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110715601454784965",
+   "url": "https://x.com/GoogleDeepMind/status/2110715601454784965",
+   "text": "SynthID has been named one of @TIME 's Best Inventions of 2026.\n\nWith over 180 billion images and videos already watermarked, it’s making it easier for people to distinguish AI-generated content from other media → goo.gle/4jsZxWF",
+   "created_at": "2026-10-15T12:53:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 645,
+    "retweets": 64,
+    "replies": 187,
+    "quotes": 56,
+    "views": 77555
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/tweet_video/HUrEkcTXMAAqK5Y.mp4",
+     "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HUrEkcTXMAAqK5Y.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110490834739073049",
+   "url": "https://x.com/googlecloud/status/2110490834739073049",
+   "text": "Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with @GoogleDeepMind + @SierraPlatform .\n\nLearn about conversational latency, multilingual code-switching, agentic voice tasks, and more → goo.gle/4hKV9B5",
+   "created_at": "2026-10-14T22:00:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google Cloud",
+    "screen_name": "googlecloud",
+    "avatar": "https://pbs.twimg.com/profile_images/2047008530478346240/2ZoDIjwe_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 139,
+    "retweets": 0,
+    "replies": 10,
+    "quotes": 2,
+    "views": 25785
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/amplify_video/2110183858956050432/vid/avc1/1920x1080/mV779jyIb2hXDeuQ.mp4?tag=16",
+     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110183858956050432/img/bT6dluaW2kgLtX-S.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110421861435879476",
+   "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
+   "text": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
+   "created_at": "2026-10-14T17:25:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 2497,
+    "retweets": 315,
+    "replies": 216,
+    "quotes": 103,
+    "views": 227576
+   },
+   "photos": [],
+   "videos": [
+    {
+     "url": "https://video.twimg.com/tweet_video/HUm4960WkAECy-M.mp4",
+     "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg?name=large&format=webp",
+     "type": "video"
+    }
+   ],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110421871103730104",
+   "url": "https://x.com/GoogleDeepMind/status/2110421871103730104",
+   "text": "Argon also compressed the process of enzyme engineering into a matter of hours to design five lab-verified serine esterases. 🧬 xitter.cf/RyanKrue/status/211004…",
+   "created_at": "2026-10-14T17:25:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 100,
+    "retweets": 2,
+    "replies": 6,
+    "quotes": null,
+    "views": 18487
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": {
+    "id": "2110046767341547602",
+    "url": "https://x.com/RyanKrue/status/2110046767341547602",
+    "text": "",
+    "author": {
+     "name": "Ryan Krueger",
+     "screen_name": "RyanKrue",
+     "avatar": "https://pbs.twimg.com/profile_images/2110012834306256896/fB1gDopb_mini.jpg",
+     "verified": true
+    }
+   },
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110421873242861711",
+   "url": "https://x.com/GoogleDeepMind/status/2110421873242861711",
+   "text": "To advance more research with Gemini 4 Argon, we’re offering 10,000 scientists access to our highest usage tier in @GoogleAntigravity free of charge for 6 months.\n\nFind out more → goo.gle/3W85sXj",
+   "created_at": "2026-10-14T17:25:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Google DeepMind",
+    "screen_name": "GoogleDeepMind",
+    "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 128,
+    "retweets": 8,
+    "replies": 15,
+    "quotes": 4,
+    "views": 18881
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": false,
+   "retweeted_by": null,
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  },
+  {
+   "id": "2110073779531747784",
+   "url": "https://x.com/ancadianadragan/status/2110073779531747784",
+   "text": "We did a lot to understand Gemini 4's capabilities and propensities, and to improve our mitigations for this launch -- you can get a tl;dr here blog.google/innovation-and-a… and dive into the report storage.googleapis.com/deepm…",
+   "created_at": "2026-10-13T18:22:00+00:00",
+   "lang": "",
+   "author": {
+    "name": "Anca Dragan",
+    "screen_name": "ancadianadragan",
+    "avatar": "https://pbs.twimg.com/profile_images/1026125638149664769/mKpHuJIA_400x400.jpg",
+    "verified": true,
+    "followers": null,
+    "description": ""
+   },
+   "stats": {
+    "likes": 527,
+    "retweets": 0,
+    "replies": 13,
+    "quotes": 16,
+    "views": 320985
+   },
+   "photos": [],
+   "videos": [],
+   "card_image": "",
+   "quoted": null,
+   "is_retweet": true,
+   "retweeted_by": {
+    "name": "Google DeepMind",
+    "screen_name": ""
+   },
+   "possibly_sensitive": false,
+   "source": "nitter",
+   "via": "Nitter · teapawt.org"
+  }
+ ],
+ "count": 159,
+ "errors": []
+}
