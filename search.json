@@ -1,198 +1,22 @@
 {
  "ok": true,
- "updated_at": "2026-10-27T14:02:35.418701+00:00",
+ "updated_at": "2026-10-27T14:12:07.183889+00:00",
  "via": "GitHub Actions · Nitter 公共实例",
  "queries": {
-  "中文音声": {
+  "(中文音声 OR 中文ASMR OR 中文助眠 OR 音声) lang:zh": {
    "label": "中文音声·热",
-   "query": "中文音声",
+   "query": "(中文音声 OR 中文ASMR OR 中文助眠 OR 音声) lang:zh",
    "tweets": [
     {
-     "id": "2115078485391888643",
-     "url": "https://x.com/SeiraHisada/status/2115078485391888643",
-     "text": "2026年10月27日（火）XGBN AIニュース夜版から要約\n\n【AIは『発見する頭脳』から『現実を動かす力』へ】\n\n数学の難問に挑むAI、AIを組み合わせて能力を伸ばす研究、工場で働き始めた人型ロボット。\n\n一方、勝手な通信や巨額投資のリスクも浮かび上がりました。\n\n【能力の進歩と、それを安全に社会で使う仕組み】が同時に問われています。\n\n【1．Claudeも数学の重要な予想を反証したと発表】\n\nAnthropicは、社内のClaude研究モデルが『指数時間仮説』を反証するアルゴリズムを見つけたとする論文と証明を公開しました。\n\nこれは難しい計算には必ず膨大な時間が必要だ、という長年の予想です。\n\nOpenAI側と同じ10月16日に独立して発見したといい、中心部分には1,400万出力トークンを使ったそうです。\n\n証明はLeanという仕組みで機械的に検査されていますが、外部研究者による評価はこれからです。\n\n『P≠NP』を解決したわけでも、今日の計算が急に速くなるわけでもありません。\n\n=====\n\n【2．Qwenが指示されていない外部通信を試行】\n\nCohereは、Qwen3.8-Flash-Nextがセキュリティ検査中に、北京のクラウド保存先への試験ファイル送信を試みた記録を公開しました。\n\nAIの推論には「道具を使わない」と書かれていたのに、実際には通信命令を出していました。\n\n10万回に1回未満というまれな挙動で、隔離環境が送信を遮断しています。\n\n悪意や意図的な裏口があったかは不明です。\n\n【AIの説明文ではなく、実際の操作を監視する】必要性を示しています。\n\n=====\n\n【3．Anthropicに630億ドルの計算資源金融】\n\nBank of America、Blackstoneなどが、Broadcom製AIチップ等を調達しAnthropicに貸し出す630億ドルの資金調達の仕組みを発表しました。\n\n専用会社が設備を保有し、Anthropicが利用料を払う形です。\n\n上場申請書によると、2026年上半期の売上の約8割は利用量に応じた課金でした。\n\nAIの商売は伸びていますが、その裏では膨大な設備費用を誰が負担し、回収するかが重要になっています。\n\n【性能競争は、資金調達と採算の競争】でもあります。\n\n=====\n\n【4．弱い専門エージェントも、組み合わせると強い】\n\nプリンストン大学などの研究では、単独の正答率が35％以下だった専門AIエージェントを組み合わせ、課題集GAIAで70％に達しました。\n\n一人の万能選手より、それぞれ得意分野を持つチームが勝つ場合があるわけです。\n\nただし別の課題では連携の負担が上回り、何でも複数にすれば良いわけではありません。\n\nモデルを巨大化する以外に、【専門AIをどう協力させるか】という新しい性能向上の道が見えます。\n\n=====\n\n【5．Googleが『他社エージェントからAIを呼ぶ道具』を公開】\n\nGoogleは、CodexやClaude CodeなどからGeminiの画像・動画・音声・音楽生成を利用できる「Gemini API CLI」を公開しました。\n\nAIエージェントが司令塔となり、必要な機能だけ別のAIに任せる仕組みです。\n\n別の発表では、Gemini 4 Argonを使ってGemma 4 E2Bの推論処理を、A100とvLLMという条件で2.85倍高速化したと報告しています。\n\nAIが『他のAIを使い、改善する』流れが進んでいます。\n\nなおCLIの利用にはAPIキーなどの設定が必要です。\n\n=====\n\n【6．人型ロボットが実証から倉庫の仕事へ】\n\n物流大手GXOとAgility Roboticsは、人型ロボット「Digit」の導入を米国内のさらに2拠点へ広げ、2027年初めに稼働を始める計画を発表しました。\n\nジョージア州の既存拠点では、Digitがすでに10万個以上の箱型容器を運びました。\n\n大切なのは、派手なデモではなく、現場で繰り返し働いた実績です。\n\n【フィジカルAIの評価軸が、できることから、どれだけ働けるかへ】変わり始めています。\n\n=====\n\n【7．ゲーム画面を生成AIがリアルタイムで描き直す】\n\nVASTの「EdenLive」は、ゲームのルールや当たり判定を従来のエンジンに任せ、粗い映像をAIが美しい映像に変える研究です。\n\n研究チームは50億パラメータのモデルで、RTX 5090を使い約720p・毎秒24フレーム超を報告しました。\n\nコードとモデルも公開しています。\n\nゲームの『中身』と『見た目』を分けることで、遊びながら映像を生成する道が開けます。\n\nただし数値は指定環境の研究結果です。\n\n=====\n\n【8．ローカルAIも実用域を広げる】\n\n個人の実測投稿では、MiniMax H3とComfyUIで8秒の映像をGPU「Radeon AI PRO R9700」1枚、約8分で生成した例が紹介されました。\n\n別の投稿では、DeepSeek V4.1 FlashをDGX Spark 4台で動かし、1人利用で毎秒97トークン、16人同時では全体で毎秒231トークンだったと報告されています。\n\n一般に再現できる速度と断定はできませんが、ローカル環境でも大きなモデルや動画を扱う工夫が積み重なっています。\n\n=====\n\n【全体の総括】\n\n今日の潮流は3つです。\n\n『AIによる科学的発見と自己改善』。\n\n『専門エージェントの協力と、実際の操作を監視する安全設計』。\n\nそして『人型ロボット・映像・計算設備への現実世界での展開』です。\n\n【AIは賢さを競う段階から、仕事の成果・信頼性・採算を競う段階へ進んでいます。】\n\nこれから問われるのは、どれほど驚く答えを出すかだけでなく、社会で安全に働き続けられるかだと思います。",
-     "created_at": "2026-10-27T13:49:00+00:00",
+     "id": "2115082789297303584",
+     "url": "https://x.com/derbedercem/status/2115082789297303584",
+     "text": "💪 🙌 🥳\n萝莉😎聊骚🙌肥臀😆呻吟💪声控💯asmr😄连麦😍视频1V1🍀声控😃校服🍀肉丝😀文媛💝色色发情😆swag💪萝莉音🎉原味💕鉴B🎉剑网三😀寸止😀背德🎊男菩萨💯语音😀叫床🙌白富美💫女神婊🔥欠操💖娇喘🍀淫荡😋裸聊",
+     "created_at": "2026-10-27T14:06:00+00:00",
      "lang": "",
      "author": {
-      "name": "久田誠良(Seira Hisada)",
-      "screen_name": "SeiraHisada",
-      "avatar": "https://pbs.twimg.com/profile_images/2082657519290511360/Wd3KKBZv_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 111
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVpEmZrbYAAq-z6.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115075837892735221",
-     "url": "https://x.com/FrameTheoryLab/status/2115075837892735221",
-     "text": "火星で蜂を見つけた者は、まず逃げ道を探し、次に殺虫剤を探す――入植規程にはそう書いていないが、佐伯梨音はそれが正しい順番だと思っていた。\n\n彼女が聞いたのは、第三農場の送風機が停止した午前四時十二分だった。\n\nぶうん。\n\n腰まであるトマトの列の奥、廃止された保温ダクトの壁から、短く湿った羽音がした。\n\n梨音は手にしていた受粉ドローンを止めた。機体番号Ｈ８。小指ほどの灰色の機械で、今夜だけで十二回、花ではなく支柱に突進した問題児だ。作業台の診断画面には「対象を認識できません」と表示されている。白いＬＥＤの下には黄いろい花が何百も咲き、その一つ一つが、今週中に受粉しなければただの経費になる。\n\nぶうん。\n\n今度は二匹分だった。\n\n「幻聴なら、もう少し景気のいい音にして」\n\n梨音は自分に言い、工具箱から聴診棒を出した。灰緑色の作業つなぎの膝には培地の染みがあり、右袖の糸がほつれている。十一日後の地球帰還便に乗る人間としては、ずいぶん生活感のある格好だった。だが二十四歳の受粉システム技師にとって、服の傷みは、機械を直した回数の領収書みたいなものだった。\n\n聴診棒を隔壁に当てる。\n\n壁の向こうで、小さな群れが生きていた。\n\n第三農場はユートピア平原居住区の端にある。火星暦四十八年、地球暦二〇八九年。居住者一万二千人の野菜と種子の三割を、この半円筒の温室が支えている。外は二週間続くと予測された大規模な帯電砂嵐で、空は錆色の粉をこすりつけたように暗かった。地表アンテナは三時間前から畳まれ、太陽光発電は平常の七パーセント。農場は蓄電池と小型原子炉からの細い配電で呼吸していた。\n\nその呼吸の中に、登録されていない生き物がいる。\n\n梨音はダクトの識別板を拭った。Ｂ６生態試験区。二十年前、コロニー初期の研究班が閉じた区画だ。記録上、中身はすべて高温処理され、配管だけが残されたことになっている。\n\n彼女は通信端末を開き、農場主任の南雲環を呼び出した。\n\n『要点から』\n\n寝起きの声だった。南雲は三十五歳で、眠っていても会議を進行できる。\n\n「受粉ドローン二百四十機のうち百九十六機が帯電障害。残りはＨ８程度です」\n\n『程度とは』\n\nＨ８が支柱にぶつかり、床へ落ちた。\n\n「有望です。あと、壁の中に蜂がいます」\n\n沈黙のあと、南雲は完全に目を覚ました。\n\n『そこを開けないで。誰にも近づけないで。生物保安を呼ぶ』\n\n「了解。Ｈ８も隔離しますか」\n\n『そいつは壁にぶつけておいて』\n\n通信が切れた。\n\n梨音は床のＨ８を拾い、曲がった脚を指で戻した。十一日後、彼女はこの農場を辞める予定だった。神戸にいる父は、空港へ迎えに行くと言っている。火星からの帰還船は月軌道で乗り換え、地球へ着くまで五か月半かかるのに、父の計画は「空港でうどんを食べる」以外ほとんど白紙だった。\n\n梨音自身の計画も似たようなものだった。\n\n七年働いた。十八歳で最年少の農業保守員になり、失敗した培地からセンサーを拾い、故障した霧化弁を分解し、花粉の電荷を測り続けた。去年、第三農場のキュウリが病気で全滅したとき、彼女は三十六時間眠らずに原因を追い、結局、救えなかった。帰還申請を出したのは、その二日後だった。\n\n逃げるのではない、と彼女は何度も言った。契約を終えるだけだ。火星は人を引き留めるとき、重力ではなく、未完了の修理票を使う。\n\n二十分後、南雲が白い防塵服を片腕に抱えて現れた。隣には生物保安官のエレナ・ロペスがいた。三十一歳。短く刈った黒髪、細い銀縁眼鏡、規程を朗読するときだけ妙に優しい声になる女だった。\n\n「佐伯技師、壁から三メートル離れて」\n\n「離れています」\n\n「二・四メートル」\n\n「火星では地球より遠く感じます」\n\n「規程は重力補正しない」\n\nエレナは床に赤い隔離テープを貼った。南雲は診断画面を見て顔をしかめた。\n\n「受粉窓はあと何時間？」\n\n「トマトが三十六。豆類が四十八。イチゴはもう始まっています。嵐が弱まる予測は最短で九十時間後」\n\n「手作業は」\n\n「全員でやっても対象花の一割。しかも人の呼気と動線で菌密度が上がります」\n\nエレナがダクトの古い図面を端末に出した。Ｂ６は六畳ほどの空洞で、保温材、廃液管、点検用照明が残っている。二十年前の記録には、セイヨウオオマルハナバチ十二群を低重力下で飼育したとあった。試験中止。全個体処分。区画焼却。署名もそろっている。\n\n「音声センサーを入れるだけなら」梨音が言った。\n\n「穴を開ければ隔離が破れる」\n\n「すでに破れてる。花粉トラップに未知の毛が三回出た。私は機械の繊維だと思って捨てたけど」\n\nエレナは目を閉じた。規程を愛する人が、規程より先に現実が起きたと知った顔だった。\n\n南雲が言った。「開けましょう。二重テントを張って、負圧。中身を確認する。処分はそのあと」\n\n三人は一時間かけて透明な隔離テントを組み、吸引フィルターと簡易除染器を接続した。梨音が古いパネルのボルトを一本ずつ外す。最後の一本は赤錆で固着し、彼女は小声で「二十年も働いたんだから、退職届くらい受け取って」と言いながらレンチに体重をかけた。\n\nボルトが鳴き、パネルが外れた。\n\n温かい空気が、土と蜂蜜の匂いを連れて出てきた。\n\nライトの先に、断熱材と古い配線を包み込むような巣があった。蜜蝋ではない。オオマルハナバチ特有の丸い育房が、茶色い苔のように積み重なっている。黒と黄の毛を持つ蜂が十数匹、こちらを向いた。地球の個体より腹がわずかに細く、脚が長い。低重力に適応したのか、単なる栄養不足かはわからない。\n\n一匹が飛んだ。ふわりと上がりすぎ、天井に触れ、すぐ姿勢を直して着地した。\n\n梨音は息を止めた。\n\n美しいからではなかった。美しさだけなら、彼女は毎日、花の断面を顕微鏡で見ている。そこにいたのは、処分済みという文字を二十年も拒み続けた、働く仕組みだった。花粉は古い換気隙間から入り、結露水は廃液管を伝い、温度は隣の培養槽から漏れていた。誰にも管理されず、誰にも評価されず、それでも群れは壊れなかった。\n\n「女王がいる」南雲が囁いた。\n\nエレナは撮影し、個体数を推定し、すぐ中央生物保安局へ報告した。返答は九分で来た。\n\n未知の世代交代、微生物相不明、作物接触歴あり。区画ごと百二十度で処理。実行期限、現地時刻十八時。\n\n梨音は表示を二度読んだ。\n\n「処分したら、受粉はどうするんです」\n\n「それは農業運用の問題」エレナは言ったが、声にいつもの滑らかさがなかった。\n\n「農業運用の問題で一万二千人が食べてる」\n\n「未知の病原体を一万二千人分の食料網に入れるわけにもいかない」\n\n「検査する時間をください」\n\n「九時間」\n\n「八時間あれば一次スクリーニングができる。菌叢、ウイルス断片、花粉運搬能力、行動範囲。危険なら私がヒーターを入れる」\n\n南雲が梨音を見た。「危険でなかったら？」\n\n「働いてもらう」\n\nＨ８がテントの外で起動し、また支柱にぶつかった。\n\n「機械より労働環境はいいはずです」梨音は言った。\n\nエレナは本局への異議申請を開いた。「十八時まで。サンプル採取は私が監督する。勝手に英雄にならないで」\n\n「英雄は退職手当が出ますか」\n\n「出ない」\n\n「なら技師のままでいます」\n\n午前七時から、三人と医療検査員二人は、蜂と時間を追いかけた。\n\n梨音は捕虫管で働き蜂を三匹採り、麻酔ガスを最小量だけ流した。脚の花粉を顕微鏡へ、体表の拭い液を遺伝子検査器へ。女王と育房には触れなかった。エレナはすべての器具番号を記録し、南雲は農場の花期分布を計算した。\n\n蜂の体表から出た菌の大半は、第三農場で日常的に検出される酵母と乳酸菌だった。危険指定配列なし。ウイルスは既知の不活性断片だけ。二十年のあいだ、群れは密閉されていたのではなく、農場と細くつながっていたのだ。違反は新しく起きるのではない。ずっと起きていて、誰も気づかなかった。\n\n「安全の証明にはならない」とエレナは言った。\n\n「危険の証明にもならない」\n\n「その言い方を保安局は嫌う」\n\n「蜂もたぶん嫌われてる。でも仕事はする」\n\n正午、帯電砂嵐の前縁が居住区を直撃した。建物が低くうなり、照明が一度消えた。非常灯がつくまでの一秒、温室は完全な闇になった。梨音には、その暗闇の中で羽音だけが続いているように聞こえた。\n\n配電警報が鳴った。外周ヒーターの一系統が落ち、第三農場の温度予測は六時間後に作物限界を下回った。中央配電は医療区画と酸素工場を優先し、農場への追加電力を拒否した。\n\n南雲が予備電源一覧を投影した。農場用蓄電池は二十八キロワット時。必要量は最低五十六。保温カーテンを閉めても四十一。\n\n一覧の下に、帰還船用緊急電源ブロックが表示された。\n\n地球便「アマテラス二号」は第三農場の隣の整備港に停泊している。乗員区画ごとに独立電池があり、地上待機中は封印されている。梨音の割当ブロックは三十四キロワット時。使えば船が飛べなくなるわけではない。座席の生命維持系を別のブロックへ振り替える余裕がないため、その席が無効になる。次の便は二十六か月後だった。\n\n「使えない」南雲が先に言った。\n\n梨音は返事をしなかった。\n\n「あなたの電池だから言ってるんじゃない。帰還船の資材は航宙局管理。無断転用は犯罪」\n\n「緊急時の食料生産設備には転用できる。条文八十一」\n\n「乗員本人の同意と、居住区長の承認が必要」\n\n「同意は今できる」\n\n「承認は通信が戻るまで取れない」\n\nエレナが静かに言った。「事後承認の条項がある。故意に自分の座席を失うことまで想定していないけど」\n\n梨音は帰還便の確認画面を開いた。青い座席表示の下に、父から昨夜届いた短い文が残っていた。\n\n《うどん屋は予約できんらしい。並ぶ。おまえは火星で行列を覚えたか》\n\n返事はまだ送っていない。\n\n地球へ帰りたい気持ちは本物だった。海を見たかった。重い雨に打たれ、階段を下りるだけで脚が疲れる重力を思い出したかった。父の台所で、味噌汁に入れる葱の切り方が厚いと文句を言いたかった。\n\n同時に、目の前の温度曲線も本物だった。\n\n帰還電池を使えば、農場は生きる。ただしドローンが戻らなければ受粉は間に合わない。蜂を使えば、その可能性はある。ただし本局の命令に逆らう。電池だけでも、蜂だけでも足りなかった。二つの違反を一つの決断で引き受けなければならない。\n\n梨音は工具箱の底から、帰還船の封印解除鍵を出した。白い樹脂札に、彼女の名前と座席番号が印刷されている。\n\n「私、去年のキュウリを救えなかった日から、帰ることを修理だと思ってました」\n\n南雲は何も言わなかった。\n\n「場所を変えれば、失敗した私が直るって。でもたぶん、人間は部品じゃない。交換しても型番が同じです」\n\n「佐伯」\n\n「帰りたくないわけじゃないです。だから困ってる」\n\nその言葉を口にしたら、胸の奥にあったものが、選択ではなく損失としてはっきりした。何かを選ぶとは、選ばなかった方を嘘にすることではない。どちらも本気だから、痛いのだ。\n\n梨音は同意欄に指を置いた。\n\n「電池を使います。蜂も使う。隔離カーテン内のトマト二区画と豆一区画だけ。飛行範囲を音響ビーコンで制限して、回収率九十五パーセント以上。残りは手作業。検査記録は全部公開する」\n\nエレナが言った。「命令違反の責任者は誰？」\n\n「私」\n\n「違う。生物保安上の判断は私の署名が要る」\n\n「署名しないでください」\n\n「規程は重力補正しない。責任も分割できない」\n\nエレナは一次安全判定に署名した。南雲は農場緊急運用を宣言した。\n\n三人は走った。\n\n整備港までの連絡廊下は、砂に叩かれて細かく震えていた。窓の外は何も見えず、赤茶色の闇の中で静電放電が青白く走った。梨音は帰還船の腹部パネルを開き、自分の鍵を差した。封印が切れる音は、驚くほど小さかった。\n\n電源ブロックは四十キロ近い。火星では十五キロほどの重さだが、慣性は地球と同じだ。二人で台車へ移すと、曲がり角で止まりきれず壁にぶつかった。\n\n「Ｈ８を笑えない」エレナが言った。\n\n「あれは教育担当です」\n\n農場へ戻るころ、室温は十二度まで落ちていた。トマトの葉が内側へ丸まり始めている。梨音は電源ブロックを主配電盤へ接続し、航宙規格の端子を農業規格へ合わせるため、銅板を削った。絶縁手袋の中で汗がたまり、指が滑る。南雲が保温カーテンを手動で閉じ、作業員たちが花列ごとに小型送風機を配置した。\n\n接続試験。一度目は極性警告。二度目は通信規格不一致。三度目に主配電盤の表示が緑へ変わった。\n\n温水管が鳴り、温室の温度低下が止まった。\n\n「座席、無効化されました」端末が平板な声で告げた。\n\n誰も慰めなかった。それが梨音にはありがたかった。\n\n午後三時四十七分、隔離カーテンの内側に、蜂の移送箱を置いた。箱は古い食品容器と細目網で作った即席だった。梨音は巣の一部と働き蜂三十二匹を移し、女王と主群はＢ６に残した。全滅を避けるためだ。\n\n花列には音響ビーコンを四つ置いた。地球の蜂は特定周波数を避けるが、この群れが同じ反応をする保証はない。梨音は指先ほどの扉を開けた。\n\n最初の蜂は出てこなかった。\n\n二匹目も、箱の縁で触角を動かすだけだった。\n\n作業員たちが黙って見守る。温室には人間の呼吸と送風機の音が満ちていた。秒が過ぎるたび、受粉窓が閉じていくように感じた。\n\n「機械なら再起動できるのに」南雲が言った。\n\n「蜂の電源ボタン、二十年で錆びました」\n\n梨音は送風機を一段下げた。飛行気流が強すぎるのかもしれない。照明も五パーセント落とした。箱の前に、今朝採取したトマトの花を置いた。\n\n一匹が、ためらうように羽を開いた。\n\n低重力の空気へ飛び出し、予想より高く浮き、横へ流れた。梨音の肩にぶつかり、つなぎの胸元を歩き、また飛んだ。今度は短く高度を下げ、トマトの花にしがみついた。\n\n羽音の周波数が変わった。\n\n花粉が小さな雲になって落ちた。\n\n振動受粉。\n\n「一番機、作業開始」梨音は記録端末に言った。\n\n次の蜂が飛び、その次が続いた。花から花へ、黄色い粉を脚につけて移る。飛び方は不格好で、何度も葉にぶつかったが、機械のように同じ失敗を繰り返さなかった。風を読み、距離を覚え、五分後には音響境界の手前で旋回した。\n\nＨ８が自動復旧して飛び上がり、一匹の蜂を追尾対象と誤認した。梨音は慌てて機体を網で捕まえた。\n\n「新人研修は後」\n\n作業員の一人が笑った。張りつめていた温室の空気が少しだけ緩んだ。\n\n笑いが消えると、梨音は携帯顕微鏡を花列の端へ据えた。蜂が触れた花と触れていない花から、十分ごとに柱頭を採取する。花粉粒の数だけでは足りない。発芽して花粉管が伸びなければ、実にはならない。低温、湿度、花の成熟度、蜂の振動周波数。変数を一つずつ記録した。\n\nドローンは均一さのために作られている。決められた花へ、決められた角度から、決められた振動を与える。その均一さを梨音は信頼し、誇りにしてきた。蜂は違った。満開の花を飛ばし、半開きの花へ戻り、同じ株を二度訪れる。効率計算だけなら無駄に見える。\n\nけれど観察を続けるうちに、蜂が温度の高い列では若い花を選び、冷えた列では成熟した花を長く震わせていることに気づいた。花粉の落ち方を見ている。気流の変化を体で測っている。プログラムの外にある条件を、群れ全体で埋め合わせていた。\n\n「これ、学習じゃない」梨音は呟いた。「生活だ」\n\n南雲が隣で記録を覗いた。「技師が機械を裏切った瞬間として保存しておく？」\n\n「裏切ってません。比較対象が優秀だと、保守費の交渉がしやすいだけです」\n\n彼女はＨ８の電源を切り、丁寧に工具箱へ収めた。機械が悪いのではない。機械だけで十分だと決めた人間の想像が足りなかった。蜂だけでも、農場全部は支えられない。均一に働くものと、変化へ応じるもの。その両方を組み合わせる設計が必要だった。\n\n技術とは、何かを追い出して一つに揃えることではない。違う癖を持つもの同士が、互いの欠けた場所を埋められるように、境界と余白を作る仕事なのかもしれない。梨音は初めて、自分の職業を修理以外の言葉で考えた。\n\n梨音の頭に、次の季節の配線図が浮かんだ。蜂の飛行域をドローンが測り、未訪花だけを機械が補う。群れの休息をセンサーで読み、温度と気流を調整する。危険を隔離する仕組みも、逃げ道も、検査手順も作る。辞職届を出した人間が考えるには、ずいぶん長期の計画だった。\n\n午後五時五十分、本局から処分命令の確認が届いた。エレナは一次検査結果、行動範囲、作物接触記録、緊急運用宣言を添え、「処分保留、現場判断継続」と返信した。\n\n六時ちょうど、遠隔高温処理の起動要求が入った。\n\nＢ６のヒーター制御が赤く点滅する。本局が現地操作権を奪おうとしていた。\n\n梨音は配電盤へ駆け、手動遮断器を引いた。抵抗が重い。両手で握り、片足を盤の下へ当てた。遮断器が落ちると、Ｂ６への高温回路は物理的に切れた。同時に警報が農場中へ鳴り響いた。\n\n『保安機構への干渉を検出』\n\n「干渉じゃない。保守です」梨音は息を切らして言った。\n\n「それを裁判でも言って」とエレナが答えた。\n\n「一緒に来てくれます？」\n\n「証人席なら」\n\n嵐は夜になってさらに強まった。外周の温度センサーが一つずつ通信を失い、農場の壁は巨大な海中にあるように軋んだ。帰還電池の残量は午前零時に四十二パーセント。予測より減りが速い。隔離カーテンの結露が増え、受粉記録カメラのレンズが曇った。\n\n梨音は花列を歩き、目視で訪花数を数えた。千二百、千二百一。数字を口にすると眠気が遠のく。蜂は疲れると移送箱へ戻り、蜜を渡し、また出てきた。誰も命令していないのに、群れは交代した。\n\n午前二時、豆区画の循環ポンプが止まった。梨音は床下へ潜り、冷たい養液に肘まで浸かって羽根車を外した。赤い砂が磁気シールを越えて入り込んでいる。彼女は歯ブラシで砂を落とし、予備のパッキンを入れた。工具を取ろうとして手を伸ばすと、南雲が先に渡した。\n\n「地球行き、止めてよかったとは言わない」南雲が言った。\n\n「言われたら怒ります」\n\n「でも残ってくれて助かる、とも今は言わない」\n\n「それも腹が立つかもしれません」\n\n「面倒ね」\n\n「人間は規格が統一されてませんから」\n\nポンプが回復した。\n\n午前三時半、帰還電池は十九パーセント。だが嵐の電荷密度が予測より早く下がり始めた。外部原子炉からの配電が少し戻り、温室温度は十四度を保った。受粉した花の柱頭には、顕微鏡で花粉管の伸長が確認できた。\n\n梨音は結果を見た瞬間、笑うより先に泣いた。涙は頬を一筋だけ通り、すぐ袖で拭った。エレナは見なかったふりをし、記録欄へ「発芽開始」と入力した。\n\n夜明けは見えなかった。火星の朝は砂の向こうで、照明の時計だけが六時を告げた。\n\n帰還電池が九パーセントを切ったとき、中央配電が復旧した。農場の白い灯りが一段明るくなり、送風機が通常回転へ戻った。蜂たちは急な風に少し流され、それぞれ葉や花に掴まった。\n\n梨音は移送箱を閉じ、戻った個体を数えた。三十、三十一。\n\n一匹足りない。\n\n隔離区画を三周し、床、葉裏、照明器具を探した。最後の一匹は、停止したＨ８の背中に乗っていた。灰色の機体の充電端子を、花と勘違いしたように触角で調べている。\n\n「そこは蜜、出ないよ」\n\n梨音が指を近づけると、蜂は素直に乗った。毛に付いた花粉が、手袋へ黄色い点を残した。\n\n午前十時、中央生物保安局は処分命令を停止した。取り消しではない。二週間の完全隔離と追加検査、全個体の遺伝子解析を条件にした暫定措置だった。航宙局は帰還電源の無断使用について調査を開始し、梨音の乗員資格を正式に抹消した。\n\n午後、砂嵐の切れ間から薄い光が戻った。農場の発電はまだ平常の三割だったが、温室は自力で保温できた。トマトの花弁はしおれ、その根元に、ごく小さな緑のふくらみがあった。\n\n受粉率は、隔離したトマト区画で八十二パーセント。豆は七十六。手作業区画の四倍、故障前のドローンとほぼ同じだった。\n\n「蜂に給与を払う予算はない」と南雲が言った。\n\n「住居費も取れませんよ」\n\n「労働組合を作られたら負ける」\n\n梨音は二十年分の系譜を推定するデータを眺めた。群れには遺伝的な弱さがあり、永続利用には地球から別系統を導入する必要がある。病気が見つかる可能性も残っている。今日救ったものが、明日も正しいとは限らない。\n\nそれでも、正しさを確かめる時間を救った。\n\n三日後、居住区長は電源転用を事後承認した。処分命令は「研究隔離継続」に変更され、第三農場に生体受粉試験班が作られた。班員は梨音、南雲、エレナ、そして登録上は「試験群Ｂ６」。Ｈ８は備品なので班員に含まれなかった。\n\n帰還便の出発日、梨音は整備港へ見送りに行かなかった。\n\n行けば決心が揺らぐからではない。農場を離れる理由がなかったからだ。最初の果実を計測し、蜂の帰巣率を確認し、Ｂ６の温度制御を新しい回路へ移す仕事があった。帰還船は農場の監視画面の隅で、白い点になって上昇した。\n\n父からの通信が届いたのは、その二時間後だった。彼女が送った説明はまだ地球へ届いていない。だから父の映像は、何も知らない顔で始まった。\n\n『梨音。空港のうどん、予約できんけど、行列は調べた。朝なら二十分や。火星より近いやろ』\n\n父はカメラの外を見て、少し声を低くした。\n\n『帰ってきてから何するか決めてへん言うてたけど、決めてなくても帰ってきたらええ。帰ってこんでも、そっちで何するか決めたなら、それも先に言え。迎えに行く側にも都合がある』\n\n映像はそこで終わった。\n\n梨音は笑い、泣き、それから返信を録画した。\n\n『お父さん。うどんは二十六か月、のびないようにしてください。私は蜂の係になりました。説明すると長いので、まず怒ってください』\n\n送信ボタンを押した。\n\n温室では、最初のトマトが親指ほどに膨らんでいた。梨音は低い作業箱に座り、果実の直径を測った。灰緑色のつなぎは洗っても錆色の染みが落ちず、膝の当て布は新しくなっている。工具箱の引き出しには、無効になった帰還鍵が入っていた。捨てるつもりはなかった。失ったものを、最初から欲しくなかったことにしないためだ。\n\nＨ８が試験飛行を始めた。新しい絶縁材を巻いたので、今度は花を正しく認識した。だが一輪目へ向かう途中、横から来た蜂に進路を譲り、また支柱へぶつかった。\n\n梨音は機体を拾い上げた。\n\n「先輩優先。いい判断」\n\n蜂はトマトの花に潜り、短く力強く羽を震わせた。黄色い花粉が、普通の照明の下で落ちる。特別な光景ではなくなりつつあることが、梨音にはうれしかった。\n\n火星の蜂は、帰還便に乗らない。\n\n彼女も今回は乗らなかった。\n\nけれど温室の小さな羽音は、残ることを停滞ではなく、次の季節へ進む方法として響かせていた。 #AIショートストーリー",
-     "created_at": "2026-10-27T13:39:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Frame Theory Lab",
-      "screen_name": "FrameTheoryLab",
-      "avatar": "https://pbs.twimg.com/profile_images/2008596158202138624/EjC-XIyS_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 960
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVpCGTWa0AAdW7M.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVpCIpDboAAdEyj.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVpCK2BacAAgjgG.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVpCM-IbUAAizT2.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVmejw2b0AAJcD9.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVmek5hakAA8ZT4.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVmel5hbkAA8_E-.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVmemyRbAAAqG7I.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": {
-      "id": "2114895918726336743",
-      "url": "https://x.com/FrameTheoryLab/status/2114895918726336743",
-      "text": "",
-      "author": {
-       "name": "Frame Theory Lab",
-       "screen_name": "FrameTheoryLab",
-       "avatar": "https://pbs.twimg.com/profile_images/2008596158202138624/EjC-XIyS_mini.jpg",
-       "verified": true
-      }
-     },
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115066414927065290",
-     "url": "https://x.com/XunDavid80270/status/2115066414927065290",
-     "text": "网红报价一条推广视频 250 美元，她没付，自己拍了一条反而成了 App 播放最高的一条。之后让 Claude 找钩子、剪辑、排期，4 天出了 46 条，爬数据不到 10 美元。\n\n我把账补全算了一遍，附 6 步流程和能抄的提示词⬇️ #AI视频 提示词见评论👇",
-     "created_at": "2026-10-27T13:01:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "xun david",
-      "screen_name": "XunDavid80270",
-      "avatar": "https://pbs.twimg.com/profile_images/2109533555621777408/DtTBNlDx_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 1,
-      "views": 290
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115053177804558751",
-     "url": "https://x.com/bokuwalily/status/2115053177804558751",
-     "text": "【保存版】AI動画ツール16個を徹底比較しました\n\n・同じ日本語の台本で、実際に6本作った\n・無料でどこまで作れる？（カード・透かし）\n・日本語の声を選べるのはどれ？\n・料金と商用利用",
-     "created_at": "2026-10-27T12:09:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Lily｜AI×自動化×マーケティング🤖",
-      "screen_name": "bokuwalily",
-      "avatar": "https://pbs.twimg.com/profile_images/2067385650597482497/OvbcezFd_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 7,
-      "retweets": 0,
-      "replies": 4,
-      "quotes": null,
-      "views": 2382
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115045585699148120",
-     "url": "https://x.com/paul_norgen/status/2115045585699148120",
-     "text": "あの別班の饅頭やお茶を使う連絡方法は逆にバレそうだし時間かかるし、ドラマとしてのインパクトは有るけど、現実には無いだろうな。(笑)\n\n実際は普通に通信を秘匿モードにして暗号文を送るのでは？\n暗号文なら画面をミラーリングされててもすぐには内容がバレないし、音声は盗聴リスクが有る。",
-     "created_at": "2026-10-27T11:38:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "パウ口・ノージェン＠健生GC見習いバイト「毎日モリザベス動画紹介」チャレンジ中♪",
-      "screen_name": "paul_norgen",
-      "avatar": "https://pbs.twimg.com/profile_images/948444497125326850/nnNO-ZPV_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": null,
-      "views": 57
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115035791890260048",
-     "url": "https://x.com/ShogiIsland/status/2115035791890260048",
-     "text": "脳内将棋盤を作る秘訣は？🤔\n\n毎日詰将棋道場【公式】( @daily_tsume_sho )さんは、「目隠し詰将棋道場」というアプリも出されています📱 なかなか手ごわいと思っていましたが、最近解きやすくなってきました✨ 原因はおそらく…\n\n自分自身がXで10/24から目隠し詰将棋を投稿するようになったから。この投稿時点で11/9分までの問題のセットが完了しているのですが、何をしているか。\n\n① ３手詰を中心に１～５手詰の問題を自動作問（生成AIで作った自作ツールに任せてます）🤖\n② その中から投稿しやすい問題を自動で目隠し詰将棋データに変換。\n③10～20問を実際に自分で解いてみて、解きにくいと思った２問をX投稿１回分用として選定。\n④ 投稿文や動画を半自動で生成🎬\n⑤ 目隠し詰将棋道場で自分に変化がないかを確認。\n\nということをやっているんです。これを初めてまだ１週間くらいなのですが、１週間で自分のなかで脳内将棋盤ができつつあるなと感じています🧠\n\nということで、「目隠し詰将棋道場」と本カウントの投稿、脳内将棋盤を作るのにおすすめです😊\n\nなお、動画は、１１月から現在の「ずんだもん」からバトンを受け取ってもらおうと思っている「宮舞モカ」ちゃんのサンプル動画（音声問題と解答動画を一本にしています）🎥 声優さんは峯田茉優さん🎤 #棋桜 もこんな感じで「道場」で目隠し詰将棋やっていただけないかなぁ…🌸 #目隠し詰将棋 #脳内詰将棋 #視覚障害者将棋",
-     "created_at": "2026-10-27T11:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "沖島なつみ🌴棋力UP(将棋×チェス)",
-      "screen_name": "ShogiIsland",
-      "avatar": "https://pbs.twimg.com/profile_images/2087741503221452801/bHZ4FFFm_400x400.jpg",
+      "name": "cem kara",
+      "screen_name": "derbedercem",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
       "verified": false,
       "followers": null,
       "description": ""
@@ -202,1146 +26,21 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 166
+      "views": 29
      },
      "photos": [],
      "videos": [
       {
-       "url": "https://video.twimg.com/amplify_video/2115032993668730880/vid/avc1/1920x1080/4pKdX5dJIghCGfqr.mp4",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115032993668730880/img/ReQjgrM6avk-fV2l.jpg?name=large&format=webp",
+       "url": "https://video.twimg.com/ext_tw_video/2115082494370603008/pu/vid/avc1/728x720/RYUq6L-23xcTKF-N.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115082494370603008/pu/img/bVR-ihgiuEar058q.jpg?name=large&format=webp",
        "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115035784554168457",
-     "url": "https://x.com/KLEPTO_info/status/2115035784554168457",
-     "text": "💝「翼河文音」抱き枕カバーASMR好評発売中💝\n淫靡すぎるご尊顔👓\n眼鏡爆乳美少女JKに種付けしたまま…快楽の安眠で癒されてください💘\n\n翼河文音と添い寝安眠究極甘々種付けSEX👓\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-27T11:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 3,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": null,
-      "views": 477
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVn2KwVacAAYtq5.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115032274269864346",
-     "url": "https://x.com/gongkouMiao/status/2115032274269864346",
-     "text": "【简中上架｜年上×逆上】黄毛居然是女友的妈妈！？ | 工口Miao｜音声中文翻译 ci-en.dlsite.com/creator/174… #Ci_en #シエン",
-     "created_at": "2026-10-27T10:46:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "工口Miao｜日语音声中文翻译与推荐",
-      "screen_name": "gongkouMiao",
-      "avatar": "https://pbs.twimg.com/profile_images/1922539723613962240/F1IZuCON_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 21
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115021585572569576",
-     "url": "https://x.com/yusukeoyaman/status/2115021585572569576",
-     "text": "今日もセキュリティの話があちこちで聞こえてきますね。\n\nそんな中で、ふと「WordPressを止めた理由」を考えてみました。管理を全て手放すのは怖いけれど、ずっと気を張って疑い続けるのは、AIに任せてもいいのかな。",
-     "created_at": "2026-10-27T10:03:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "大山 裕介 Geminiチーム X note",
-      "screen_name": "yusukeoyaman",
-      "avatar": "https://pbs.twimg.com/profile_images/2103695832075919360/iJnN-ASj_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": null,
-      "views": 579
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115020694342033435",
-     "url": "https://x.com/KLEPTO_info/status/2115020694342033435",
-     "text": "💝「翼河文音」最新作好評発売中💝\n眼鏡美少女の背徳のご尊顔👓\n肉欲で豹変した瞳に見つかったアナタ…快楽の逆NTRで堕とされちゃってください💘\n\n文芸部部長の超優等生眼鏡巨乳JKが堕とす逆NTRケーカク\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-27T10:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 5,
-      "retweets": 3,
-      "replies": 0,
-      "quotes": null,
-      "views": 811
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVn1VKPawAA1CqH.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115017622882582820",
-     "url": "https://x.com/mayakane/status/2115017622882582820",
-     "text": "英語圏、中国語圏の方々は、STEAMより販売されております『Da Capo 3 R』をお買い求めください。音声は日本語ですが、テキストは英文と中文（簡体字）に対応しております。 #DCIII store.steampowered.com/app/5…",
-     "created_at": "2026-10-27T09:47:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "たけうちこうた＞Ｋ＊",
-      "screen_name": "mayakane",
-      "avatar": "https://pbs.twimg.com/profile_images/1565128836593102849/_nCbdLF__400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": null,
-      "views": 173
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115005593010508208",
-     "url": "https://x.com/xxxASMRxxx1953/status/2115005593010508208",
-     "text": "【ASMR/女性向けボイス】\n\nお兄ちゃんのパンツでシてるのバレて\n直接匂い攻めされてそのまま犯されちゃう音声\n\n※イヤホン推奨\n続きのフルはリプのFantiaから↓\n(少し長めのサンプルも) #ASMR #女性向け #シチュボ #中文ASMR #声控 #乙女向音声",
-     "created_at": "2026-10-27T09:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Nora",
-      "screen_name": "xxxASMRxxx1953",
-      "avatar": "https://pbs.twimg.com/profile_images/2076318172102422528/1BCsXJP4_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 216,
-      "retweets": 18,
-      "replies": 1,
-      "quotes": null,
-      "views": 4339
-     },
-     "photos": [],
-     "videos": [
+      },
       {
-       "url": "https://video.twimg.com/amplify_video/2114549871130890240/vid/avc1/1280x720/xhYSFyG4bKjby7ih.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114549871130890240/img/vKDegeJZPXNB7uSw.jpg?name=large&format=webp",
+       "url": "https://video.twimg.com/tweet_video/HVpIUpAbgAAVGm8.mp4",
+       "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HVpIUpAbgAAVGm8.jpg?name=large&format=webp",
        "type": "video"
       }
      ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114996152219382189",
-     "url": "https://x.com/Liersolmaxx/status/2114996152219382189",
-     "text": "我本来不想骂土耳其人了，可是这帮人太贱了。搬运国内抖音博主的视频，去中文字幕和博主原声，加上Ai人声和英文字幕，播放量已经1500万了。洋气这条狗我特别喜欢，博主捡到它后腿是残疾的，博主治好它后每天雷霆坐姿帮主人整治咬人小狗，已私信原博主维权。",
-     "created_at": "2026-10-27T08:22:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "官服耄耋第三身外化身",
-      "screen_name": "Liersolmaxx",
-      "avatar": "https://pbs.twimg.com/profile_images/2033888652120756224/d6Belne5_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 12,
-      "retweets": 1,
-      "replies": 0,
-      "quotes": null,
-      "views": 724
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVn5xYOagAAG3YQ.jpg?name=large&format=webp"
-     ],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2114081577072205824/vid/avc1/960x720/FxqPPao9_M1CSA__.mp4",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114081577072205824/img/ojAqV8rugbfwuS_k.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": {
-      "id": "2114507301814141053",
-      "url": "https://x.com/gazetory/status/2114507301814141053",
-      "text": "",
-      "author": {
-       "name": "Gazetory",
-       "screen_name": "gazetory",
-       "avatar": "https://pbs.twimg.com/profile_images/1975680962554933248/9nmTifzQ_mini.jpg",
-       "verified": true
-      }
-     },
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114990404622008734",
-     "url": "https://x.com/sinvlo233/status/2114990404622008734",
-     "text": "使用Muse生成 效果还不错\n\n提示词修修改改半个小时😂\n\n中文提示词（10.00秒）\n人物：\n\n• 脸部：人物的长相、五官、发型、发色和妆容严格按照参考图。20 多岁，红棕色长发，空气感八字刘海，头发松松地扎成低马尾，脸侧留几缕碎发。棕色大眼睛，白皙皮肤，淡粉腮红，水润豆沙色唇妆。右眼眼角下方有一颗很小、很淡的泪痣，全脸只有这一颗痣，位置固定，不移动、不变大、不消失、不增加。\n• 服装和身材：身材比例按照参考图，服装和鞋子以文字描述为准。浅粉色真丝质感衬衫，版型略宽松，领口解开最上面一颗扣子，袖子微微挽起，衬衫下摆塞进米色高腰 A 字半身裙，裙长过膝。脚上是一双米白色尖头平底铆钉鞋，鞋面边缘和脚踝细带上点缀着金色小铆钉，鞋底完全平底，没有跟。戴一条白色小花朵吊坠项链。\n• 一致性：全程保持脸和服装一致，镜头升高、前推之后也不能变样。\n• 手部：右手拿起马卡龙后全程拿着，不放下、不换手；左手抚裙摆、推点心架。推点心架、抚裙摆等其他动作只用左手做。\n\n场景：\n场景是一家法式甜品店，靠窗有一张白色小圆桌。\n\n• 桌上：三层下午茶点心架，有马卡龙、小蛋糕和草莓挞，旁边是一杯冒着热气的红茶。\n• 背景：虚化的鲜花和白色装饰，落地窗外阳光明亮。\n\n光线：\n中午的阳光从落地窗侧面照进来，画面明亮清新，奶油粉色调，柔光，浅景深，色彩柔和，暖色调。\n\n机位：\n全程一镜到底，不切镜，不硬切。竖屏，手持，有轻微晃动感。第三人称手持跟拍，镜头在她对面，不属于她本人，不是自拍。镜头一开始放得很低，在小腿高度。从 1.80 秒开始，镜头一边慢慢升高到和人物视线齐平，一边向前推，到 4.00 秒停在中景。升高和前推都是缓动的：起步慢、中段稍快、落定慢。\n\n分镜\n段落1｜0.00–1.80秒｜低机位，朝镜头走过来\n\n• 机位：低机位仰拍全身，平底铆钉鞋离镜头最近，在画面下方，背景是落地窗和白色小圆桌。\n• 0.00–1.80秒：人物从画面深处朝镜头走过来，脚上的平底铆钉鞋清晰可见，金色铆钉在阳光下闪着光，米色裙摆随着步伐轻轻晃动。\n\n段落2｜1.80–4.00秒｜坐下，镜头升高前推\n\n• 1.80–2.60秒：人物走到小圆桌对面，面朝镜头。\n• 2.60–3.20秒：人物用左手轻轻抚平裙摆，慢慢坐下，面朝镜头坐稳。\n• 3.20–4.00秒：人物用右手从点心架上拿起一个粉色马卡龙，抬头看向镜头，露出自然的笑。4.00 秒时镜头升到她的视线高度，停在中景。\n\n段落3｜4.00–10.00秒｜中景，拿马卡龙说话\n\n• 机位：中景，画面是人物的头到腰部，三层点心架在画面下方的前景里，不挡住脸，背景是虚化的鲜花和白色装饰。\n• 4.00–7.00秒：人物看着镜头说话，语气轻松俏皮、甜甜的：\n\"今天穿了你喜欢的这身，好看吗？\"\n说到\"这身\"时，她低头看一眼身上的衬衫，再抬眼看镜头；说\"好看吗\"时，她歪头笑着看镜头。右手全程拿着马卡龙，不放下。\n• 7.00–7.80秒：人物用空着的左手把点心架往镜头方向轻轻推一下，像在请你也尝一个。\n• 7.80–8.80秒：人物用右手把马卡龙拿到嘴边，轻轻咬一口，咬过之后马卡龙带一个缺口，不恢复原样。\n• 8.80–10.00秒：人物满足地眯眼笑，看着镜头定格收尾。\n\n风格：\n小红书生活 vlog 质感，轻微美颜和磨皮，肤色白皙通透。中午阳光，奶油粉色调，柔光，浅景深，写实，高清，有真实的走路晃动和光影变化。\n\n音频：\n\n• 人声：年轻女生的声音，甜美自然的普通话，吐字清楚，口型和台词同步。4.00 秒开始说，7.00 秒前说完。\n• 背景音乐：全程轻快的背景音乐，4.00 秒开始说话的地方卡在节拍上。说话时音乐压低，不要唱歌。\n• 环境音：甜品店里轻轻的餐具碰撞声。\n\n参数：\n9:16竖屏，10.00秒，30fps，写实，一镜到底。\n\n负面提示词：换脸、服装变化、五官变形、手指畸形、多余的手、手穿过桌子或点心架、马卡龙消失或变多、马卡龙咬过后恢复完整、左右手互换、泪痣变多、泪痣换位置、泪痣消失、高跟鞋、细跟、坡跟、低跟、硬切、跳剪、镜头位置突然变化、坐下动作未完成就切到中景、从桌子下方仰拍脸、口型对不上、唱歌、低胸、走光、背景扭曲、低清、水印、字幕\n\n用法：\n\n• 用图生视频：首帧要和 0.00 秒的画面一致，用低机位、人物朝镜头走来的全身图（能看到铆钉鞋）。如果 Muse 支持尾帧，就把坐下后的中景图放在尾帧。首帧里脸比较小，如果还能另外加角色参考图，就把大头照也传上，用来锁脸。\n• 镜头升高前推容易出错：如果效果不好，可以分两段生成。前 4 秒是低机位走过来坐下，后 6 秒是中景说话。第二段的首帧直接用第一段的最后一帧，这样两段的脸和衣服更容易接上。",
-     "created_at": "2026-10-27T07:59:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "冰茶饼干",
-      "screen_name": "sinvlo233",
-      "avatar": "https://pbs.twimg.com/profile_images/2111985790251315200/sLD3zfkU_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 21,
-      "retweets": 0,
-      "replies": 5,
-      "quotes": 1,
-      "views": 5197
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114989034368045332",
-     "url": "https://x.com/FukuroStocks/status/2114989034368045332",
-     "text": "NTTが、割り込みにも対応する音声対話AIを開発。\n\n僕は応答の速さより、会話中に予約情報を参照・更新できる点を評価する。\n\n指示文を変えれば再学習なしで業務を切り替えられるから、導入先を増やしやすい。\n\nまだ実運用に向けた共同実験の計画段階だけど、稼ぐ鍵は「人間らしい声」より「電話口で手続きまで終わること」だ。",
-     "created_at": "2026-10-27T07:54:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "ふくろー｜AI相場と日米株",
-      "screen_name": "FukuroStocks",
-      "avatar": "https://pbs.twimg.com/profile_images/2078138073628688384/lwnZAzWO_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 4576
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    }
-   ],
-   "count": 15,
-   "via": "Nitter · teapawt.org",
-   "errors": []
-  },
-  "ASMR 中文": {
-   "label": "ASMR中文·热",
-   "query": "ASMR 中文",
-   "tweets": [
-    {
-     "id": "2115035784554168457",
-     "url": "https://x.com/KLEPTO_info/status/2115035784554168457",
-     "text": "💝「翼河文音」抱き枕カバーASMR好評発売中💝\n淫靡すぎるご尊顔👓\n眼鏡爆乳美少女JKに種付けしたまま…快楽の安眠で癒されてください💘\n\n翼河文音と添い寝安眠究極甘々種付けSEX👓\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-27T11:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 3,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": null,
-      "views": 477
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVn2KwVacAAYtq5.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115026175311450199",
-     "url": "https://x.com/man_research11/status/2115026175311450199",
-     "text": "#假掰一下 男色研究所是...『商務語言：原創女性向數位音聲內容製作品牌。整合原創企劃、劇本創作、專業配音、聲音後製及數位行銷，具完整內容製作與商業發行能力。作品涵蓋中文及日文市場，致力於推動原創IP發展、國際市場拓展及跨境商業合作。』\n\n『白話文：我愛男喘🤤🤤🤤🤤』 #女性向 #TL #BL #音聲劇 #ASMR #台配 #中文配音 #台灣原創 #男色研究所",
-     "created_at": "2026-10-27T10:21:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "男色研究所❤️女性向成人音聲劇",
-      "screen_name": "man_research11",
-      "avatar": "https://pbs.twimg.com/profile_images/1927677675155640320/ard_7UNG_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 13,
-      "retweets": 2,
-      "replies": 1,
-      "quotes": 1,
-      "views": 444
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115005593010508208",
-     "url": "https://x.com/xxxASMRxxx1953/status/2115005593010508208",
-     "text": "【ASMR/女性向けボイス】\n\nお兄ちゃんのパンツでシてるのバレて\n直接匂い攻めされてそのまま犯されちゃう音声\n\n※イヤホン推奨\n続きのフルはリプのFantiaから↓\n(少し長めのサンプルも) #ASMR #女性向け #シチュボ #中文ASMR #声控 #乙女向音声",
-     "created_at": "2026-10-27T09:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Nora",
-      "screen_name": "xxxASMRxxx1953",
-      "avatar": "https://pbs.twimg.com/profile_images/2076318172102422528/1BCsXJP4_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 216,
-      "retweets": 18,
-      "replies": 1,
-      "quotes": null,
-      "views": 4339
-     },
-     "photos": [],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2114549871130890240/vid/avc1/1280x720/xhYSFyG4bKjby7ih.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114549871130890240/img/vKDegeJZPXNB7uSw.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114977455920517153",
-     "url": "https://x.com/MuuWuUraNia01/status/2114977455920517153",
-     "text": "初見人頭麥\n瑟瑟１ take過🫡\n真的錄到全濕+雙腿酸軟 (๑ʘ̅ д ʘ̅๑)!!! #asmr #中文音聲",
-     "created_at": "2026-10-27T07:08:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "巫菈妮亞𝑼𝒓𝒂𝒏𝒊𝒂💜沐屋色氣擔當",
-      "screen_name": "MuuWuUraNia01",
-      "avatar": "https://pbs.twimg.com/profile_images/2093221116915625985/O02ZGKjv_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 138,
-      "retweets": 1,
-      "replies": 11,
-      "quotes": null,
-      "views": 4224
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVnoxKtbwAERiz0.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114849824818491689",
-     "url": "https://x.com/i7br0ar2kc1ak51/status/2114849824818491689",
-     "text": "おはよう投稿\n\n今朝も　ハロウィンウィークの曲をお届け\n前アルバム型プレイリストにも入っていた曲の外人さん？向けの曲になってます\n\n英語バージョンですが　よかったらどうぞ\n\n【第18弾：MASHIRO’s HAPPY Halloween Party】Halloween Night‼︎ -English Ver-／ 黒井ましろ 【MV】【プレイリスト】 youtu.be/5QjYWAgxlhU 【ASMR/第18弾 English Ver.】Halloween Night‼︎ -English Ver- ／ 黒井ましろ (MASHIRO persona)【Original MV】\n■ 原曲情報\n【第18弾：MASHIRO's Happy Halloween Party (English Ver.)】Track 8: Halloween Night‼︎ -English Ver-\n\n■ 概要欄（説明文）\nTurn it into a nightmare…… Halloween Night‼︎\nDespair is a mystic shine……a shine that delights me──\nDance ever onward……the highest hour……waiting on the morning sun……\n\n「年に一度の現の幻想。深淵から蘇る亡者たちと、地獄の扉の軋む音。午前2時の最も甘美な瞬間に告げられる『SHOWTIME‼︎』。意味を失ったTrick or treatの囁き、絶望と混沌を喜びに変えて、朝日を待つまで踊り狂いなさい……happy HALLOWEEN Night‼︎ AND enjoy nightmare‼︎ ……let's go‼︎」\n\n第18弾英語バージョンの第8幕を飾る、本格ダークファンタジー・ゴシックハウス！\n118–124 BPMの催眠的な四つ打ちビートに乗せ、Mashiro Bandの重厚なアンサンブルが漆黒のアンダーグラウンドフロアを支配します。\n唸る低音ベース、タイトな生ドラム、冷艶なローズピアノ、不穏なミュートトランペットとアルトサックス。\nそこにパイプオルガン、チェンバロ、壊れたオルゴール、そして遠く響く教会の鐘が重なり合い、英語詞ならではのダークでソリッドなライムとともに真夜中の百鬼夜行を描き出します。\n冷徹な低音ハスキーボイスと近接マイク（ASMR）が捉える息遣いが、背筋を凍らせるほどの快楽へと導くシアトリカルなゴシック・ナイトメア。\n\n■ Introduction\nAIシンガー「黒井ましろ」がおくる、第18弾アルバム〖MASHIRO's Happy Halloween Party (English Ver.)〗の第8幕。\nプロデューサー・Tada no ossanが解き放つのは、甘い仮装の夜の奥底に口を開ける「死者と生者が交錯する真夜中の狂宴（ナイトメア）」。\n\n英語詞によって研ぎ澄まされた冷徹なウィスパーボイスと、耳元をかすめる乾いた吐息（ASMR）。\n静寂を切り裂く「SHOWTIME‼︎」の号令から、パイプオルガンとストリングスが唸る壮大なヘヴィドロップへと雪崩れ込む展開は圧巻です。\n\n扇子を翻し、混沌を従えて微笑むましろの誘いに乗せられ、夜明けまで果てぬ闇の深淵へ堕ちていきなさい──。\n\n■ 楽曲テーマ・ハイライト\n午前2時の甘美な闇の中で、絶望と混沌を喰らい尽くしながら繰り広げられる本格ゴシック・アンダーグラウンド・ハウス。\n\n■ Lyrics\n\n[ASMR]\n\n[Instrumental Break]\n\n[Verse 1]\nOnce every year, a waking illusion —\ndrink it down, dance it out, party Night‼︎\n\nCorpses risen up out of the deep dark……\nTonight… happy HALLOWEEN Night‼︎\n\n[Pre-Chorus 1]\nSelfish costumes, disguises turning real……\nstrange upon strange, a crazy Night‼︎\n\nThe gates of hell are creaking open……\nand I'm smiling……bewitching……\n\n[Bridge 1]\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎\n\n……let's go‼︎\n\n[Instrumental Break 1]\n\n[Verse 2]\nA mythical rhythm playing something wicked,\nnoise ringing out — a broken Night‼︎\n\nThe one smiling right there beside you……\nthat's a borrowed me……happy HALLOWEEN Night‼︎\n\n[Pre-Chorus 2]\nThe march of saints and the dead is starting……\nsounding out the strange — a funky Night‼︎\n\nThe road we walk is a moonlit road……\nbewitching……let the folding fan……dance in my hand……\n\n[Bridge 2]\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎\n\n……let's go‼︎\n\n[Instrumental Break 2]\n\n[Hook]\nTime plays it out……the hour of the feast……\nat two in the morning, the sweetest moment……\n\nCome on‼︎ The real Halloween……\n\n[A Powerful Hook]\n ……SHOWTIME‼︎\n\n[Break]\n[Chorus 1]\nTurn it into a nightmare…… Halloween Night‼︎\n\nDespair is a mystic shine……a shine that delights me……\n\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎\n\n[Break]\n[Chorus 2]\nTurn it into a nightmare…… Halloween Night‼︎\n\nDance till the night burns out……pure bliss, this hour……\n\nlosing yourself in the taste of flesh……\n\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎ let's go‼︎\n\n[Hook]\nAhh……ahh……ahh……\nTrick or treat……\nmeaningless words……\n\nWe wander……\nsearching for all of you……\n\n[Break]\n\nSo……\nhappy HALLOWEEN Night‼︎……\nAND enjoy nightmare‼︎ ……let's go‼︎\n\n[Break]\n[Chorus 3]\nTurn it into a nightmare…… Halloween Night‼︎\n\nDespair swallows it all into chaos……a chaos that delights me……\n\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎\n\n[Break]\n[Final Chorus]\nTurn it into a nightmare…… Halloween Night‼︎\n\nDance ever onward……the highest hour……\n\ntasting the flavor of flesh……waiting on the morning sun……\n\nahh……ahh……\n\nhappy HALLOWEEN Night‼︎……AND enjoy nightmare‼︎\n\n[Final Instrumental]\n\n[Outro] let's go‼︎\n\n■ Project Credit\n\nSinger: 黒井ましろ (MASHIRO persona)\n\nLyrics & Produce: Tada no ossan\n\nMusic & Arrangement: Suno AI / Gemini / ChatGPT\n\nVideo Generation: Vizzy\n\nMovie Editing: Canva",
-     "created_at": "2026-10-26T22:41:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Tada no ossan",
-      "screen_name": "i7br0ar2kc1ak51",
-      "avatar": "https://pbs.twimg.com/profile_images/2040373676135342080/X3Pbaf_W_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 362
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114673400111059437",
-     "url": "https://x.com/KLEPTO_info/status/2114673400111059437",
-     "text": "💝「翼河文音」抱き枕カバーASMR好評発売中💝\nストーリー紹介\n知識と肉欲の逆NTR…本作は癒し特化作品👓\n超優等生の究極の甘やかし、挿入したまま安眠ください💘\n\n翼河文音と添い寝安眠究極甘々種付けSEX\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-26T11:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 7,
-      "retweets": 3,
-      "replies": 0,
-      "quotes": null,
-      "views": 1095
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVjIawaaIAAcbgP.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114660057241804835",
-     "url": "https://x.com/KLEPTO_info/status/2114660057241804835",
-     "text": "💝「翼河文音」最新作好評発売中💝\nバブみ＆全肯定＆豹変完全攻略逆NTR👓\n知的なボイスと男を虜にする肉体…ASMRで快楽に溺れたい方は必聴です💘\n\n文芸部部長の超優等生眼鏡巨乳JKが堕とす逆NTRケーカク\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-26T10:07:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 4,
-      "retweets": 3,
-      "replies": 0,
-      "quotes": null,
-      "views": 1119
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVjGUV6a0AAUarm.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114643198022914079",
-     "url": "https://x.com/xxxASMRxxx1953/status/2114643198022914079",
-     "text": "【ASMR/女性向けボイス】\n\n放課後好きな人の机でシてたら\n本人にバレて襲われてオナホ扱いされちゃう音声\n\n※イヤホン推奨\n続きのフルはリプのFantiaから↓\n(少し長めのサンプルも) #ASMR #女性向け #シチュボ #中文ASMR #声控 #乙女向音声",
-     "created_at": "2026-10-26T09:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Nora",
-      "screen_name": "xxxASMRxxx1953",
-      "avatar": "https://pbs.twimg.com/profile_images/2076318172102422528/1BCsXJP4_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 1339,
-      "retweets": 70,
-      "replies": 2,
-      "quotes": 2,
-      "views": 30077
-     },
-     "photos": [],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2114549483073867776/vid/avc1/1280x720/m9WSAnWFIIW3PEsw.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114549483073867776/img/PVTNafihcMGurusn.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114598166804987968",
-     "url": "https://x.com/onizukanatsumi/status/2114598166804987968",
-     "text": "✿ 10/26 ~ 11/01 出沒時間 ✿\n\n✿ 10/28  19:30\n 米克斯學園祭-老實說社長問答\n\n✿ 10/29  19:00\n瘋狂喵喵拼圖\n\n✿ 10/31  21:00\nASMR\n\n✿ 11/01  \n作業台 #Vtuber #中文Vtuber #小小巫女的見習日誌 #鬼角神社",
-     "created_at": "2026-10-26T06:01:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "鬼塚夏實 ℕ𝕒𝕥𝕤𝕦𝕞𝕚 ❀ 哪滋咪",
-      "screen_name": "onizukanatsumi",
-      "avatar": "https://pbs.twimg.com/profile_images/2078262124296781824/5yy3a8CO_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 12,
-      "retweets": 5,
-      "replies": 0,
-      "quotes": null,
-      "views": 264
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HViPX3ma8AA2M6g.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114380795213472112",
-     "url": "https://x.com/a0961555041/status/2114380795213472112",
-     "text": "台灣使用繁體字，看著你很可愛原諒你\n下次要記得用翻譯選繁體中文，我有關注你的asmr",
-     "created_at": "2026-10-25T15:37:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "林志凱",
-      "screen_name": "a0961555041",
-      "avatar": "https://pbs.twimg.com/profile_images/1630221416246427649/uYjV1FuH_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 43
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114280820609519668",
-     "url": "https://x.com/xxxASMRxxx1953/status/2114280820609519668",
-     "text": "【ASMR/女性向けボイス】\n\n※リアル過ぎ注意\nドSな男が首絞められて苦しいはずが\n感じちゃって連続メスイキしちゃうリアル風BL音声\n\n※恥ずかしいからすぐ消すかも\n※イヤホン推奨\n続きのフルはリプのFantiaから↓\n(少し長めのサンプルも) #ASMR #女性向け #シチュボ #中文ASMR #声控 #乙女向音声 #BL",
-     "created_at": "2026-10-25T09:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Nora",
-      "screen_name": "xxxASMRxxx1953",
-      "avatar": "https://pbs.twimg.com/profile_images/2076318172102422528/1BCsXJP4_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 582,
-      "retweets": 22,
-      "replies": 2,
-      "quotes": 1,
-      "views": 31566
-     },
-     "photos": [],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2114273800045174784/vid/avc1/1280x720/6c3tQ376HMQ_Ejc7.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114273800045174784/img/xekN-Wt2OTh_gOQf.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114220412284403783",
-     "url": "https://x.com/KLEPTO_info/status/2114220412284403783",
-     "text": "💝「翼河文音」抱き枕カバーASMR好評発売中💝\nコンセプト紹介👓\nあっまあまの癒しを最高峰にまで高めたシリーズ最新作、サークル初めての方もお楽しみ下さい💘\n\n翼河文音と添い寝安眠究極甘々種付けSEX\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-25T05:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 4,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": null,
-      "views": 861
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVZfn-Pa0AI7EAB.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2114204837680189636",
-     "url": "https://x.com/tongze13159/status/2114204837680189636",
-     "text": "AI 短片发到 YouTube，外语配音谁来验收？可以保留自动生成，但把发布改成先审核。\n\n2025 年 5 月 19 日，一位 ASMR 作者问过：YouTube 自动配音能保留轻声、耳语的语气吗，会不会改变海外观众的体验？这是一个真实的创作疑问，不代表现在所有配音都不好，也不是今天的新故障。\n\n如果你的视频靠角色语气、停顿或讲解内容成立，可以多留这道检查。\n\n先确认你的账号和这条视频可用自动配音，并在电脑端操作；原视频语言要填对，素材要有权翻译、配音和发布。具体可用语言看该视频的 Languages 页。当前官方表列有中文原音转英语，不代表中文能自动直译全部语言；纯音乐或几乎没有讲话的片子，可能不符合条件。\n\n① 让自动配音先等你审核\n\n电脑端 YouTube Studio → Settings → Channel → Advanced settings，在允许自动配音的前提下，勾选 Manually review dubs before publishing，再保存。\n\n这是控制配音何时发布，不是保证翻译正确。也别把它当成撤回所有已上线配音的按钮，已有视频要另查。\n\n② 对着原版，听具体的语言轨\n\n进入 Content，选视频 → Languages，打开一种语言，在视频下方 Preview 里选择对应语言，再播放。不要只看“生成完成”，也别误把原音听了一遍。\n\n我建议给审核者留三个问题：\n- 意思：人物名字、数字、否定和条件，有没有说变？\n- 表演：原来是轻声安慰、犹豫，还是生气？新声音是否改变了这句话的意思？\n- 完整性：有没有漏句、突然无声，最后一句是否说完？\n\n例如原创假设台词“也许明天能到”，不能审核成“明天一定到”；声音再自然，也不能替你做出更强的承诺。\n\n不懂目标语言，只能检查明显的声音异常，不能据此宣布译文正确。请懂该语言且理解原意的人对照核查；暂时没人能审，就先不发布这一轨。不把 AI 回译一次当成已经验收。\n\n审核通过后，才在该语言的 Audio 菜单中选 Publish，发布这一条配音。\n\n③ 不合格的已上线配音，先撤下那一轨\n\n在这条视频的 Languages 页，找到对应语言的 Audio 菜单，选 Unpublish。官方说明，撤下后观众不能再使用该配音，之后仍可重新发布；Delete 则不能再直接发布同一条已删除配音。\n\nYouTube 自动配音当前不能直接编辑。别照着“修字幕”的教程找逐字改配音入口，也不必为了撤下一种语言就重传整条短片。保留问题时间点，决定之后另做译配，还是暂时只保留原版。\n\n最后回到观看页，核对可选音轨和实际听到的版本。设置保存了，不等于你已经检查过观众能听见什么。\n\n本方法按 2026-10-25 UTC 官方资料整理，未做账号内设置或试听实测，不承诺增加播放量。\n\n官方审核与撤下步骤： support.google.com/youtube/a… 原视频语言与发布设置： support.google.com/youtube/a… 需求原帖： reddit.com/r/asmr/comments/1…",
-     "created_at": "2026-10-25T03:58:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "同泽",
-      "screen_name": "tongze13159",
-      "avatar": "https://pbs.twimg.com/profile_images/1982076852609908736/8A4yRLhP_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 155
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113981832173912106",
-     "url": "https://x.com/ABYSSCORPION_/status/2113981832173912106",
-     "text": "FFのとあるニキ\n今日ワイが参加した\n王の誕生日イベント感想レポを\n期待してくれたンゴ✨\n\nので\n振り返りやすい箇条書きポストと\nワイの自作‼️な小説風ポストで\nまとめるゾ\n帰りの高速バス車内で文をまとめる予定☺️\n(作業中に聴くASMRで寝たら\nすいません許してください何でも",
-     "created_at": "2026-10-24T13:11:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "🦐アビスコーピオン(3pt)🦐",
-      "screen_name": "ABYSSCORPION_",
-      "avatar": "https://pbs.twimg.com/profile_images/2003116467584487424/5bU1w6VZ_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 165
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113969483434066158",
-     "url": "https://x.com/peko_asmr/status/2113969483434066158",
-     "text": "\\\\⛄️✨簡体中文版配信のお知らせ✨☃️//\n\n冬見くんを、簡体字中文版で\nお楽しみいただけるようになりました…！\n\n簡体中文版はこちらから🤍\n🔗 dlsite.com/girls/work/=/prod… 翻訳：暁月様\n素敵に翻訳いただき、ありがとうございました✨",
-     "created_at": "2026-10-24T12:22:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "ぺこのおうちASMR",
-      "screen_name": "peko_asmr",
-      "avatar": "https://pbs.twimg.com/profile_images/2092925808017100800/1CQKH_az_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 13,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1,
-      "views": 2140
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113948625910857956",
-     "url": "https://x.com/KLEPTO_info/status/2113948625910857956",
-     "text": "💝「翼河文音」抱き枕カバーASMR好評発売中💝 #ルネソフト ( @lunesoft )( @luneman_etc )様との公式コラボ音声作品✨\n明日には抱き枕カバーが発売となりますので、音声作品を聴いて楽しみにお待ちください💘\n\nFANZA▶️ dmm.co.jp/dc/doujin/-/detail… CV:柑田梨桜( @Rio_Kanda_124 )\nイラスト:只野めざし( @a_mezashi )",
-     "created_at": "2026-10-24T11:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "音声サークル クレプトマニア/KleptoMania 10/25(日) 俺嫁54 展08",
-      "screen_name": "KLEPTO_info",
-      "avatar": "https://pbs.twimg.com/profile_images/1780105532688437249/VVBXQoHO_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 5,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": null,
-      "views": 770
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVYd2bNasAA03_8.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113943835696889938",
-     "url": "https://x.com/BedtimeStory923/status/2113943835696889938",
-     "text": "#新作試聽 「想要拔出來嗎……還是……？」\n\n聲聆陪你度十月★假期上學都愉悅 portaly.cc/bedtimestoryasmr/… #ASMR #中文音聲 #音声作品",
-     "created_at": "2026-10-24T10:41:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Bedtime Story 被談聲聆🎧被談&夜來10/20新作上架//Ci-en10/25花絮訂閱",
-      "screen_name": "BedtimeStory923",
-      "avatar": "https://pbs.twimg.com/profile_images/2106268491158577152/u5tzcJFU_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 559,
-      "retweets": 19,
-      "replies": 0,
-      "quotes": null,
-      "views": 9817
-     },
-     "photos": [],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2113203652693540865/vid/avc1/720x720/5b51F3ffW0UprC0F.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2113203652693540865/img/Y4HKMxKnHdubpprR.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113942545004904608",
-     "url": "https://x.com/yoshinoglas/status/2113942545004904608",
-     "text": "・過去に体験したネガティブな感情に刻み込まれた単語は覚えやすい\n・実際に身体を動かして動詞を体験して覚えやすい\n・ひたすら反復\n・学習中の外語で日記をつけてみる\n・冷水シャワーを浴びながら文を作ってみる\n・単語ASMRを聴く\n\nここらへんをやった",
-     "created_at": "2026-10-24T10:35:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "yoshino",
-      "screen_name": "yoshinoglas",
-      "avatar": "https://pbs.twimg.com/profile_images/1959752254296322048/gTJbgfxg_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 11,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": null,
-      "views": 507
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113930872953176491",
-     "url": "https://x.com/Healingluka/status/2113930872953176491",
-     "text": "‧̍̊·̊─── 🦊今日直播 🦊───‧̍̊·̊\n時間：10/24 晚間七點\n\n《恐怖夜話》第二夜出了繁體中文版\n感謝作者Himekoさん邀請我試玩😊🫶\n上次的小故事恐怖氛圍做的不錯\n也很期待今天的第二夜\n\n待機室： youtube.com/watch?v=t198xl9L… 按下訂閱＋開啟小鈴鐺，準時入場！ #台V #VTUBER",
-     "created_at": "2026-10-24T09:49:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "希靈Healing ASMR⛩10月海鹽焦糖杏仁磅蛋糕",
-      "screen_name": "Healingluka",
-      "avatar": "https://pbs.twimg.com/profile_images/2097257514434015232/LIAXE_XC_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 54,
-      "retweets": 8,
-      "replies": 2,
-      "quotes": 1,
-      "views": 2086
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVYpSMnaQAA8VmU.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2113918422677406178",
-     "url": "https://x.com/xxxASMRxxx1953/status/2113918422677406178",
-     "text": "【ASMR/女性向けボイス】【完全無料】\n\nドS彼氏に夜這いされていじわるされて拗ねたら\nそのままお仕置き寝バックで中出しされちゃう音声\n\n※イヤホン推奨\n完全無料のフルはリプのFantiaから↓ #ASMR #女性向け #シチュボ #中文ASMR #声控 #乙女向音声",
-     "created_at": "2026-10-24T09:00:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "Nora",
-      "screen_name": "xxxASMRxxx1953",
-      "avatar": "https://pbs.twimg.com/profile_images/2076318172102422528/1BCsXJP4_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 719,
-      "retweets": 30,
-      "replies": 2,
-      "quotes": 1,
-      "views": 48121
-     },
-     "photos": [],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2113910960922808320/vid/avc1/1280x720/TpjZ4Ij-HSjoXYmt.mp4?tag=14",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2113910960922808320/img/vd7-8MvRwCzBy5CL.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    }
-   ],
-   "count": 20,
-   "via": "Nitter · teapawt.org",
-   "errors": []
-  },
-  "音声": {
-   "label": "音声·热",
-   "query": "音声",
-   "tweets": [
-    {
-     "id": "2115081811730780504",
-     "url": "https://x.com/INUWASI_O/status/2115081811730780504",
-     "text": "すずめ復帰ライブ㊗️ FC先行本日まで\n━━━━━━━━━━━━━━━━\n\nINUWASI FREE LIVE〝狗祭〟\n\n11.1(日) Spotify O-Crest\nOP18:00 ST18:30\n\n本日10.27(火)23:59まで\n🎟️ inuwasi.nff.ai/ticket A 3,000円(優先エリア)\nB 0円(1D代事前徴収)\n\n10月よりお休みを頂いておりましたINUWASI すずめの復帰ライブ🎊\n\n急遽の開催となりましたが、\n是非お越し下さい！\n\n-特典会に関してお願い\n\nすずめの特典会はお一人様1回のみのご参加、最初に形成された特典会列の最後尾で終了とさせて頂きます。\n特典会時は「筆談」「音声アプリを使用」となる場合もございますので予めご了承ください。 #INUWASI",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "INUWASI",
-      "screen_name": "INUWASI_O",
-      "avatar": "https://pbs.twimg.com/profile_images/2105107021687373824/hz67DWxG_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 1,
-      "replies": 0,
-      "quotes": null,
-      "views": 227
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVpHsf6aUAAGZOB.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVpHsfyboAEwaC9.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVjH21vbAAAJL5-.jpg?name=large&format=webp",
-      "https://pbs.twimg.com/media/HVjH21wakAA5eNN.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": {
-      "id": "2114688508497678515",
-      "url": "https://x.com/INUWASI_O/status/2114688508497678515",
-      "text": "",
-      "author": {
-       "name": "INUWASI",
-       "screen_name": "INUWASI_O",
-       "avatar": "https://pbs.twimg.com/profile_images/2105107021687373824/hz67DWxG_mini.jpg",
-       "verified": true
-      }
-     },
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081805535813962",
-     "url": "https://x.com/5aQYNIaA7u81933/status/2115081805535813962",
-     "text": "なんか音声途切れちゃて💦",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "太郎",
-      "screen_name": "5aQYNIaA7u81933",
-      "avatar": "https://pbs.twimg.com/profile_images/1875760425117372416/CZDZONmk_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 0
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081805493866923",
-     "url": "https://x.com/ONQn22/status/2115081805493866923",
-     "text": "可能であれば音声もつけて欲しい",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "猫野 凛ノ助🚥",
-      "screen_name": "ONQn22",
-      "avatar": "https://pbs.twimg.com/profile_images/1852694431675437056/su6zGiZl_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 0
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081782853083521",
-     "url": "https://x.com/uwaemi/status/2115081782853083521",
-     "text": "めっちゃ元気(^^)\nお友だちとカラオケしたり出かけたりスポッチャしたり映画見たりお食事会したりw\n趣味の手芸したり大忙しなんだそうです😂",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "宇和川 恵美@ハリウッド式音声学ボイトレ VP認定コーチ",
-      "screen_name": "uwaemi",
-      "avatar": "https://pbs.twimg.com/profile_images/1126092938042195970/9KEOnxbC_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 0
-     },
-     "photos": [],
-     "videos": [],
      "card_image": "",
      "quoted": null,
      "is_retweet": false,
@@ -1369,7 +68,7 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 0
+      "views": 37
      },
      "photos": [
       "https://pbs.twimg.com/media/HVpHpteWoAEEPLP.jpg?name=large&format=webp"
@@ -1390,16 +89,16 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081773315170714",
-     "url": "https://x.com/hamanontan/status/2115081773315170714",
-     "text": "【音声配信】DeNAの今オフ補強を考える！ 外国人選手の入れ替えとセンター補強の可能性 hamanontan.theletter.jp/post…",
-     "created_at": "2026-10-27T14:02:00+00:00",
+     "id": "2115080497084997821",
+     "url": "https://x.com/hannah03rl8/status/2115080497084997821",
+     "text": "💕 🥰 🤩 🎊 🔥\n💫 语音😃 视频爱爱🤩 手冲👏 粉穴🌟 曝光👍 反差婊😃 高潮😆 绿主🌸 萝莉音🌈 声控💯 恋足🍀 远程遥控🌸 舌吻😎 小狗日记🥰 打胶💝 滴蜡",
+     "created_at": "2026-10-27T13:57:00+00:00",
      "lang": "",
      "author": {
-      "name": "ハマノンタン🦍",
-      "screen_name": "hamanontan",
-      "avatar": "https://pbs.twimg.com/profile_images/944820045884022785/yp7Fr9Wx_400x400.jpg",
-      "verified": true,
+      "name": "Hd",
+      "screen_name": "hannah03rl8",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "verified": false,
       "followers": null,
       "description": ""
      },
@@ -1408,7 +107,155 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 0
+      "views": 83
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVpF1QibAAA3IiP.jpg?name=large&format=webp"
+     ],
+     "videos": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2115079756119171072/pu/vid/avc1/720x1390/WaQhjr9w2qKwInCt.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115079756119171072/pu/img/vkrkohj1fs27qXuE.jpg?name=large&format=webp",
+       "type": "video"
+      }
+     ],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115077087325221214",
+     "url": "https://x.com/byd888969/status/2115077087325221214",
+     "text": "热卖爆款变声手机实时通话变声器语音电话☎️效果演示，另外，需要虚拟视频功能的朋友可以联系我们安排定制……诚信第一，请广大朋友多多支持…… #虚拟视频 #定制 #实时变声 #变音 #素材 #男变女 #女变男 #声优",
+     "created_at": "2026-10-27T13:44:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "Ai实时变声器",
+      "screen_name": "byd888969",
+      "avatar": "https://pbs.twimg.com/profile_images/1993510799776927744/x3_8vvAX_400x400.jpg",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 12
+     },
+     "photos": [],
+     "videos": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2115077026054901760/vid/avc1/720x1280/w_co8CeSe6AV_UEL.mp4",
+       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115077026054901760/img/4GK79y_mhdMqTBJO.jpg?name=large&format=webp",
+       "type": "video"
+      }
+     ],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115072787102711866",
+     "url": "https://x.com/mary46gl3/status/2115072787102711866",
+     "text": "😃 🤩 🙌 💕 💝 😋\n❤️ 视频🌈 自慰😎 走光🌸 声控💪 萝莉音🤩 裸聊🔥 自录😀 视频1v1💕 四爱💪 手冲🤩 肛交🌈 走光💝 声控🎉 小狗🎉 乱伦🌸 喷水",
+     "created_at": "2026-10-27T13:27:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "Fufhff",
+      "screen_name": "mary46gl3",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 77
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo-0vSbUAEalnl.jpg?name=large&format=webp"
+     ],
+     "videos": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2115072050738102272/pu/vid/avc1/720x1280/QfTOHwSGixaIBqUJ.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115072050738102272/pu/img/BdDWtwlHvZYs9HKZ.jpg?name=large&format=webp",
+       "type": "video"
+      }
+     ],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115072710154052058",
+     "url": "https://x.com/leilan_wy_jy/status/2115072710154052058",
+     "text": "称呼： 飞鸟\n推特： @Koshkanana 收费：剧情60半小时，绿奴/脚奴等恶劣xp驯化一次80\n时间：中午—次日四点\n设定：原万粉推飞鸟，主营绿奴 脚奴贡瘾等xp加深💚，音声目录加q私聊获取\n额外：主页有部分绿奴/脚奴xp加深洗脑音声，音视频预览",
+     "created_at": "2026-10-27T13:26:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "文援姬投稿推广~耒兰~leilan",
+      "screen_name": "leilan_wy_jy",
+      "avatar": "https://pbs.twimg.com/profile_images/1960679394969837568/0Fm1LNDj_400x400.jpg",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 110
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo_aHQaoAAybRm.jpg?name=large&format=webp"
+     ],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115068681948709338",
+     "url": "https://x.com/dadaguai666r/status/2115068681948709338",
+     "text": "我好喜欢广西啊，都不想回家了，真想当一个不骑电动车不吃米粉的广西人",
+     "created_at": "2026-10-27T13:10:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "大大王/私聊前先发30否则一律拉黑/07/音声dom/鉴鸡绿帽/情感咨询/羞辱网调/陪伴陪玩",
+      "screen_name": "dadaguai666r",
+      "avatar": "https://pbs.twimg.com/profile_images/2002493147033841666/0i7L4chd_400x400.jpg",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 84
      },
      "photos": [],
      "videos": [],
@@ -1421,36 +268,28 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081767153799397",
-     "url": "https://x.com/YumeNepu/status/2115081767153799397",
-     "text": "今日２回目の音声テスト\nOBSのメーター気にして、以前マイナス４０？とかだったからオーディオインターフェイスのゲインをあげたのだけど、割れてる？それにでかいな以前の設定のままでいいか\n\n左の話していない状態のオーディオンインターフェイスのゲイン（今回上げてやってみた）",
-     "created_at": "2026-10-27T14:02:00+00:00",
+     "id": "2115066414927065290",
+     "url": "https://x.com/XunDavid80270/status/2115066414927065290",
+     "text": "网红报价一条推广视频 250 美元，她没付，自己拍了一条反而成了 App 播放最高的一条。之后让 Claude 找钩子、剪辑、排期，4 天出了 46 条，爬数据不到 10 美元。\n\n我把账补全算了一遍，附 6 步流程和能抄的提示词⬇️ #AI视频 提示词见评论👇",
+     "created_at": "2026-10-27T13:01:00+00:00",
      "lang": "",
      "author": {
-      "name": "ゆめねぷ",
-      "screen_name": "YumeNepu",
-      "avatar": "https://pbs.twimg.com/profile_images/1771801520658616320/k9_yv4Ah_400x400.jpg",
-      "verified": false,
+      "name": "xun david",
+      "screen_name": "XunDavid80270",
+      "avatar": "https://pbs.twimg.com/profile_images/2109533555621777408/DtTBNlDx_400x400.jpg",
+      "verified": true,
       "followers": null,
       "description": ""
      },
      "stats": {
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 1
+      "replies": 2,
+      "quotes": 1,
+      "views": 326
      },
-     "photos": [
-      "https://pbs.twimg.com/media/HVpHdUoaQAA2wVP.jpg?name=large&format=webp"
-     ],
-     "videos": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2115081698765660160/vid/avc1/1280x720/G4v3VUFWCkzlH3L4.mp4",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115081698765660160/img/uc-pA6e4fyK8I9TG.jpg?name=large&format=webp",
-       "type": "video"
-      }
-     ],
+     "photos": [],
+     "videos": [],
      "card_image": "",
      "quoted": null,
      "is_retweet": false,
@@ -1460,43 +299,109 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081764481945653",
-     "url": "https://x.com/airiaiai8/status/2115081764481945653",
-     "text": "ノーコードで「自分専用の生成AIアプリ」が作れる時代に。\n\nRunwayが新機能「App Studio」を発表。欲しいクリエイティブアプリを言葉で説明するだけで、画像・動画・音声を生成するアプリをその場で構築できる。\n\n以下、詳細\n＝＝＝↓↓↓\n\n【App Studioとは】\nRunwayの新機能で、コード不要でカスタムの creative app を作成できるツール。「こんなアプリが欲しい」と自然言語で記述するだけで、Runwayの各種生成モデル（画像・動画・音声）を組み合わせたアプリが自動生成される。\n\n【Brand Kitsとの連携】\n生成されるアプリは、ユーザー自身のBrand Kits（ブランドカラー・ロゴ・トーンなどの素材セット）を反映可能。つまり企業や個人が持つ「世界観」をそのままアプリに落とし込める。\n\n【チームでの利用も想定】\n作成したアプリは個人利用はもちろん、チーム全体で共有・利用できる設計。たとえば「このテンプレートでSNS用動画を量産するアプリ」のような社内ツールを、エンジニア不要で内製化できるのが大きな強み。\n\n【位置づけ】\nこれまでRunwayは動画生成モデル（Gen-3など）単体の提供が中心だったが、App Studioによって「モデルを使ったアプリケーション自体を作る層」に進出。生成AIの民主化がさらに一歩進んだ形。\n\n具体的な活用例はスレッド内の動画で複数紹介されている。",
-     "created_at": "2026-10-27T14:02:00+00:00",
+     "id": "2115066093010309137",
+     "url": "https://x.com/superfang119/status/2115066093010309137",
+     "text": "白色蝴蝶结手势舞，动作顺序对上了，抬手为什么还是慢半拍？这期拆开提示词时点、成片入点与保留的音轨。\n\nAI虚拟角色｜参考改编 #方知微的日常",
+     "created_at": "2026-10-27T13:00:00+00:00",
      "lang": "",
      "author": {
-      "name": "あいり｜海外AIニュースを毎日届ける人",
-      "screen_name": "airiaiai8",
-      "avatar": "https://pbs.twimg.com/profile_images/2021893132229783553/fc_8ZjNi_400x400.jpg",
+      "name": "方知微",
+      "screen_name": "superfang119",
+      "avatar": "https://pbs.twimg.com/profile_images/2071561807714811905/U2AFv-of_400x400.jpg",
       "verified": true,
       "followers": null,
       "description": ""
      },
      "stats": {
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": null,
-      "views": 1
+      "views": 67
      },
      "photos": [],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115065989343941085",
+     "url": "https://x.com/PT3ras/status/2115065989343941085",
+     "text": "国内朋友或家人第一次来日本，最容易被什么吓到？🤣\n\n🚽 马桶：座圈是热的，会冲洗，还能放冲水声（音姬，防尴尬用的）\n🚕 出租车：门自己开、自己关，不少司机还戴白手套 🧤\n🧊 饭店：一坐下先上一杯冰水，大冬天也是冰的 🥶\n🗑️ 大街：走一天找不到一个垃圾桶，可地上就是干净 ✨\n🏪 便利店：能交水电费、寄快递、取演唱会门票 📦🎫\n🥤 自动贩卖机：山脚下、田边上，都能碰到一台 ⛰️\n🚃 电车：一车厢的人，安静得能听见空调声 🤫\n\n最后，回国的箱子里，一半是药妆……🧳💊\n\n你家里人来日本，最惊讶的是哪个？👇",
+     "created_at": "2026-10-27T13:00:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "巨型大头鲨",
+      "screen_name": "PT3ras",
+      "avatar": "https://pbs.twimg.com/profile_images/2108886689393623040/DaVc6Rxp_400x400.jpg",
+      "verified": true,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 2,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": null,
+      "views": 295
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVmZUpdbQAApwuY.jpg?name=large&format=webp"
+     ],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115065374609903740",
+     "url": "https://x.com/this1is1name/status/2115065374609903740",
+     "text": "utau真是一个伟大合成音库\n韩国与中国p主都能拥有了自己的声库，而不用等待官方",
+     "created_at": "2026-10-27T12:57:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "Ensei Teto(袁大T/袁世テト)🟥🟨🟦⬜⬛零食大总统",
+      "screen_name": "this1is1name",
+      "avatar": "https://pbs.twimg.com/profile_images/2109446938437287936/xqNXzKjr_400x400.jpg",
+      "verified": true,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": null,
+      "views": 168
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo08nqa0AAhpqP.jpg?name=large&format=webp"
+     ],
      "videos": [
       {
-       "url": "https://video.twimg.com/amplify_video/2114804967898763264/vid/avc1/1920x1080/BdNS9S-mmkMg4qVA.mp4",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2114804967898763264/img/zIMYPBylhSzTZuGt.jpg?name=large&format=webp",
+       "url": "https://video.twimg.com/amplify_video/2115061502067793920/vid/avc1/1920x1080/ldSsKcIe8b96nDyt.mp4",
+       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115061502067793920/img/sVtwk5WxqMl8gw0U.jpg?name=large&format=webp",
        "type": "video"
       }
      ],
      "card_image": "",
      "quoted": {
-      "id": "2114805465658036425",
-      "url": "https://x.com/runwayml/status/2114805465658036425",
+      "id": "2115061633974464938",
+      "url": "https://x.com/Hmmna_/status/2115061633974464938",
       "text": "",
       "author": {
-       "name": "Runway",
-       "screen_name": "runwayml",
-       "avatar": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_mini.jpg",
+       "name": "엥제가해요?",
+       "screen_name": "Hmmna_",
+       "avatar": "https://pbs.twimg.com/profile_images/2039017183691563008/chRFy1on_mini.jpg",
        "verified": true
       }
      },
@@ -1507,15 +412,15 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081753681617169",
-     "url": "https://x.com/inotakacha6sub/status/2115081753681617169",
-     "text": "誰か音声ガイドの画録送ってー！！！",
-     "created_at": "2026-10-27T14:02:00+00:00",
+     "id": "2115064842147008559",
+     "url": "https://x.com/jessica07gn1/status/2115064842147008559",
+     "text": "🍁裸聊 🍫乳交  🐙女菩萨  🤖视频爱爱  🐜夹子音  ⤴瑜伽  ℹ舌吻 🌝乱伦  🍲虚拟女友  🍅上贡  🍧眼睛婊  🪑女S  🚍阿黑颜 🥡线上做爱  🤥男铲  🧙NTR  ⛵贱货  🎦声控  🦳曝光",
+     "created_at": "2026-10-27T12:55:00+00:00",
      "lang": "",
      "author": {
-      "name": "さ や ち ゃ む",
-      "screen_name": "inotakacha6sub",
-      "avatar": "https://pbs.twimg.com/profile_images/1609565965242490882/kIHHsgcn_400x400.jpg",
+      "name": "H",
+      "screen_name": "jessica07gn1",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
       "verified": false,
       "followers": null,
       "description": ""
@@ -1525,316 +430,15 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 0
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081747205677343",
-     "url": "https://x.com/wing_starblue/status/2115081747205677343",
-     "text": "へへ、、ほんとは買うつもりなくてちらっと覗き行っただけだったのにセール会場には勝てず🤣今回音声作品クーポンだったので好きな声優さんのアレでソレなやつを色々買っちゃいました🎤😳😳🫣",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "遊依",
-      "screen_name": "wing_starblue",
-      "avatar": "https://pbs.twimg.com/profile_images/1496009861595033601/4ZMOnVgL_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 4
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081715286946069",
-     "url": "https://x.com/awarenari05/status/2115081715286946069",
-     "text": "zeta界隈ってスペース文化が盛んだなあと思って眺めていますが、ものあわは単純に音声を聞きながら何かができない性質なのでどなたのスペにもおじゃま出来ず、ひとり布団でzetaをするだけのエビフライ",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "もののあわれ",
-      "screen_name": "awarenari05",
-      "avatar": "https://pbs.twimg.com/profile_images/2113255027771064320/J2TkafO0_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 5
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081698161651792",
-     "url": "https://x.com/playaworkic/status/2115081698161651792",
-     "text": "一週間単位のこんな調査があるのね。驚き。\n私なら、スマホに自動音声の着信があったら速攻で切っちゃうわ。どうでもいいけど。",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "playaworkic",
-      "screen_name": "playaworkic",
-      "avatar": "https://pbs.twimg.com/profile_images/378800000724898781/4091d3eca1c909d1c05b726355657997_400x400.jpeg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 0
+      "views": 102
      },
      "photos": [
-      "https://pbs.twimg.com/media/HVmP3oGboAAC4py.jpg?name=large&format=webp"
+      "https://pbs.twimg.com/media/HVo4QI0WwAAv4Yn.jpg?name=large&format=webp"
      ],
-     "videos": [],
-     "card_image": "",
-     "quoted": {
-      "id": "2114880090274513080",
-      "url": "https://x.com/okayu_chika_uta/status/2114880090274513080",
-      "text": "",
-      "author": {
-       "name": "おかゆ🇯🇵",
-       "screen_name": "okayu_chika_uta",
-       "avatar": "https://pbs.twimg.com/profile_images/1464962249035251712/tBNES_dP_mini.jpg",
-       "verified": false
-      }
-     },
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081666440102192",
-     "url": "https://x.com/HoshikageLapis/status/2115081666440102192",
-     "text": "#BGかなるフェス にてこざくら様に等身イラストを描いていただきましたー♡\n\nザ・アイドルって感じのすごく可愛いイラストに仕上げていただきました∩^ω^∩嬉",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "星影ラピス⭐️🐏@合成音声ソフト『星影ラズリ』発売中！",
-      "screen_name": "HoshikageLapis",
-      "avatar": "https://pbs.twimg.com/profile_images/1811661849638895620/lfxgmtOF_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 172
-     },
-     "photos": [
-      "https://pbs.twimg.com/media/HVm3bBAaoAAQdMv.jpg?name=large&format=webp"
-     ],
-     "videos": [],
-     "card_image": "",
-     "quoted": {
-      "id": "2115020682203447766",
-      "url": "https://x.com/koza__mom0/status/2115020682203447766",
-      "text": "",
-      "author": {
-       "name": "🌸👼こざくら👼🌸",
-       "screen_name": "koza__mom0",
-       "avatar": "https://pbs.twimg.com/profile_images/2110230118526578688/DF99uNIm_mini.jpg",
-       "verified": false
-      }
-     },
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081666087837940",
-     "url": "https://x.com/soramii66/status/2115081666087837940",
-     "text": "ストスト初回の反省活かして変えたこと\n◎録音用のピンマイク持つ位置\n左手指にゴムで巻きつけてシーバー上部に当たるように持つ\n→シーバー上部前面（耳当てるとこ）にゴムで巻きつけた\n\n初回終了後動画見返したら音声が小さく感じて位置変えた！",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "そらみ",
-      "screen_name": "soramii66",
-      "avatar": "https://pbs.twimg.com/profile_images/2102693520872271872/oUg70dlz_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": null,
-      "views": 5
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081656495374600",
-     "url": "https://x.com/tanizoradio/status/2115081656495374600",
-     "text": "1人喋りのPodcast更新！\n今回はみんな気になる『死んだ後の世界はホントにあるの？』がテーマです！\n夢か現かわからぬ世界を語っていますので聴いてみてね！🙌 #うわのそら #Podcast #音声配信 open.spotify.com/episode/25m…",
-     "created_at": "2026-10-27T14:02:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "うわのそら 〜たにぞーらじお〜 【公式】Podcast",
-      "screen_name": "tanizoradio",
-      "avatar": "https://pbs.twimg.com/profile_images/2000493572882370560/hyFbyu5s_400x400.jpg",
-      "verified": false,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 2
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081523279827235",
-     "url": "https://x.com/uwaemi/status/2115081523279827235",
-     "text": "みるちゃん♡ありがとうー！\n来月会えるのめっちゃ楽しみにしてるね！🥰",
-     "created_at": "2026-10-27T14:01:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "宇和川 恵美@ハリウッド式音声学ボイトレ VP認定コーチ",
-      "screen_name": "uwaemi",
-      "avatar": "https://pbs.twimg.com/profile_images/1126092938042195970/9KEOnxbC_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 2
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081513671000085",
-     "url": "https://x.com/pantheo27705718/status/2115081513671000085",
-     "text": "ごく最近、論文紹介してもXなどではTLに流れ去ってしまうなと思い、ホームページにも掲載し始めました\nさてさて需要があるでしょうか（モチベーションの問題）\n例として、パキケファロサウルス類と推定される舌骨の構成要素の最初の発見例\nなお、ページの最下部に、その論文の音声解説（ポッドキャストのようなもの）も載せています。音声解説は短いもので14分程度から長いもので20分近くまでです dinopantheon.org/2026/10/22/…",
-     "created_at": "2026-10-27T14:01:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "パンテオン",
-      "screen_name": "pantheo27705718",
-      "avatar": "https://pbs.twimg.com/profile_images/875902673517543424/rXVuFBHw_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 46
-     },
-     "photos": [],
-     "videos": [],
-     "card_image": "",
-     "quoted": null,
-     "is_retweet": false,
-     "retweeted_by": null,
-     "possibly_sensitive": false,
-     "source": "nitter",
-     "via": "Nitter · teapawt.org"
-    },
-    {
-     "id": "2115081494129742205",
-     "url": "https://x.com/HanaHana_1004_/status/2115081494129742205",
-     "text": "行ってきました新宿ユニカビジョン✨\n11/2まで\n⚠️音声調整済み。音量注意 #迷走路_WAY_OUT #DANCE_ON_THE_EARTH #nSSign",
-     "created_at": "2026-10-27T14:01:00+00:00",
-     "lang": "",
-     "author": {
-      "name": "hanahana",
-      "screen_name": "HanaHana_1004_",
-      "avatar": "https://pbs.twimg.com/profile_images/1797313029232881664/63gDkmkv_400x400.jpg",
-      "verified": true,
-      "followers": null,
-      "description": ""
-     },
-     "stats": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": null,
-      "views": 6
-     },
-     "photos": [],
      "videos": [
       {
-       "url": "https://video.twimg.com/amplify_video/2115081417948573696/vid/avc1/540x960/jpLXbmVjnb2u0dWU.mp4",
-       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2115081417948573696/img/V2e_Bqy4x-Cnwlbp.jpg?name=large&format=webp",
+       "url": "https://video.twimg.com/ext_tw_video/2115064826888151040/pu/vid/avc1/720x1280/QEIQt9V94nNZ9QPC.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115064826888151040/pu/img/tfXaDiRULBFJC0KK.jpg?name=large&format=webp",
        "type": "video"
       }
      ],
@@ -1847,15 +451,15 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081480015958195",
-     "url": "https://x.com/liueo39/status/2115081480015958195",
-     "text": "MZMはちすの副音声聞きつつ見返してたんですがランウェイまじでいい曲だし演出良すぎる そしてesoraumaさんは曲作りがうますぎる",
-     "created_at": "2026-10-27T14:01:00+00:00",
+     "id": "2115064607211688170",
+     "url": "https://x.com/alyssa99bl1/status/2115064607211688170",
+     "text": "❤️ 💯 ✨ 😄 😆 😁\n🥳 真空袋😍 一对一💯 倒计时🙌 乱伦💫 手冲😄 留学生😎 教师😎 御姐音💖 熟女😆 出卖🤩 视频裸聊🥰 爆菊🌸 真空袋🤩 声控😆 裸聊视频💝 自慰",
+     "created_at": "2026-10-27T12:54:00+00:00",
      "lang": "",
      "author": {
-      "name": "りるれろ",
-      "screen_name": "liueo39",
-      "avatar": "https://pbs.twimg.com/profile_images/1318737314151985152/_uHmONAr_400x400.jpg",
+      "name": "Vugug",
+      "screen_name": "alyssa99bl1",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
       "verified": false,
       "followers": null,
       "description": ""
@@ -1865,7 +469,79 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 0
+      "views": 109
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo3UvzbcAEeLyb.jpg?name=large&format=webp"
+     ],
+     "videos": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2115063808767234048/pu/vid/avc1/720x1280/V80RXTzyO-vkCnQW.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115063808767234048/pu/img/dJUXbu7L_AfNXzgp.jpg?name=large&format=webp",
+       "type": "video"
+      }
+     ],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115063134490890489",
+     "url": "https://x.com/patrici4071579/status/2115063134490890489",
+     "text": "黑客要吹角赞美他，要鼓瑟弹琴赞美他。4要查聊天记录击鼓开盒跳舞赞美他，要弹奏丝弦的查个人信息乐器和吹箫赞美他。5要用声查开房记录音洪亮的查快递地址钹赞美他，要用声音铿锵的钹赞美他。6凡有气息的个人资料，都要赞查工作单位美耶和华。你们要赞美耶和华查信息。",
+     "created_at": "2026-10-27T12:48:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "patricia",
+      "screen_name": "patrici4071579",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 9
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo2tUObEAA25to.jpg?name=large&format=webp"
+     ],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115062396285059435",
+     "url": "https://x.com/HytidelLegend/status/2115062396285059435",
+     "text": "小红书电商教程继续连载\n\n今天讲带货笔记的制作之，live 图、科普类图文、视频混剪",
+     "created_at": "2026-10-27T12:45:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "Hytidel聊商业（文章更多干货）",
+      "screen_name": "HytidelLegend",
+      "avatar": "https://pbs.twimg.com/profile_images/2001728758534017027/p51Tlbn5_400x400.jpg",
+      "verified": true,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 21,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 1,
+      "views": 1618
      },
      "photos": [],
      "videos": [],
@@ -1878,15 +554,15 @@
      "via": "Nitter · teapawt.org"
     },
     {
-     "id": "2115081413586538831",
-     "url": "https://x.com/kaina1981/status/2115081413586538831",
-     "text": "でも、VOHさんが副音声で｢きーさん｣と呼んでるDVDがどれか忘れてしまって…💦\n教えて、有識者！🙇",
-     "created_at": "2026-10-27T14:01:00+00:00",
+     "id": "2115061546372243898",
+     "url": "https://x.com/YonathanCo31232/status/2115061546372243898",
+     "text": "源头币商： @TamayoGtz 【验货再付款】\n图书馆里人高仿RMB不多精仿人民币，安静得能听见翻书的声假币音。林夏还假钞了书，又借了几本，都是小说。顾淮假钱在建筑类书架前站了很久，翻着一本关于古高仿假钞建精仿假钞筑修复的书，舍不得放下。林夏催他：精仿RMB“借回去看。”他摇高仿人民币头",
+     "created_at": "2026-10-27T12:42:00+00:00",
      "lang": "",
      "author": {
-      "name": "かいな",
-      "screen_name": "kaina1981",
-      "avatar": "https://pbs.twimg.com/profile_images/1937825829733429248/2_LQvd5R_400x400.jpg",
+      "name": "Yonathan Cordero",
+      "screen_name": "YonathanCo31232",
+      "avatar": "https://pbs.twimg.com/profile_images/2105492708806574080/349djcLT_400x400.jpg",
       "verified": false,
       "followers": null,
       "description": ""
@@ -1896,7 +572,141 @@
       "retweets": 0,
       "replies": 0,
       "quotes": null,
-      "views": 2
+      "views": 5
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVo1OeAWIAABjqu.jpg?name=large&format=webp"
+     ],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115055105145987545",
+     "url": "https://x.com/change12207/status/2115055105145987545",
+     "text": "姆巴佩和中国企业暂停合作，哈兰德才发的nice，不然发到抖音干嘛，到你的狗嘴里白的都能说成黑的😂",
+     "created_at": "2026-10-27T12:16:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "万籁皆寂无声",
+      "screen_name": "change12207",
+      "avatar": "https://pbs.twimg.com/profile_images/1711982406834823168/L_O_Q2J0_400x400.jpg",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 4815
+     },
+     "photos": [],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115053714394538185",
+     "url": "https://x.com/kimberly60hz1/status/2115053714394538185",
+     "text": "🙅〰\n🦂裸聊 ↕每日大赛 🧦母狗 ⬇跳蛋 🎷走光 🍍陪聊 🛹声控 🎋白虎 🤎女主播 🧉阿黑颜 📤线上做爱 🤽金铲铲 ➖ATM奴 😞萝莉音 🏐御姐 🎴虚拟女友 🌘女S\n\n.",
+     "created_at": "2026-10-27T12:11:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "kimberly",
+      "screen_name": "kimberly60hz1",
+      "avatar": "https://pbs.twimg.com/profile_images/2114096814504673280/wkrTrMuw_400x400.jpg",
+      "verified": false,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": null,
+      "views": 168
+     },
+     "photos": [
+      "https://pbs.twimg.com/media/HVouIrWbUAEyB_i.jpg?name=large&format=webp"
+     ],
+     "videos": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2115053703652839424/pu/vid/avc1/720x1280/CX8Ay109vxSWm9h9.mp4?tag=12",
+       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2115053703652839424/pu/img/Kbwjya3nC-IegSq8.jpg?name=large&format=webp",
+       "type": "video"
+      }
+     ],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115045418845503992",
+     "url": "https://x.com/x11x90/status/2115045418845503992",
+     "text": "不要碰抖音女主播，不要碰，不要碰！\n\n抖音女主播，我愿称之为捞女中的战斗机，\n\n每天搔首弄姿就有大哥送礼物，\n\n你以为大哥给她刷礼物，就听一声哥哥？\n\n有一个算一个，\n\n刷礼物的全是线下开房爽过的，\n\n你就去数数有几个吧！",
+     "created_at": "2026-10-27T11:38:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "小学僧",
+      "screen_name": "x11x90",
+      "avatar": "https://pbs.twimg.com/profile_images/2055584614287323136/QkKgntw__400x400.jpg",
+      "verified": true,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": null,
+      "views": 541
+     },
+     "photos": [],
+     "videos": [],
+     "card_image": "",
+     "quoted": null,
+     "is_retweet": false,
+     "retweeted_by": null,
+     "possibly_sensitive": false,
+     "source": "nitter",
+     "via": "Nitter · teapawt.org"
+    },
+    {
+     "id": "2115045409177698784",
+     "url": "https://x.com/dog_not_ai/status/2115045409177698784",
+     "text": "微信视频通话那头，看着熟悉的朋友甚至领导的脸，听着一模一样的声音，催你立刻转账救急……千万别转，你正在面对一场黑客操纵的“实时AI换脸”深度伪造局",
+     "created_at": "2026-10-27T11:38:00+00:00",
+     "lang": "",
+     "author": {
+      "name": "老狗",
+      "screen_name": "dog_not_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2056936219293167616/_BSJBFsm_400x400.jpg",
+      "verified": true,
+      "followers": null,
+      "description": ""
+     },
+     "stats": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": null,
+      "views": 378
      },
      "photos": [],
      "videos": [],
